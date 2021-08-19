@@ -1,1 +1,0 @@
-#Projeto de tradução Batlefield Bad Company 2 PS3
