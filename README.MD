@@ -1,1 +1,1 @@
-# Projeto de tradução Batlefield Bad Company 2 PS3
+# Projeto de tradução Battlefield Bad Company 2 PS3
