@@ -1662,7 +1662,7 @@ Mexam-se, Aguire está por perto.
 ESCOLHA SUA ARMA
 Parem, quietos.. ouvi algo...
 Disparar
-Bravo 2, já foram duas estações, só falta uma. ½O sinal está quase isolado, mas uh... estou captando muita conversa em russo. ½Creio que os está cercando. Motorista Fantasma desligando.
+Bravo 2, já foram duas estações, só falta uma. ½O sinal está quase isolado, mas uh... estou captando muita conversa em russo. ½Creio que os está cercando. Motoqueiro Fantasma desligando.
 
 
 REQUISIÇÃO DE AMIZADES
@@ -2394,7 +2394,7 @@ RECOLHER OURO
 CURAS PARA PRÓX. NÍV.
 PESADO
 Bom trabalho, Pres.
-Bravo 2, aqui é Motorista Fantasma. Estou captando comunicações da milícia em canais ½não seguros sobre alguém que pode ser nosso agente. Eles o estão removendo, pessoal.
+Bravo 2, aqui é Motoqueiro Fantasma. Estou captando comunicações da milícia em canais ½não seguros sobre alguém que pode ser nosso agente. Eles o estão removendo, pessoal.
 Desculpe 2, negativo, há muito ruído de onde ½estão transmitindo.
 AGORA NÃO HÁ PARTIDAS DISPONÍVEIS
 MUDAR VISÃO DO MAPA
@@ -3925,7 +3925,7 @@ Voz Adicional
 PADRÃO
 O DISPOSITIVO DE ARMAZENAMENTO FOI REMOVIDO DURANTE O USO. ERRO AO EXCLUIR.
 RTRIGGER
-Bravo 2-4, aqui é Motorista Fantasma. ½Não sei se você já encontrou o barco, ou se é um mesmo um barco. ½Mas estou fazendo uma prece por você, cara.
+Bravo 2-4, aqui é Motoqueiro Fantasma. ½Não sei se você já encontrou o barco, ou se é um mesmo um barco. ½Mas estou fazendo uma prece por você, cara.
 
 PARABÉNS! VOCÊ DESBLOQUEOU O EXCLUSIVO MELHORAMENTO DO KIT MÉDICO, CONTENDO NOVA CAMUFLAGEM, RECOMPENSAS, UMA CONQUISTA E UMA VERSÃO ESPECIAL DA ARMA MG3.
 Marlowe, vá pegar o RPG no terraço ali em cima!
@@ -4080,7 +4080,7 @@ CONHEC. ENGENHEIRO A.E. ({2:S} PTOS)
 MMN
 Este treinamento dá ao soldado um aprimoramento de precisão para todas as armas de mão.
 PRÁTICAS DE PONTARIA
-Bravo 2, aqui é Motorista Fantasma. Pare... Você chamou um cometa ou algo assim? ½Oh, antes que me esqueça, está se aproximando uma tempestade realmente forte. ½Só para você saber, cara.
+Bravo 2, aqui é Motoqueiro Fantasma. Pare... Você chamou um cometa ou algo assim? ½Oh, antes que me esqueça, está se aproximando uma tempestade realmente forte. ½Só para você saber, cara.
 
 CONFIGURAÇÕES AVANÇADAS
 Escopeta de bomba. 4 balas. Potência muito alta. Alcance muito curto. Mobilidade alta.
@@ -4117,6 +4117,7 @@ PT. ESQUADRÃO
 Inimigo às doze horas!
 É melhor nos apressarmos, Aguire já pode estar virando fertilizante.
 ARTILHEIRO
+Junior Product Manager
 Muito valente, Marlowe. Agora exploda o caminhão.
 Relaxe, Hags. Marlowe fará as honras. Preston, o detonador.
 Faça agora, Pres.
@@ -4135,26 +4136,27 @@ REQUISITOS
 Veículo de combate da infantaria aerotransportada.  Algumas vezes chamado de tanque leve, embora bem blindado e equipado com um canhão automático de 30mm e uma torre de 12.7mm. 4 assentos com 2 passageiros em postos de disparo.
 100 mortes usando o kit médico das Ações Especiais
 CONHEC. MÉIDO DAS A.E. ({2:S} PTOS)
-Ah, vamos destruir tudo.
+Ah, Este é o mundo recebendo dor pra caralho.
 VOCÊ FOI DESCONECTADO DA XBOX LIVE
-Bravo 2, aqui é Motorista Fantasma, ainda há inimigos ½ativos em volta da zona de operações.
+Bravo 2, aqui é Motoqueiro Fantasma, ainda há inimigos ½ativos em volta da zona de operações.
 
 Tanque de batalha principal ultramoderno. Equipado com blindagem avançada, um canhão sem rebarba de 125mm e um metralhadora antiaérea de 12.7 mm. 2 assentos.
 Veículo de terreno leve e rápido equipado com lançador de granadas automático de 25mm e uma metralhadora calibre .50. 4 assentos.
-GATILHO ESQ. 2
-N/D
+LTRIGGER2
 PADRÃO
 DIREITA
 Pacote de blindagem permitindo ao veículo receber um nível de danos mais elevado. 
 Meu Deus, conseguimos!
 Muito bem. Para dentro.
 
+Senior Director Marketing
 CARGAS PARA SEG. NIV.
 Björn Johnsson
 TEMPO
 Como o tempo limpou e a nevasca acalmou, as forças russas estão se reunindo para um ataque no Porto Branco onde está a estação repetidora de satélite. A cidade local não foi atacada, mas as unidades russas estudam levantar defesas em torno da floresta. O setor tem valor estratégico para as forças americanas já que permite o controle das rotas internas. Se a área cair nas mãos dos russos, a linha de avanço estará aberta diretamente para a Baía Nelson. 
 PORTO BRANCO
 _
+SELECIONAR MÚSICA
 PONT. ASSALTO
 Você deve afastá-los, Marlowe!
 HEAVY METAL DESC
@@ -4163,7 +4165,7 @@ Virar à esquerda
 Essa poderia ser uma missão bem curta.
 PROGRESSO
 Carabina automática. 30 balas. 600rpm. Precisão média. Alcance curto. Potência média. Mobilidade alta. Silenciosa.
-SCAR
+CICATRIZ
 100 mortes usando o equipamento de reconhecimento das Ações Especiais
 CONHEC. DE RECON. DAS A.E. ({2:S} PTOS)
 Modificação do fuzil de assalto que usa um suporte dianteiro completamente ajustável e uma coronha telescópica para personalizar a arma de acordo com o operador. Quando ajustada corretamente, melhora sensivelmente as características de manuseio e aumenta a precisão do disparo.
@@ -4192,7 +4194,7 @@ ID Online
 EQUIPE INIMIGA
 Mais dois, perto dos oficiais. Espere até ter uma visão clara.
 
-Bravo 2, há um inferno aqui fora, este espaço aéreo é quente demais para mim.½Eles têm superioridade aérea massiva, estarei em comunicação. Motorista Fantasma, desliga.
+Bravo 2, há um inferno aqui fora, este espaço aéreo é quente demais para mim.½Eles têm superioridade aérea massiva, estarei em comunicação. Motoqueiro Fantasma, desliga.
 
 
 
@@ -4203,7 +4205,7 @@ CARACTERÍSTICAS DA ARMA
 Por aqui, parece um túnel de drenagem.
 AJUDA COM TRAÇADOR +{0:s}
 Você tem certeza que deseja trocar de equipe?
-SENHA
+NECESSÁRIO SENHA
 MIRA REFLEX
 Mexa-se, maldição!
 Mira óptica de grande eficiência fornecendo melhor capacidade para apontar e disparar para um combate de curta distância.  Não emite um laser, então é considerado um dispositivo passivo de mira.
@@ -4215,14 +4217,14 @@ Programador online e de persistência
 Mikael Hedberg
 VOCÊ PERDEU A CONEXÃO COM SUA PARTIDA DE AMIGOS.
 MODO DE JOGO
-O venho está começando... Talvez seja uma coisa boa. ½Os russos terão dificuldade ao tentar encontrar o barco e nós.
+O vento está aumentando... Talvez seja uma coisa boa. ½Os russos terão dificuldade ao tentar encontrar a gente eo barco.
 APOIO
-Bravo 2, aqui é o Motorista Fantasma, uh, estou um pouco preocupado com½ vocês aqui, ainda há inimigos em suas posições. Cuidado.
+Bravo 2, aqui é o Motoqueiro Fantasma, uh, estou um pouco preocupado com½ vocês aqui, ainda há inimigos em suas posições. Cuidado.
 O JOGO PARECE ESTAR INDISPONÍVEL, TENTE NOVAMENTE.
 Hora de uma pequena recompensa do Alasca.
 Nunca fracassamos...
 Transporte inimigo às suas doze horas, suas doze horas!
-PAGE UP
+PÁGINA ACIMA
 ALVO DE ALTO VALOR (DESCRIÇÃO)
 Viva 4 de julho, urra!
 ALVO DE ALTO VALOR
@@ -4256,7 +4258,7 @@ Projétil Sabot de calibre 12 que sacrifica potência por precisão a longa dist
 Não...
 COM ESTA CONTA NÃO É PERMITINDO JOGAR ESTE JOGO.
 INFORMAÇÃO: JOGO EM EQUIPE
-Meu Deus, essa passou perto, todos estão bem?
+Meu Deus, essa foi por pouco, todos estão bem?
 
 A gravidade faz a balar cair durante o movimento. Mire acima de seu alvo para conseguir um tiro na cabeça a longa distância.
 Os quadriciclos são ótimos veículos para flanquear, use-os para contornar seu inimigo.
@@ -4281,13 +4283,18 @@ WEB: INÍCIO
 WEB: PARAR
 O vale e as montanhas ao redor possuem um valor estratégico na batalha pela América do Sul. A construção de uma represa nas proximidades foi cessada quando as hostilidades começaram, mas sua presença ainda é fator significativo. Operações com aerotransportados são limitadas, mas ataques com infantaria são apoiadas por veículos de blindagem leve provavelmente de ambos os exércitos. As forças americanas estão reunindo todas as unidades disponíveis para formar uma defesa e fechar a represa para evitar que caia na mão dos russos.
 Uma calibre 50! Dispare nos telhados. Agora!
+US
+NVA
 LAGUNA PRESA
+US
+NVA
 Mas que diabos, atrás de você!
 Cuidado com estes caras, não viemos de tão longe para fracassar agora.
 Continue atento.
 Olha toda esta merda!
 
 LISTA DE AMIGOS
+Product Manager
 Uma calibre 50, merda!
 A fonte, pela fonte. Concentre esta posição.
 ONLINE
@@ -4296,6 +4303,7 @@ Um fuzil de francoatirador de extrema precisão capaz de neutralizar alvos a lon
 Um fuzil de combate semiautomático com 20 balas, compatível com mira telescópica tornando-a ideal para combate de longa distância.
 Um fuzil de assalto de 3 projéteis explosivos, com alta taxa de precisão, mas baixa mobilidade. 
 Um fuzil francoatirador de 5 balas de 7.62 mm capaz de acertar alvos a extremas distâncias com incrível poder de detenção.½
+Lança-chamas portátil capaz de produzir um jato de combustível em chamas. Ideal para limpar bunkers e outros espaços apertados.
 Metralhadora leve 7.62mm disparando 550 balas/minuto de um cinto com 100 balas. Fornece um tiro letal, preciso de longo alcance.
 Fuzil francoatirador calibre 50 desenvolvimento para disparar até 2.000 metros.  ½
 Metralhadora leve alemã que dispara 1.000 balas/minuto de 7.62mm, o cinto de 100 balas adiciona uma quantia incrível de balas ao alvo.½
@@ -4313,10 +4321,11 @@ PARA VER AS INFORMAÇÕES PARA ESTE ITEM, POR FAVOR VÁ PARA A PÁGINAS DE DETAL
 SALVANDO‚
 JOGAR COM AMIGOS
 Metralhadora leve chinesa 5.8mm de nova geração. Operada a gás, ar refrigerado, automática com taxa cíclica de 650 balas por minuto. Esta versão modificada também inclui mira reflex.
-Inimigo na habitação!
+Inimigo na sala!
 DESTRUA AS ESTAÇÕES DE COMUNICAÇÃO
 ]
 AT
+NOVO MELHOR TEMPO
 <{0:s}SUICÍDIO>
 Perdemos um caminhão! Olhe onde vocês atiram!
 Escopeta automática. 7 balas. Potência média. Alcance muito curso. Mobilidade alta.
@@ -4329,33 +4338,46 @@ Mate-o.
 {0:s}<FUZIL DE ASSALTO ABAKAN AN-94>
 <DESTRUIÇÃO 2.0>
 {0:s}<BMD-3 BAKHCHA>
+{0:s}<CAV>
 {0:s}<COBRA 4WD>
 James Harrison
 {0:s}<GRANADA DE MÃO>
+{0:s}<UH-1>
 {0:s}<HMMWV 4WD>
 {0:s}<METRALHADORA PESADA>
 {0:s}<M136 AT4>
+{0:s}<M14>
 {0:s}<M16A2 SA>
+{0:s}<M16>
 {0:s}<THOMPSON M1A1 2aGM>
 {0:s}<TANQUE M12AE ABRAMS>
+{0:s}<M21>
 {0:s}<M249 SAW>
 {0:s}<M2 CARL GUSTAV AT>
 {0:s}<M3A3 BRADLEY>
+{0:s}<M40>
 {0:s}<FUZIL DE ASSALTO M416>
 {0:s}<M4A1>
+{0:s}<M60>
+{0:s}<M79>
 {0:s}<PISTOLA M93R BURST>
 {0:s}<FUZIL DE FRANCOATIRADOR M95SA>
 {0:s}<METRALHADORA LEVE MG36>
 {0:s}<METRALHADORA MG3 SA>
 {0:s}<HELICÓPTERO HIND MI-24>
 {0:s}<HELICÓPTERO HAVOC MI-28>
+{0:s}<PBR>
+{0:s}<MARK V SPECACT>
 {0:s}<QUADRICICLO>
 {0:s}<LANÇA-GRANADAS ANTITANQUE RPG-7>
+{0:s}<RPK>
 {0:s}<ESCOPETA SEMIAUTOMÁTICA SAIGA 20K>
 {0:s}<CARABINA SCAR-L>
 {0:s}<ESCOPETA DE ASSALTO TOZ-194>
 {0:s}<FUZIL DE FRANCOATIRADOR SNAIPERSKAYA SV98>
+{0:s}<SVD>
 {0:s}<TANQUE T-90 MBT>
+{0:s}<TNT>
 {0:s}<CANHÃO ANTITANQUE>
 {0:s}<FUZIL DE ASSALTO UMP-45 SA>
 {0:s}<VODNIK 4WD>
@@ -4368,16 +4390,18 @@ Chefe de arte
 MIRE PARA A CAIXA FECHADA QUANDO ESTIVER COM ZOOM
 Onde está Haggard e o que você fez com ele?
 ATACANTES GANHARAM!
-MISSÃO NÃO CUMPRIDA - SEU VEÍCULO FOI DESTRUÍDO
+MISSÃO FALHOU - SEU VEÍCULO FOI DESTRUÍDO
 MINHAS ESTATÍSTICAS
 NENHUM DE SEUS AMIGOS ESTÁ NA CLASSIFICAÇÃO DE BATTLEFIELD BAD COMPANY 2
 TENHO MUNIÇÃO
 PADRÃO
 Diretores de desenvolvimento
+Senior Testers
 CANCELAR
 Estão derrubando a porta, para trás!
 AGUARDE‚
-Não pare! Mexa-se! Mexa-se!
+Suplemento médico de emergência. Composto químico forte capaz de reverter a parada cardíaca. Aviso: o uso indevido pode ser fatal.
+Não pare, porra! Mexa-se! Mexa-se!
 O tanque foi destruído.. O tanque foi destruído.
 VOCÊ NÃO TEM AMIGOS ONLINE!
 ATIVAR PUNKBUSTER
@@ -4385,7 +4409,7 @@ ACEITAR TERMOS
 RECARREGAR
 Maldito seja, não vejo nada!
 ARMA FAVORITA:
-Bravo 2, aqui é Motorista Fantasma, acho que você está livre, ½pode dar um passeio.
+Bravo 2, aqui é Motoqueiro Fantasma, acho que você está livre, ½pode dar um passeio.
 ID Online
 CONQUISTA
 ASSALTO
@@ -4396,9 +4420,9 @@ Certo, tenho alguns brinquedos por aqui se oxidando, se quiser.
 Mas colocarei no ar por você, que tal?
 
 
-Bravo 2, aqui é Motorista Fantasma. ½É, eu vi um prédio interessante ali perto da torre, talvez seus homens queiram verificá-lo.
+Bravo 2, aqui é Motoqueiro Fantasma. ½É, eu vi um prédio interessante ali perto da torre, talvez seus homens queiram verificá-lo.
 
-Alcance ao alvo, 8-0.
+Próximo ao alvo, 8-0.
 MANEJO
 Maldito seja!
 VOCÊ NÃO ESCOLHEU UM PERFIL DE JOGADOR. JOGAR NA XBOX LIVE NÃO SERÁ POSSÍVEL. PARA JOGAR ONLINE, POR FAVOR ESCOLHA UM PERFIL DE JOGADOR VÁLIDO.
@@ -4431,7 +4455,8 @@ Soldados de elite são mais difíceis de matar e mais ágeis em ação que solda
 Use granadas de mão ou C4 para eliminar inimigos concentrados em um pequeno espaço.
 Espere que a artilharia termine o bombardeio antes de continuar.
 Alguns inimigos virão procurá-lo caso você se esconda, ou destruirão a cobertura que você usar.
-VERT. DE VISTA
+M10
+VISTA VERTICAL
 Programador líder de IA
 Eu vi indivíduos no alto da colina... Às três horas. A cem metros, lançadores de granadas.
 É isso, em marcha.
@@ -4446,35 +4471,38 @@ CONECTANDO
 PROBLEMA DE CONEXÃO
 SUPRIMENTOS LANÇADOS
 HISTÓRIA
+Level Designers
 Esquadrão de Assalto é um teste de habilidade e resistência a unidade do jogo em equipe. Duas equipes de quatro membros batalham em duas estações de comunicação e em modo de jogo regular, a equipe deve destruir estação objeto antes de ficar sem reforços.
 Encontre alguma cobertura, rápido!
 MORTEIRO
 Muito bem, todos comigo. Olhos abertos.
 Ajudantes de engeneiro
 Explora a lista de jogadores das equipes
-Os americanos se foram?
+Os americanos já foram?
 É, certo, três resultados. Estou adicionando em seu mapa de navegação.
 ENCONTRAR ESQUADRÃO
 Você está na equipe de defesa. Defensa as estações de comunicação marcadas com triângulos. Recue se as bases caírem!
 Eles têm explosivos no túnel, estejam atentos.
 Um engeneiro das Ações Especiais é tanto uma ameaça quanto um salvador para veículos de ambos os lados, equipado com a ferramenta de reparo e armas antiveículos. Prefere a metralhadora UMP45 SA.
-Helicóptero inimigo, abaixados e cobertos!
+Helicóptero inimigo, abaixem e se cubram!
 TEMPO JOGADO
 EQUIPE DE OPERAÇÕES
 BOTÕES AERON.
 DESBLOQUEADA ESCOPETA DE SOLDADO: ESCOPETA DE ASSALTO 870
-Bravo 2, aqui é Motorista Fantasma, há uma caixa lá fora½esperando por você.
+Battlefield Franchise Art Director
+Bravo 2, aqui é Motoqueiro Fantasma, há uma caixa lá fora½esperando por você.
 
 
 
 
 Há um maldito Zeus na colina!
-Ei, Marlowe... Aqui é Motorista Fantasma... Oh, não sei se você pode me ouvir... ½Só quero que você saiba que encontramos com a unidade... ½E ouça, parece que você está chutando uns traseiros e fazendo novos amigos por aí. ½Os russos temem a você... Estão fugindo, huh, continue em frente, cara...
+Ei, Marlowe... Aqui é Motoqueiro Fantasma... Oh, não sei se você pode me ouvir... ½Só quero que você saiba que encontramos com a unidade... ½E ouça, parece que você está chutando uns traseiros e fazendo novos amigos por aí. ½Os russos temem a você... Estão fugindo, huh, continue em frente, cara...
 
 
 
 
 Cuidado com a extremidade, Preston, é uma longa queda!
+TEMPORIZADOR INICIADO
 CANHOTOS
 FUMAÇA V
 Um sistema de granada de fumaça que consistente de 6 lançadores.  Quando disparo, cria uma cortina de fumaça em 360 graus ao redor do veículo.  Encobre equipamento e equipe da mira de tiro inimiga. ½
@@ -4490,7 +4518,7 @@ Fiquem atentos.
 ANTIGO
 NS 2000
 OPÇÕES DE SOM
-Aqui é Motorista Fantasma, uh, lancei outra caixa½no ar para você, verifique seu mapa no PDA para a localização.
+Aqui é Motoqueiro Fantasma, uh, lancei outra caixa½no ar para você, verifique seu mapa no PDA para a localização.
 PARA LANÇAR BOMBARDEIO DE MÍSSEIS
 Uma variação da semiautomática M82A1, a empunhadura adiantada da M95 reduz o tamanho, mas mantém o tamanho do tambor. Esta versão modificada também inclui uma mira telescópica com zoom mais curto.
 SIM
@@ -4503,7 +4531,7 @@ Ataque!
 HISTÓRIA E CINEMÁTICA
 O Pacote Sensor de Veículo localiza e exibe as posições inimigas nas proximidades do veículo.
 DESTACAMENTO AMERICANO
-PRIVADA
+PRIVADO
 É, não virá em paz, vai vir gritando como um bebezinho.
 PARTIDA EM EQUIPE PRIVADA
 O BATE-PAPO ESTÁ DESATIVADO EM SUA CONTA DA PlayStation®Network DEVIDO ÀS RESTRIÇÕES DE CONTROLE DOS PAIS.
@@ -4521,6 +4549,7 @@ ESQUADRÃO ECHO
 Maldição. Prepare-se para os inimigos!
 Uma escopa de bomba cal. 12. Desenvolvida originalmente para o exército russo, mas nunca foi adotada em serviço. Ao invés disso, ganhou popularidade com atiradores esportivos e forças de segurança internacionais.
 Vamos! Vamos, os helicópteros estão chegando!
+RODADA ALCANÇADA
 UNIR-SE A XBOX LIVE PARTY
 Este software é para propósitos de avaliação somente e não representa a versão final do produto. ½½Não pode ser vendido, alugado ou reproduzido em qualquer parte. ½½Qualquer uso não autorizado deste software é proibido de acordo com a lei aplicável.
 Gerente de RP
@@ -4529,23 +4558,27 @@ MEU SOLDADO
 Parece que o veículo inimigo foi por aqui.
 O que há dentro desta coisa, nós sabemos?
 Merda, não gosto como soa tudo isso.
+NENHUMA ALTERAÇÃO ENCONTRADA NO SEU STATUS DE VETERANO.
+MELHOR
 SIM
 Defina a configuração de botões para todas as aeronaves
 Niclas Forsell
 Desenhistas gráficos
 A PÁGINA DE CRIAÇÃO DE ESQUADRÃO PARA JOGAR COM AMIGOS PERMITE A VOCÊ CONVIDAR SEUS AMIGOS PARA UM ESQUADRÃO E USA A BUSCA DE PARTIDAS PARA COLOCÁ-LO EM UM SERVIDOR QUE ATENDAM SUAS PREFERÊNCIAS.
-Bravo 2, aqui é Motorista Fantasma, se uh, você sabe, entrar em uma loja, pode anodizar ½uma tela metálica, de uma polegada de diâmetro, para algo, uh, equipamento com mal funcionamento aqui. (tosses). Obrigado.
+Em sua busca por um alvo de alto valor, a Bravo Company avançou profundamente pelo território russo até uma cidade montanhosa em Chukotka. Os russos se recuperaram do ataque surpresa e agora avançam para o contra-ataque a fim de empurrar os americanos de volta para o outro lado do rio congelado. A luta de infantaria apertada é esperada nas proximidades das ruas cobertas de neve. Ambos os lados estão preparados para pesadas baixas.
+Bravo 2, aqui é Motoqueiro Fantasma, se uh, você sabe, entrar em uma loja, pode anodizar ½uma tela metálica, de uma polegada de diâmetro, para algo, uh, equipamento com mal funcionamento aqui. (tosses). Obrigado.
 A PÁGINA DE CRIAÇÃO DE ESQUADRÃO PARA JOGAR COM AMIGOS PERMITE A VOCÊ CONVIDAR SEUS AMIGOS PARA UM ESQUADRÃO E USA A BUSCA DE PARTIDAS PARA COLOCÁ-LO EM UM SERVIDOR QUE ATENDAM SUAS PREFERÊNCIAS. ½½CONVIDE SEUS AMIGOS DA LISTA, DEFINA SUAS PREFERÊNCIAS E PRESSIONE O BOTÃO DE ENCONTRAR PARTIDA.
 DEFENSOR
-Ei, ei,  ei, Bravo 2, aqui é Motorista Fantasma.
+Ei, ei,  ei, Bravo 2, aqui é Motoqueiro Fantasma.
 Ouça, estou com o resto da unidade, vamos tirar você!
 Uh, há um pequeno problema de como, err...
-Seus homens estão atirando? Certo! Você sabe, continua fazendo isso!
-Procurando avançar para te ver!
+Seus homens estão atirando? Certo! Você sabe, continuem fazendo isso!
+Olhem em frente parar verem!
 SUA CLASSE DIMINUIU SEU NÍVEL DE HABILIDADE. AGORA VOLTE PARA O CAMPO DE BATALHA E COMEÇAR A MELHORAR!
 Um projétil experimental americano, o fuzil automático XM8 foi criado para ser versátil, permitindo ao operador executar reparos rápidos e trocar de tambor mesmo em campo. A versão modificada também inclui uma mira telescópica.
 BETA DE BATTLEFIELD BAD COMPANY 2
 Em um Deathmatch de Esquadrão, quatro esquadrões de quatro elementos devem se confrontar em uma batalha corpo a corpo. O primeiro esquadrão a confirmar 50 mortes ganhará. Cada batalha possui veículos de combate da infantaria que deve ser eliminado rapidamente se cair nas mãos inimigas.
+Em Squad Deathmatch quatro esquadrões de quatro homens são lançados uns contra os outros em uma batalha corpo-a-corpo. O primeiro esquadrão a atingir 50 mortes confirmadas sairá vitorioso do campo de batalha. Cada batalha apresenta um veículo de combate de infantaria que deve ser eliminado rapidamente caso caia nas mãos do inimigo.
 Equipamento médico avançando adicional para diagnosticas e curar ferimentos. Acelere o efeito de cura de seus kits médicos empregados.
 Kit médico de cura melhorado
 SUBIDA
@@ -4565,22 +4598,18 @@ Ver classificação
 Haggard, cuidado!
 UM SALVAMENTO JÁ EXISTE NO DISPOSITIVO DE ARMAZENAMENTO SELECIONADO, SE QUER MUDAR O DISPOSITIVO ACESSE O MENU DE OPÇÕES E SELECIONE MUDAR DISPOSITIVO DE ARMAZENAMENTO. QUER SOBRESCREVER ESTE SALVAMENTO?
 Vamos! Vamos !vamos!
-Aqui é Motorista Fantasma, atualizando mapa do PDA½com novas localizações de caixas com armas.
+Aqui é Motoqueiro Fantasma, atualizando mapa do PDA½com novas localizações de caixas com armas.
 Certo, vamos lá. Cuidado onde atira. Estes caminhões podem explodir.
 PUNKBUSTER
-VISTA 0
-VISTA 1
-VISTA 2
 Shh, shh... Continuem abaixados, são reforços.
 
-Esse foi o último, zona assegurada. Rumando para a vila.
+Esse foi o último, zona assegurada. Indo em direção a vila.
 Isso aí!
 PP-2000
 Tiro de metralhadora!
 Merda!
 SAIR DE PARTIDA EM EQUIPE PRIVADA
 Alvo destruído.
-ESTAT. MINHAS {0:~}
 Frear / Ré
 Inclinar à esquerda
 CONVIDAR AMIGOS
@@ -4592,48 +4621,49 @@ Testers Reino Unido - CQ Dice
 NOME DO CLÃ
 Eu me pergunto... quem diabos vai à guerra com chapéu de caubói?
 Caubóis não estão em guerra há centenas de anos.
-Bravo 2, aqui é Motorista Fantasma. Tenho lança granadas por toda a vila.
+Bravo 2, aqui é Motoqueiro Fantasma. Tenho lança granadas por toda a vila.
 Tente chegar ao telhado. Pegarei você lá - vá rápido!
 Não sei por quanto tempo posso continuar com isso.
 ATIVAR TELEMETRIA
 GAMERTAG
-Venha! Vamos! Vamos!
+Qual é?! Vamos! Vamos! Vamos!
 Consiga 10 estrelas de prata
 CONHEC. DE CAMPO DE BAT. EXEMPLAR ({2:s} ptos)
 SE TEM 13 ANOS OU MAIS‚
 Ganhe uma rodada de assalto
 BROCHE DE ASSALTO ({2:s} ptos)
 Digite o código
-VET. DE VÔO
+VÕO VERTICAL
 PATRULHA: ASSALTO
 AJUDA PARA DESTRUIR VEÍCULO DE PATRULHA +{0:s}
 O modo Conquista consiste em capturar e controlar bandeiras. Quando uma equipe captura um ponto de controle, seus membros podem ressurgir na área e ganhar aceso a veículos lá estacionados. Manter o controle sobre as bandeiras no campo de batalha e fazer a equipe adversária sofrer grandes perdas são as chaves para a vitória no modo Conquista.
 SUBMETRALHADORAS
 Você precisa ter o Punkbuster instalado e em execução para participar de servidores que tenha esta opção ativada.
-CORRER (PRESS.)
-É, claro que sim.
+CORRER/INVESTIR (PRESS.)
+JOGADORES
+É, claro que vamos.
 DEFENSOR
 Metralhadora leve automática. 100 balas. 550rpm. Alta precisão. Longo alcance. Alto poder. Baixa mobilidade. Grande recuo.
 M60
 Vozes principais
-Viva o Hanukkah, outra caixa de Flynn. Eu peço ½qualquer coisa digital.
+Viva o Hanukkah, outra caixa do Flynn. Eu peço ½qualquer coisa digital.
 DESBLOQUEÁVEIS
-Bravo 2, aqui é Motorista Fantasma, estava pensando ½em você.
+Bravo 2, aqui é Motoqueiro Fantasma, estava pensando ½em você.
 Ah, podemos pegar este jipe... Dê-me o tempo estimado de chegada do satélite, Docinho.
-Certo Marlowe, aqui é Motorista Fantasma. ½Vamos dar apoio a você daqui de cima, mas não temos o dia todo!
+Certo Marlowe, aqui é Motoqueiro Fantasma. ½Vamos dar apoio a você daqui de cima, mas não temos o dia todo!
 
 FUZILS DE ASSALTO
 PRECISÃO
 Quase sem munição...
 Temos algo a fazer. Lá está o avião e com um punhado de alvos. Mãos à obra!
-Suba nesta mera agora e encontre um lança-granadas!
+Suba nesta mera agora e encontre um RPG!
 Marketing & RP
 DANOS AO OBJETIVO DE EQUIPE {0:s}
-ANTIAER
+ARMA ANTIAÉREO
 Reiniciar missão desde o último ponto de controle
 MARCADOR
 NORMAL
-Ele me disse que costumava umas ervas com Bob Marley.
+Ele me disse que costumava usar uns Bongos com Willie Nelson.
 Este é o único caminho que leva à estação, eu acho.
 3, 2, 1...
 
@@ -4644,7 +4674,7 @@ TERMOS DE SERVIÇO
 Sabia que culparia a máquina!
 Consiga 5 estrelas de ouro
 CONHEC. DO CAMPO DE BAT. ELITE ({2:s} ptos)
-Motorista Fantasma falando, acho que ganei uma hérnia, é como eles chamam. ½Você sabe. Sobre as caixas com armas... verifique seu PDA e busque suas localizações.
+Motoqueiro Fantasma falando, acho que ganhei uma hérnia, é como eles chamam. ½Você sabe. Sobre as caixas com armas... verifique seu PDA e busque suas localizações.
 
 RACHADURA NO CÉU (DESCRIÇÃO)
 RACHADURA NO CÉU
@@ -4672,6 +4702,7 @@ VOZ SOBRE IP
 Ele ainda não morreu.
 Tive um pressentimento... ele ainda não está morto.
 
+Fourtunate Son
 Johan Åkesson
 UM VETERANO DE BATTEFIELD SEMPRE DEVE SER RECOMPENSADO. ½VOCÊ FOI RECOMPENSADO POR UMA ARMA EXCLUSIVA PARA USAR EM PARTIDAS MULTIJOGADOR ONLINE. PARA USAR A NOVA ARMA, SELECIONE-A NA TELA DE REGENERAÇÃO DURANTE O JOGO ANTES DE ENTRAR EM AÇÃO.
 Encontre os cinco! Consiga esta arma GRÁTIS agora. Visite Battlefield.com/BadCompany para mais informações.
@@ -4684,11 +4715,12 @@ Vamos! Vamos! Vamos!
 APROXIMANDO
 Que merda!
  
+Um grupo de assalto dos EUA se move para apoiar uma ação... inovadora † contra as forças russas nas montanhas chilenas. Os russos estão tentando dominar as posições dos EUA com um contra-ataque surpresa para expulsá-los do vale. Ativos blindados e aerotransportados na paisagem aberta tornam a guerra de veículos em grande escala uma grande probabilidade. Equipes de Sniper e RPG também foram vistas no teatro.
 COLECIONÁVEL ENCONTRADO: MET T88R
 VEÍCULO FAVORITO:
 Selecionar arma 1
 Selecionar arma 2
-PAAR MÍDIA
+PARAR MÍDIA
 Lá está a base. Precisamos abrir caminho para a aterrissagem. Vamos!
 
 Chaffin está mantendo a cabeça abaixada!
@@ -4716,10 +4748,9 @@ Prepare-se, cara.
 Avançar. Prontos?
 
 Testadores de localização
-Aqui é Motorista Fantasma. Se você puder cruzar este quadrante, ½Acho que posso extraí-lo pelo telhado. Eu te dou cobertura.
+Aqui é Motoqueiro Fantasma. Se você puder cruzar este quadrante, ½Acho que posso extraí-lo pelo telhado. Eu te dou cobertura.
 
 Sniper nesta torre!
-PARTIDA RÁPIDA CLASSIFICADA
 Bravo 2, estamos chegando à ponte. 5 e 25, ½ continue rastreando.
 DISPARAR CANHÃO COAXIAL
 VOCÊ NÃO DIGITOU SEU CÓDIGO VIP E NÃO PODERÁ OPTAR POR JOGAR O NÍVEL EXECUTADO NESTE SERVIDOR.
@@ -4762,7 +4793,7 @@ Z
 TAXA DE TIRO
 Javalis! Que inferno!
 Você não atendeu a todas as restrições de posto do servidor. Tente outro servidor.
-Muito bem, não nos resta...
+Muito bem, não temos tanto tempo...
 Não, continuem!
 O SERVIÇO ONLINE ESTÁ DESATIVADO EM SUA CONTA PlayStation®Network DEVIDO ÀS RESTRIÇÕES DE CONTROLE DE PAIS.
 MELHOR NO KIT DE RECONHECIMENTO
@@ -4778,6 +4809,7 @@ SIM
 Acabe com ele, não há como fugir!
 INFORMAÇÃO: JOGO EM EQUIPE
 Define a configuração dos sticks para veículos terrestres
+Use esta opção para encontrar um servidor em qualquer mapa disponível.
 Ah, como você gosta, sargento.
 EQUIPE 1
 EQUIPE 2
@@ -4793,7 +4825,7 @@ EDITAR
 ENTRAR
 CARREGAR
 MUDO
-Bravo 2, aqui é Motorista Fantasma. Há muitos blindados inimigos½seguindo para sua zona de operações, tenha cuidado.
+Bravo 2, aqui é Motoqueiro Fantasma. Há muitos blindados inimigos½seguindo para sua zona de operações, tenha cuidado.
 
 
 VER FILME
@@ -4802,7 +4834,7 @@ ZOOM
 JOGABILIDADE
 Consiga 100 ajudas para o esquadrão
 AJUDA NO COMBATE EM ESQUADRÃO ({2:s} ptos)
-Chegando, às 12.
+Encrenca, às doze horas.
 Gravação cortesia de Capitol Records.
 Sob licença da EMI Film & Television Music.
 CONVERTER
@@ -4830,6 +4862,7 @@ Inimigo descendo pela esquerda, quatro soldados!
 Mikael Wahlström
 Siga para o canal! Vamos, mexam-se!
 Pronto para comer mais poeira, Haggard!
+Tocha
 É, o arbusto se mexeu, você viu?
 Vamos, este veículo alvo deve estar logo à frente.
 Veículo de combate da infantaria americana. Algumas vezes chamado de tanque leve. Armado com um canhão de cadeia de 30mm e uma tore de artileiro cal. 50. Quatro assentos com 2 passageiros nos postos de disparo.
@@ -4839,6 +4872,7 @@ Vamos! Vai! Vai! Vai! Protejam-se, abaixem!
 Porra, eles nos viram.
 É, entendido.
 Em marcha, vamos, vamos!
+BÔNUS DE SOBREVIVÊNCIA
 Seus objetivos
 LOCALIZE O AGENTE AGUIRE, DA NSA
 LOCALIZE O AGENTE AGUIRE, DA NSA
@@ -4861,7 +4895,7 @@ CERTO E NÃO MOSTRAR NOVAMENTE
 Bem-vindo de volta, cara!
 Consiga 100 reabastecimentos para o esquadrão
 REABASTECIMENTO DE ESQUADRÃO ({2:s} ptos)
-Marlowe! Você não quer ir por aí! Há ½morteiros inimigos apontando para este caminho!
+Marlowe! Você não vai querer ir por aí!½Há morteiros inimigos apontando para este caminho!
 
 
 Bravo 2-4, não vá por aí. Há morteiros inimigos ½lá! Verifique o mapa, irmão!
@@ -4884,10 +4918,10 @@ GUERRA FRIA
 Metralhadora automática leve. 200 balas. 800rpm. Precisão média. Alcance longo. Poder médio. Mobilidade baixa. Recuo médio.
 Delicado explosivo desenvolvido para produzir mais energia e dano.
 Pronto!
-Descer avião não tripulado
 STICKS V. TERR.
 REFRIGERANDO...
 SUICÍDIO {0:s}
+Descer avião não tripulado
 Vamos... Suba lá.
 
 Faça o que tem de fazer.
@@ -4899,11 +4933,12 @@ Helicóptero de transporte tático manejado por 2 pessoas, capaz de transportar 
 Helicóptero de ataque americano armado com um canhão de cadeira de 30mm e um lançador de foguete duplo de 70mm.  Equipe: 2. Proteção blindada: até calibre .50.½
 Fuzil de assalto potente com 2 drágeas explosivas, desenvolvido para combate de longo alcance. Dispara 600 balas por minuto.
 Veículo de combate da infantaria armado com um canhão automático de 30mm, metralhadora pesada de 12.7mm e 2 postos de disparo. ½
+Veículo de assalto de combate com 4WD transporta 4 e está fortemente armado com passageiro .50cal HMG e 360 graus com torre 25mm AGL
 Veículo 4x4 blindado leve com equipe de 4 passageiros, armado com uma metralhadora pesada de calibre .50 em uma plataforma giratória de 360 graus. ½
 Granada de fragmentação antipessoal com um amplo "raio de baixas". ½
 Veículo 4x4 de alta mobilidade; possui 4 assentos e é armado com uma metralhadora pesada de calibre .50 em uma plataforma giratória de 360 graus. ½
 Metralhadora pesada russa de 12.7 mm com baixo recuo e precisão aprimorada a longas distâncias.½
-Não sei, mas eu não gosto.
+Não sei, mas não gosto disso.
 Míssil HEAT de 84mm modificado com um sistema teleguiado para aquisição e neutralização de alvos.  Não é compatível com dados traçadores.½
 Submetralhadora automática de 30 balas conhecida por sua alta mobilidade e capacidade de disparar 600 balas por minuto.½
 Tanque de batalha americano armado com um canhão sem estrias de 120mm e operado remotamente. Possui uma metralhadora calibre .50. Tripulação: 2½
@@ -4912,6 +4947,7 @@ Lança-mísseis portátil de 84mm perfeito para guerra urbana. Preparado para o 
 Veículo de combate da infantaria armado com um canhão de cadeira de 30mm e metralhadora calibre .50. 2 pontos de disparo e 4 assentos½
 Um fuzil de assalto automático de 30 balas capaz de disparar 700 balas por minuto. 
 Carabina automática de 30 balas. É compacta e perfeita para combate de curta distância.
+Comumente conhecido como "tubo Bloop" ou "Blooper", este lançador de granadas de 40 mm que aumenta significativamente o poder de fogo da infantaria.
 Pistola com drágeas explosivas capaz de disparar 20 balas permitindo infligir mais danos durante combate de curta distância.
 Um pacote portátil de cura contendo uma quantidade limitada de suprimentos médicos potentes capazes de curar soldados feridos.  
 Metralhadora leve de 5.56mm variante do G36 que utiliza um tambor duplo com 100 balas, bípede e com mira telescópica. Tem uma taxa cíclica de 750 balas/min.½
@@ -4925,6 +4961,7 @@ Carabina automática de 30 balas possuindo grande mobilidade tornando-a ideal pa
 Uma escopeta de bomba, curto alcance desenvolvida combate de curta distância.½
 Um fuzil francoatirador de 10 balas capaz de alcançar alvos de até 1.000 m.½
 Tanque de combate russo armado com canhão sem estrias de 125 mm e metralhadora pesada de 12.7 mm. Tripulação: 2½
+Composto explosivo ligado com material adesivo. Pode ser preso na maioria dos materiais secos e detonado manualmente. Mantenha uma distância segura.
 Míssil eletroguiado, lançado por tubo e com seguimento óptico com um alcance de 4.000m. Desenvolvido para atacar blindado e aeronaves em baixa altitude.½
 Uma pistola a gás equipada com dardos magnéticos que são lançados em veículos inimigos para aumentar a precisão do alvo.
 Veículo de combate de grande mobilidade com tração 4x4 e 4 assentos, armado com uma metralhadora de 12.7 mm sobre uma torre de 360 graus. ½
@@ -4946,7 +4983,7 @@ Derrube estes prédios, amigos. Adiante.
 Meus Deus! Flynn colocou nossas provisões nas árvores. De onde saiu este "piloto"?
 Ah... Vamos pegar a caixa.
 
-Vai, Marlowe! Não temos tempo!
+Vai logo, Marlowe! Estamos sem tempo!
 SEU NÊMESIS
 SAÚDE
 REGENERAÇÃO EM: {0:~}s
@@ -5158,7 +5195,7 @@ ARMA DE MÃO
 SENSOR DE MOVIMENTO
 DESIGNADOR LASER (DESBLOQUEADO)
 Especialização de veículo
-Bravo 2, aqui é Motorista Fantasma, muitos caras malvados seguindo em sua direção.
+Bravo 2, aqui é Motoqueiro Fantasma, muitos caras malvados seguindo em sua direção.
 GRANADA DE MÃO
 ARMA TRAÇADORA
 EXPLOSIVOS REMOTOS (DESBLOQUEAR)
@@ -5199,7 +5236,7 @@ VOCÊ FOI RECOMPENSADO COM UMA ARMA EXCLUSIVA PARA USAR NO MULTIJOGADOR ONLINE D
 NINGUÉM FICA PARA TRÁS (DESCRIÇÃO)
 NINGUÉM FICA PARA TRÁS
 POR FAVOR, VERIFIQUE SUA CAIXA DE BATTLEFIELD: BAD COMPANY 2 PARA OBTER SEU CÓDIGO VIP.½½ESTE CÓDIGO PERMITE QUE VOCÊ TENHA ACESSO A CONTEÚDOS BAIXÁVEIS ADICIONAIS E GRATUITOS, QUE PODEM SER ENCONTRADO NA LOJA DURANTE O JOGO. ½½VOCÊ QUER DIGITAR O CÓDIGO AGORA?
-Certo, Bravo 2, isso foi genial. Motorista Fantasma, desliga.
+Certo, Bravo 2, isso foi genial. Motoqueiro Fantasma, desliga.
 MENU DO JOGO
 ÚNICO:
 Submetralhadora automática. 32 balas. 900rpm. Precisão baixa. Alcance curto. Poder baixo. Mobilidade muito alta. Silenciosa.
@@ -5213,9 +5250,9 @@ Bravo 2, aqui é Gladiador 6, estamos fora da base. ½Aproximadamente 45 segundo
 JOGO
 {0:s}<GRANADA DE 40MM>
 {0:s}<ESCOPETA DE 40MM>
-Motorista Fantasma, fomos emboscados por um bando de mendigos da milícia.
+Motoqueiro Fantasma, fomos emboscados por um bando de mendigos da milícia.
 Estamos a caminho rio acima, seguindo a pista até Aguire, mas estamos com baixo poder de fogo.
-Muito obrigado, Motorista Fantasma. Muito bem, vamos lá.
+Muito obrigado, Motoqueiro Fantasma. Muito bem, vamos lá.
 
 
 
@@ -5249,7 +5286,7 @@ Metralhadoras lá em cima!
 VÍDEO
 AJUDA À MORTE EM VEÍCULO +{0:s}
 OFERTAS DE TESTE DE DESENVOLVIMENTO
-Obrigado, Motorista Fantasma. Recebido.
+Obrigado, Motoqueiro Fantasma. Recebido.
 Kit médico de capacidade maior. Aumentando a eficiência de alcance de cura de seus kit médicos distribuídos.
 Kit médico de alcance estendido
 CRIANDO UM ESQUADRÃO
@@ -5321,7 +5358,7 @@ Kirilenko deve estar perto. ½Eu voto por eliminarmos o alvo junto com a sucata 
 
  Granadas de fumaça de 40mm para o lança-granadas do fuzil de assalto. Fornece uma cortina visual para dar apoio ao movimento no campo de batalha.  Oculta alvos perto do ponto de impacto.
 PRODUÇÃO DE VÍDEO E ARTE DIGITAL
-Mmhm. Motorista Fantasma, aqui é Redford. Temos a trajetória de impacto para o satélite. Pode recolhê-lo?
+Mmhm. Motoqueiro Fantasma, aqui é Redford. Temos a trajetória de impacto para o satélite. Pode recolhê-lo?
 JOG. NECESSÁRIOS PARA COMEÇAR: {0:~}
 Merda, pare! Temos de... Voltar, inverter curso!
 
@@ -5330,7 +5367,7 @@ ENVIAR
 É um barco de patrulha, procurem abrigo!
 MORTE
 {0:s}<EXPLOSIVO C4>
-Bravo 2, aqui é Motorista Fantasma. Não quero alarmá-los, vocês sabem... ½Só dizendo, deveriam ir mais depressa. ½Muito falatório... vocês viram Falcão Negro em Perigo? Tenho estas mesmas vibrações.
+Bravo 2, aqui é Motoqueiro Fantasma. Não quero alarmá-los, vocês sabem... ½Só dizendo, deveriam ir mais depressa. ½Muito falatório... vocês viram Falcão Negro em Perigo? Tenho estas mesmas vibrações.
 
 {0:s}<DESFIBRILADOR>
 {0:s}<FUZIL DE ASSALTO F2000>
@@ -5649,7 +5686,7 @@ Granada de Mão
 UNIR-SE A AMIGO
 Ótimo, a armadilha está desarmada. Bom trabalho, ½Marlowe.
 MÁX. PONT. POR:
-Bravo 2, aqui é Motorista Fantasma. Deixei outra caixa lá para você caso precise. ½Já sabe, você mesmo terá que pegá-la.
+Bravo 2, aqui é Motoqueiro Fantasma. Deixei outra caixa lá para você caso precise. ½Já sabe, você mesmo terá que pegá-la.
 
 O nome do clã não pode ter mais que 3 letras e só A-Z e 0-9 são válidos.
 MUDAR DE EQUIPE
@@ -6650,7 +6687,7 @@ Ei, você beija sua mãe com essa boca?
 Estou orgulhoso de você, Pres!
 Ei, alguém me dá um cigarro? Estou sem.
 Santo Deus, você é louco, maldito hippie!
-Motorista Fantasma estã aqui, não tema!
+Motoqueiro Fantasma estã aqui, não tema!
 Eu te disse, não sabemos se ele está morto.
 Vamos esperar que sim, ou então...
 Ou então, que tal falar-nos sobre este barco?
@@ -6785,7 +6822,7 @@ Você é louco! Não pode destruir uma nação por vingança.
 Eu não posso, não...
 Mas ele pode.
 Estou de acordo!
-Aqui é Motorista Fantasma, acho que as negociações não rolaram bem, né?
+Aqui é Motoqueiro Fantasma, acho que as negociações não rolaram bem, né?
 De todo jeito, minha energia e eu, estamos em sintonia, então já era. O mundo precisa ser salvo.
 E, Haggard... Obrigado pelos cigarros, irmão!
 Não!
