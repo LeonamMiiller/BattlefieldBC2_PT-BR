@@ -3414,17 +3414,22 @@ AUTOSALVAMENTO
 ATACANTES
 OBETIVO CUMPRIDO
 Projéteis de fragmentação de calibre 12 para escopetas, muito explosivos, de baixa velocidade e alto grau experimental. Adiciona um pequeno "bum" em sua arma.
+EXÉRCITO DOS EUA
+EXÉRCITO VIETNAMITA DO NORTE
 MIRAR/ABAIXAR (PRES.)
+EXÉRCITO DOS EUA
+EXÉRCITO VIETNAMITA DO NORTE
 Muito bem, alguém vá e capture o comandante desta estação de ½aeronaves não tripuladas.
 Vá em frente, Bravo 2.
 Você pode se juntar ou abandonar seu esquadrão a qualquer momento pressionando o botão START (iniciar) e selecionando o menu ESQUADRÃO.
 As ordens podem ser dadas a seu esquadrão mirando em um objetivo e pressionando o botão SELECT (selecionar).
+DEFENSOR:
 SEU NÍVEL DE HABILIADE FOI AUMENTADO
 Atire quando eu disser "1".
-Shift D
+RSHIFT
 Cuidado onde atira! Não acerta a droga dos caminhões!
 VERIFICAR SENHA
-Maldição, que frio faz aqui.
+Maldição, tá frio aqui.
 VOCÊ NÃO PODE SE JUNTAR A ALGUÉM QUE ESTÁ JOGANDO NO MESMO CONSOLE QUE VOCÊ.
 PLACAR
 Mais russos se movendo pelas casas! Você viu?
@@ -3435,7 +3440,7 @@ Programador de IA
 Torres de guarda à frente, prossiga.
 Belo tiro.  Em marcha, sargento.
 
-Lançador de granada em cima!
+RPG ali em cima!
 Bloqueio de estrada à frente, temos de passar por ele!
 VOLUME DA MÚSICA
 Quão próximos nós estamos?
@@ -3443,31 +3448,34 @@ JOGADOR MORTO
 Equipe de gravação
 Jhony Ljungstedt
 Olhar para trás
+FOXTROT
+Um lança-chamas coaxial dando ao motorista maior poder de fogo e versatilidade.
 É uma longa descida, ein?
 Uma variante da XM8 com um carregador de tambor com 100 balas, bípede e com mira telescópica integrada. Tem uma taxa cíclica de 750 tiros/min.½
 EA Games da Europa
 RTOPRIGHT
 ABAIXO
 Nadab Goksu
+Com esta opção definida, o servidor irá jogar todos os mapas Onslaught existentes aleatoriamente.
 ESQUERDA
 ELECTRONIC ARTS
 ESTATÍSTICAS DO JOGADOR
-Os dois, bom trabalho, Bravo 2. Vamos.
+Foram os dois, bom trabalho, Bravo 2. Vamos.
 Dois em um dia? Incrível.
-Uh, nós também estaremos quase cegos também.
+Uh, nós estaremos quase cegos também.
 Este modelo leve da Scar é desenvolvido para vários realizar variadas modificações de tamanho de tambor. O silenciador do fuzil e a armação tornam a arma preferida das forças SOCOM. Esta versão modificada também inclui uma mira telescópica.
-Lançador de grana! Abaixar e se proteger!
+RPG! Abaixar e se proteger!
 Cara, esta coisa vai fazer um puta estrago quando acertar!
 Dar ordem / Comunicar / Avistar
 VERIFIQUE SEU CAMPO BATTLEFIELD: BAD COMPANY 2 BOX PARA ENCONTRAR SEU CÓDIGO VIP.½½ESTE CÓDIGO PERMITE QUE VOCÊ BAIXE CONTEÚDOS GRÁTIS QUE PODEM SER ENCONTRADOS NA LOJA DENTRO DO JOGO. ½½VOC~E QUER DIGITAR O CÓDIGO AGORA?
 BC1-CANHOTO
 Minhas campanha
-Que coisa linda! Obrigado!
+Isso foi lindo! Obrigado!
 PARA SE UNIR A OUTRO ESQUADRÃO, VOCÊ PRIMEIRO DEVE ABANDONAR O SEU ATUAL. ABANDONAR AGORA?
 CRIAR CONTA
 Improvisaremos.
 Fica frio.
-Vamos! Vamos!½Mantenham a cabeça abaixada, continuem se mexendo, essa porcaria está atirando para todo lado! Vamos lá!
+Vamos! Vamos! Vamos!½Mantenham a cabeça abaixada, continuem andando, essa porcaria está atirando para todo lado! Vamos lá!
 MELHORES JOGADORES
 O soldado de reconhecimento de Ações Especiais aproveita ao máfico da sua camuflagem exclusiva em alguns mapas. Prefere o fuzil M95 SA, o sensor de movimento e um ataque com morteiro ou C4.
 MORTOS PARA SIG. NIV.
@@ -3475,17 +3483,18 @@ DISPOSITIVO SECUNDÁRIO
 NENHUM DISPOSITIVO DE ARMAZENAMENTO SELECIONADO. VOCÊ PRECISARÁ SELECIONAR UM PARA CARREGAR O SALVAMENTO.
 NENHUM DISPOTIVO DE ARMAZENAMENTO SELECIONADO. OS DADOS DO PERFIL DE JOGADOR NÃO SERÃO SALVOS ANTES QUE VOCÊ SELECIONE UM.
 Mikael Nellfors
-Eu acho que não somos os únicos que procuram por este barco, olhe.
+Eu acho que não somos os únicos procurando pelo barco, veja isso.
 Vão usar algo assim para localizar o barco. Um localizador de estações móveis.
 O Sangre de Toro provavelmente em um sinal de rastreamento de baixa potência. ½Muitos barcos têm, ao invés de GPS.
 Veja o que você fará... Triangulará simultaneamente de cada estação base.
 Essas transmissões são um total desperdício, temos uma grande oscilação de sinal...
 Sim.
 FUZIL DE FRANCOATIRADOR
-Acaba com seus malditos alvos!
+Acabe com seus malditos alvos!
 METRALHADORA LEVE XM8
-O estandarte dourado do exército russo, o fuzil de assalto AEK971 foi desenvolvido para permitir que atiradores mantenham a precisão durante o fogo automático. Esta versão modificada também inclui uma mira a laser.
+O estandarte dourado do exército Russo, o fuzil de assalto AEK971 foi desenvolvido para permitir que atiradores mantenham a precisão durante o fogo automático. Esta versão modificada também inclui uma mira a laser.
 Pres, dispare! Dispare!
+Seringa
 CARREGANDO DADOS DO PERFIL DO JOGADOR. POR FAVOR, NÃO DESLIGUE SEU CONSOLE XBOX 360.
 Está indo!
 APAGAR
@@ -3501,6 +3510,7 @@ BUSCAR
 SEM CONVERSÃO
 Animador facil e técnico
 VEZES OBTIDO
+Desenvolvido na Rússia na década de 1940, o AK47 se tornou o fuzil de assalto mais popular e amplamente usado no mundo, graças à sua confiabilidade e poder de contenção.
 Abastecida com vários calibres de munição, esta caixa de balas é lançada funcionando como um ponto de munição permitindo aos soldados recarregar e rearmazenar seu suprimento de munição. 
 Johan Lundmark
 TROCAR DE ARMA
@@ -3508,19 +3518,22 @@ REGENERAÇÃO EM:
 DTN-4 (Explosivos plásticos). Uma carga C-4 transportada com segurança e facilidade, mas após armada é suscetível a detonação se não manuseada corretamente. Pode ser afixada à maioria das superfícies para fácil instalação e detonação. Um atributo adicionado é a habilidade de detonar remotamente por um operador (detonação controlada).  ½
 Desfibrilador Externo Automático (DEA) - capaz de ressuscitar vítimas de parada cardíaca. A administração deve ser feita após alguns segundos da parada cardíaca.  Não é aconselhado seu uso em indivíduos com boa saúde ou como forma de "diversão".
 Este fuzil de assalto belga automático tem empunhadura adiantada e oferece uma gama de modificações que vão de miras telescópicas a anexos lançadores de granada permitindo ser adaptada para quaisquer missões ou situações táticas.
-Uma 50 lá em cima!
+Caminhão utilitário tático Russo. Com excelentes habilidades de navegação em terreno, este veículo foi o transporte off-road padrão para o Exército Vermelho.
+Uma .50 lá em cima!
 O cilindro, cara, atire nele.
 ONLINE
 Animador e operador de captura de movimentos
 OBJETIVO:
 DEIXANDO O ESQUADRÃO
+Veículo utilitário do Exército dos EUA. Fornece à infantaria transporte rápido e 360 graus, poder de fogo calibre .30
 A arma pequena favorita entre as forças especiais é esta pistola semiautomática de 7 balas com calibre .45 com um poder de parada que permite ao operador se livrar de um oponente com um tiro letal à queima-roupa.½
 Um revolver de 6 balas venerador à queima-roupa e com célebre potência de fogo de um Magnum. Seu desenho é uma volta aos pistoleiros do Velho Oeste.
 Adotada como arma pequena para todo o corpo do exército e das forças pacificadoras russas, esta pistola semiautomática tem grande mobilidade e opera com um curto recuo. 
 Ideal para combate corpo a corpo onde  uso contínuo da força foi isolado foi limitado ao confronto direto. Para melhor desempenho, a superfície pontiaguda deve ser aplicada nas áreas vitais do inimigo. Deve ser repetido se necessário.
 Cara, eu vi mesmo alguma coisa. Acho que estão apenas nos observando
-Mas por quê?
+Mas porquê estão apenas nos observando?
 
+Submetralhadora russa projetada com simplicidade e produção em massa em mente. Quase 6 milhões de pistolas automáticas PPSh foram fabricadas e os usuários elogiam seu baixo recuo e poder de fogo de curto alcance.
 O Tipo 88 é um fuzil semiautomático usado como mais como arma de atirador do que um fuzil de francoatirador. Capaz de receber várias miras telescópicas, além de miras de ferro e carregador para 10 balas.
 Ah temos um equipamento tecnológico aqui, a próxima geração de aeronaves não tripuladas russas, Dozor-3 eu acho.
 Escopeta de bomba com 4 balas. Muito potente. Alcance bem limitado. Alta mobilidade.
@@ -3528,26 +3541,33 @@ Metralhadora leve chinesa de nova geração de 5.8mm. Mais pesada que seus compe
 Lançador de granadas de 35mm feito na China. Tem uma configuração "leve" que permite ser transportado por uma pessoa.  É projetado para ser capaz e fornecer suporte antiaéreo e ataque a blindados leves.  ½
 Remington 870MCS
 Mais homens no helicóptero. Incendeiem esta coisa!
+Lançador de granadas com propulsão por foguete russo de 85mm usado contra blindados, fortificações e pessoal.
 ONLINE ID
-Não, estes sujeitos parecem nativos, provavelmente paramilitares.
+Não, estes caras parecem nativos, provavelmente paramilitares.
 DISTÂNCIA PERCORRIDA
 Dado como feito! Em marcha!
 
+Esta pistola russa de calibre 7,62 foi projetada na década de 1930 e foi a principal arma do Exército Vermelho durante a Segunda Guerra Mundial. É conhecido por sua precisão e robustez.
 AR
 Gerente de teste de controle de qualidade
 Eles têm metralhadoras nas casas para cobrir as ruas!
 Erland Körner
+Um sistema modular de armas projetado na década de 1960. Esta arma entrou em ação apenas como parte de certas equipes dos SEALs da Marinha dos EUA. A complexidade e a alta manutenção condenaram o projeto, apesar do bom desempenho em campo.
 A XM-312 modificada com um tambor e outros componentes para disparar granadas de 25mm. Assim como a versão calibre .50, é leve, altamente móvel e oferece pouco ou nenhum recuo.  É um devastador multiplicador de força quando usada a nível de esquadrão.½
 Metralhadora moderna americana calibre .50 apresentada para substituir a Browning calibre .50 de 80 anos. A XM-312 é leve, altamente móvel e oferece pouco ou nenhum recuo.  É um devastador multiplicador de força quando usada a nível de esquadrão.½
 Patrick O'Shaughnessy
-MEU PC
+Um centro de comunicação dos EUA com uma visão dominante da área local foi selecionado como o próximo alvo pelas Forças Russas. O Comando Russo primeiro terá que cruzar um rico vale agrícola e proteger a cidade próxima antes que os preparativos para um ataque final possam começar. Os campos abertos e as fazendas locais verão intensos combates de veículos, já que ambos os lados moveram meios blindados para o teatro.
+DIA DA COLHEITA
+FERRO VELHO
+Business Development
+MEU COMPUTADOR
 Maldito seja! Não é questão de sorte, estaremos ferrados se o perdermos!
 Espere, espere... Espere!
 AS EQUIPES ESTÃO DESBALANCEADAS, POR FAVOR REORGANIZE-AS
 A CONEXÃO COM A EA ONLINE FOI PERDIDA
 O típico soldado de Ações Especiais, equipado melhor com a M16A2 SA + lançador de granada 40mm ou escopetas e C4 para combate de curta distância.
 Olhar para baixo
-Ó merda, ó merda, ó merda... 
+Merda, Merda, Merda... 
 Projetista de narração
 Gerente geral
 =
@@ -3558,28 +3578,37 @@ Todas as unidades nesta frequência, aqui é Tomahawk. Estamos prontos para colo
 
 
 DICA DE RECARREGAR
+Um atirador especialista. Normalmente carrega um rifle de longo alcance e binóculos usados para chamar ataques de morteiros. Também pode equipar dinamite pegajosa para plantar em veículos inimigos.
 Sim, um monte.
 SOM
 ESQUADRÕES
 ESTATÍSTICAS
 OLHAR CIMA/BAIXO (CABEÇA)
+PLANTAÇÃO
+SUBÚRBIOS
+ESTRADAS
+PRAÇA
+A: TELHADO
+B: POSTO AVANÇADO
+C: SUBÚRBIOS
 VER TROFÉUS
 JOYSTICKS SOLDADO
 Você tem soldados demais.
 Muito bem, todos para fora, vamos andando.
 FALHA AO SE UNIR AO ESQUADRÃO, TENTE DE NOVO.
-Bravo 2, seu veículo alo está saindo. Proteja este veículo o mais rápido que puder.
+Bravo 2, seu veículo-alvo está saindo. Proteja este veículo o mais rápido que puder.
+CHARLIE
 Vamos, continuem!
 DETONAR TNT
 NOME DE CLÃ INVÁLIDO
  Ferramenta elétrica HOFF3K. Permite reparos rápidos para veículos nas linhas de frente. A melhora amiga dos engeneiros e o brinquedinho deles.
-Acho que estamos cobertos aqui...
+Acho que temos cobertura aqui...
 A CONTA FOI DESATIVADA.
 Certo, estamos prontos, vamos continuar.
 Marlowe, controle essa maldita arma antiaérea agora!
 ARTILHARIA
 VEÍCULO PESADO
-Certo, agora vamos disparar!
+Certo, agora vamos ser atingidos!
 DISPOSITIVO PRIMÁRIO
 MORTE AO ATACAR ESTAÇÃO DE COMUNICAÇÃO +{0:s}
 Håkan Pettersson
@@ -3587,25 +3616,30 @@ Controle de qualidade do cliente da América do Norte
 Atenção, concentre-se no alvo. Observe o rastro dos mísseis.
 
 A SENHA É MUITO CURTA, PRECISA TER AO MENOS QUATRO CARACTERES.
+MATE TODOS E MANTENHA AS BASES INIMIGAS
 NIV. ASSALTO
 ESTATÍSTICAS DE VEÍCULOS
 TODOS OS PONTOS COLETADOS
 AJUDA COM TRAÇADOR PARA ESQUADRÃO +{0:s}
 # PLACAS
-Vamos nos mexer.
-Disparem!
+Somos o Oscar Mike.
+Disparem neles!
 AEK-971
 Quer salvar suas configurações?
-Mãos à obra! Estou mais ocupado do que perneta dando voadora! ½Vamos, docinho!
+Mãos à obra! Estou mais ocupado do que perneta dando voadora! ½Qual é, docinho!
 COMEÇAR PARTIDA
 ATACANTE
 PLACAR
 AKS-74U
+A ponta de lança de qualquer pelotão, equipada com um lançador de granadas "blooper" de 40 mm para remover rapidamente qualquer obstáculo em seu caminho.
 PADRÃO
 Melissa Tague
 Escopeta de bomba. 4 balas. Muito potente. Alcance muito curto. Alta mobilidade.
 NS2000
 Gerente de RH
+Depois de investigar um campo de prisioneiros abandonado no Vietnã do Norte, as forças dos EUA rapidamente se encontram sob o cerco de um regimento de infantaria mecanizado do NVA. Um esforço defensivo concentrado será a chave para seu sucesso, à medida que os arrozais em socalcos se transformam em um cenário de guerra.
+HARDCORE
+PONTO DE VANTAGE
 Não podemos recuar?
 MINA AT
 Nenhum barulho, pessoal, estamos entrando em ½campo logo adiante
@@ -3618,7 +3652,7 @@ Serviços de captura de movimento
 MIRA 12X
 Um complemento altamente eficiente para fuzis de francoatirador, esta mira óptica de 12x intensifica o poder de aproximação enquanto também fornece precisão a longa distância.  Garante maior distância durante o ataque ao alvo.
 MIRA TELESCÓPICA DE GRANDE ALCANCE 12X
-Ei, por que estes caras atiram?
+Ei, por que aqueles caras apenas nos iluminaram?
 Qual é o plano, sargento? Chama Flynn e partir?
 TIPO 1
 TIPO 2
@@ -3638,6 +3672,7 @@ Está no píer. Espere o trovão e acabe com ele.
 Uma das equipes tem muito pouco membros, assim não se pode trocar.
 MATERIAL BÔNUS
 Elimine seus alvos, acabe com eles!
+Infelizmente, a PlayStation®Store NÃO ESTÁ DISPONÍVEL ATUALMENTE, TENTE DE NOVO MAIS TARDE.
 Ajuste o brilho do jogo
 Mexam-se! Não temos tempo a perder.
 
@@ -3652,14 +3687,16 @@ OCUPADO
 ESQUADRÃO HOTEL
 VOCÊ FOI DESCONECTADO DEVIDO À FALTA DE ATIVIDADE.
 Muito bem, isso é o que se deve fazer.
-CRÉDITOS:
 Abaixados!
 Mais rápido!
 BMD-3 AA
 Que diabos foi isso que eu vi?
-MISSÃO NÃO CUMPRIDA - VOCÊ FOI MORTO PELO ATAQUE DE DE HELICÓPTERO
+MISSÃO FALHOU - VOCÊ FOI MORTO PELO ATAQUE DO HELICÓPTERO
+As forças dos EUA estão montando um ataque significativo contra uma base NVA no topo de uma colina com vista para uma rota de abastecimento estrategicamente vital. Sob o rugido estrondoso de bombardeiros Phantom e ataques de napalm, as forças dos EUA precisam navegar pela selva densa, limpando trincheiras e túneis à medida que se aproximam do sopé da colina.
+COLINA 137
 COLACIONÁVEL ENCONTRADO: AEK-971
-Câmbio, Dois. Entreguem o veículo.
+Câmbio, Dois. Entreguem o veículo-alvo.
+GM FPS & Driving Group
 CarlGustaf
 12G.SGN
 O projétil Sabot de calibre 12 é desenvolvido para dar mai alcance às escopetas em operações fora de áreas urbanas.  Substitui o poder elevador por aprimoramento de alcance e precisão.
@@ -3673,12 +3710,12 @@ Equivalente russo do helicóptero de ataque AH64. Também armado com um canhão 
 DISPARAR METRALHADORA
 Legal.
 ATACANTE
-MÉIDO DA AE
-MÉIDO DA AE
+MÉDICO DA AE
+MÉDICO DA AE
 Líder de controle de qualidade do estúdio
 Kodiak Um, alvos adquiridos, temos circo ou seis blindados pesados.
 Não posso acreditar que é uma arma escalar!
-É, com a potência adequada... ½Eu realmente não sei, só suposições, mas, mas significa que provavelmente não teríamos de½ voltar para casa, visto que seria nada mais que uma cratera exalando fumaça.
+É, Bem se isto tiver potência o suficiente... ½Eu realmente não sei, só suposições, mas, mas significa que provavelmente não teríamos de½ voltar para casa, visto que seria nada mais que uma cratera exalando fumaça.
 
 
 Cuidado!
@@ -3686,7 +3723,7 @@ Destrua o prédio! Traga abaixo essa porra!
 
 TOTAL DE MORTES
 Use o botão de zoom para dar melhor controle e aumentar a precisão da arma.
-Se sua tela se encher de sangue você ouvir um zumbido, procure abrigo, pois você está a ponto de morrer.
+Se sua tela se encher de sangue e você ouvir um zumbido, procure abrigo, pois você está prestes a morrer.
 Atire em barris e contêineres explosivos para matar inimigos ou comprometer prédios.
 Esfaqueie inimigos com o botão de corpo a corpo.
 Se você tiver granadas de mão, pode arremessá-las pressionando o botão de granada.
@@ -3705,7 +3742,7 @@ As unidades em contato estão sendo rotacionadas devido à fadiga de combate. Se
 CANAL DO PANAMÁ
 Gerente financeiro
 Apontar com torre para a direita
-Muito bem , apenas continue se movendo, Adaga Três. Não pare, fique tranquilo. Sairemos deste buraco.
+Muito bem , apenas continue andando, Adaga Três. Não pare, fique tranquilo. Vamos sair dessa inteiros.
 Eu podia estar aposentado agora e recebendo uma pensão insuficiente. Tomando um gin com suco... atividades especiais uma ova.
 É, melhor você correr!
 JOYSTICKS AERONAVES
@@ -3717,7 +3754,7 @@ REPARAC. PARA SEG. NIV.
 VÍDEO
 CONTINUAR
 Thomas Rönnberg
-Ah cara, bom te ver, você conse... Bem, seja lá o quer for isso. ½Surpresa incrível, mano. Você pode ficar com a minha copia da Mulher Madura Mensal quando voltarmos.
+Ah cara, bom te ver, você conseguiu... Bem, seja como for. ½Foi incrível incrível, mano, Incrível. Você pode ficar com a minha copia da Mulher Madura Mensal quando voltarmos.
 Sim, eu menti.
 
 Precisamos continuar subindo!
@@ -3746,7 +3783,7 @@ VALPARAÍSO
 MÉDICO
 CONEXÃO COM A PlayStation®Network FOI PERDIDA
 ESTAMOS PERDENDO, TEMOS DE LUTAR MAIS
-Ah sargento, vamos... Foi minha ideia.
+Ah sargento, qual é... Foi minha ideia.
 Certo, isso vai doer.
 Digite seu número de série.
 EA ROMÊNIA
@@ -3754,7 +3791,9 @@ Algumas situações podem parecer insolúveis. A destruição pode resolver muit
 Fuzis de francoatirador são ótimas maneiras de eliminiar a interferência inimiga.
 Se o esquadrão não tem pressa em cruzar uma área, eles provavelmente estão sendo cautelosos por algum motivo.
 Se você está tendo problemas para chegar ao avião, vá mais depressa!
-RECON.
+Depois de receber um relatório de inteligência de uma vila de pescadores que fornece alimentos à NVA, um regimento dos EUA é enviado para a área. É provável que ocorra uma situação de combate desconhecida à medida que as tropas dos EUA descobrem o terreno do antigo templo que está sendo usado para armazenar equipamento militar nas proximidades
+TEMPLO CAO SON
+Senior Product Manager
 LOGAR
 Muito bem, Bravo 2, suas armas estão liberadas. Ataque o veículo alvo.
 
@@ -3783,6 +3822,7 @@ Aqui é o Gladiador transmitindo para a missão de apoio aéreo... Bombardeio au
 Quanta poeira no ar, está dando muito trabalho!
 TEMPO
 Armas montadas podem ser usadas pressionando o botão Círculo quando você estiver próximo a elas.
+Supervisores de Submissões
 Quer que a câmera balance?
 40MMSMK
 Isto servirá. Há uma tempestade chegando.
@@ -3799,7 +3839,7 @@ PLACA
 CARREGADOR
 CTRL ESQ.
 JOGABILIDADE
-É isso? Vamos precisar de um barco maior.
+É isso ai? Vamos precisar de um barco maior.
 
 CABEÇA/VIRAR
 <{0:s}EMBARCAÇÃO>
@@ -3814,7 +3854,10 @@ Apontar torre para baixo
 Produtor web sênior
 Olhar para cima
 PlayStation®Network
+O comando dos EUA ordenou a segurança de um vale inteiro capaz de produzir grandes quantidades de arroz para o NVA. Um batalhão totalmente mecanizado foi implantado, mas está enfrentando forte oposição enquanto um pelotão de tanques NVA está protegendo a área.
+VALE PHU BAI
 AMIGOS
+PENA DE MORTE
 Atores de captura de movimento
 Eu disse que não. 
 Outro guarda no alto da torre à frente.
@@ -3845,7 +3888,7 @@ Mexa-se!
 Estão por toda a parte, atirar!
 Fuzil de francoatirador. 5 balas. Extremamente preciso. Alcance muito longo. Alto poder. Muito baixa mobilidade.
 Fuzil de francoatirador GOL
-Alto, alto ou vamos atirar!
+Parem, Parem, vamos ser atingidos!
 
 ESTATÍSTICAS
 O ARQUIVO SALVO PARECE ESTAR DANIFICADO. QUER SOBRESCREVÊ-LO?
@@ -3856,7 +3899,8 @@ Conny Bergqvist
 As forças americana estão desesperadas para abrir uma rota de abastecimento para o grupo de blindados de combate entrar em ação mais ao meio.  Uma base de artilharia russa controla a área e contra-ataca qualquer ação lançada.  A base é bem defendida e teve sucesso em repelir os ataques anteriores. A destruição da base e o controle da floresta permitirão às forças anfíbias americanas desembarcar e o segundo fronte, o que é crítico para os planos de libertar a América do Sul.
 ISLA INOCENTES
 NÃO
-Não posso continuar andando!
+Não consigo manter isso na estrada!
+Digital Portfolio Manager
 Diretor de desenvolvimento adicional
 EMAIL DO TUTOR
 ANTERIOR
@@ -3867,20 +3911,24 @@ LOCALIZ. PARA SEG. NIV.
 <{0:s}GRANADA DE FUZIL>
 Vamos lá...
 Tanque, abaixem!
+Depois que uma grande presença do NVA foi descoberta movendo-se através da zona desmilitarizada, as forças americanas desdobram várias unidades para limpar e proteger as muitas colinas e pântanos que compõem a paisagem. Enfrentamentos sangrentos são esperados, já que essa batalha em grande escala será vencida por meio de escavação e perseverança.
+OPERAÇÃO HASTINGS
 Fuzil de assalto automático. 30 balas. 800rpm. Precisão média. Alcance médio. Potência média. Mobilidade média.
 AEK971
 DICA
+LOJA NÃO DISPONÍVEL
 Transporte médio de tropas resistente a explosão e tiro; armado com uma metralhadora montada, calibre .50. 4 assentos.
 CRIAR UM CLÃ
 100 mortes usando o equipamento de assalto das ações especiais
 CONHEC. DE ASSALTO DAS A.E. ({2:S} PTOS)
+Voz Adicional
 PADRÃO
 O DISPOSITIVO DE ARMAZENAMENTO FOI REMOVIDO DURANTE O USO. ERRO AO EXCLUIR.
-GATILHO DIR.
+RTRIGGER
 Bravo 2-4, aqui é Motorista Fantasma. ½Não sei se você já encontrou o barco, ou se é um mesmo um barco. ½Mas estou fazendo uma prece por você, cara.
 
 PARABÉNS! VOCÊ DESBLOQUEOU O EXCLUSIVO MELHORAMENTO DO KIT MÉDICO, CONTENDO NOVA CAMUFLAGEM, RECOMPENSAS, UMA CONQUISTA E UMA VERSÃO ESPECIAL DA ARMA MG3.
-Marlowe, vá pegar o lança-granadas ali!
+Marlowe, vá pegar o RPG no terraço ali em cima!
 Bravo 2, qual seu tempo estimado de chegada para o centro de comunicações? ½Eu mexi alguns pauzinhos para afastar a barragem de artilharia, mas não posso fazer disso um jogo.  ½Pegue Kirilenko agora!
 
 
@@ -3922,7 +3970,7 @@ REDIRECIONE O SATÉLITE
 SIGA A UNIDADE
 ENCONTRE UM TRANSPORTE
 LOCALIZE E PROTEJA A ZONA DE IMPACTO DO SATÉLITE
-Lá está, a cabine de piloto! Finalmente, um pouco de vingança.
+Lá está a cabine do piloto! Finalmente, um pouco de vingança.
 
 COLECIONÁVEL ENCONTRADO: SPAS-12S
 ENCONTRE-SE COM O PRIMEIRO BLINDADO
@@ -3959,6 +4007,7 @@ ALCANCE A POSIÇÃO DE VIGILÂNCIA
 ESTAÇÃO DE COMUNICAÇÃO EM ALFA DESTRUÍDA
 ESTAÇÃO DE COMUNICAÇÃO EM BRAVO DESTRUÍDA
 DESERTO DE ATACAMA
+CRÉDITOS VIETNAM
 Tome isso! Tome isso!
 NEUTRALIZE O ALVO E PEGUE A ARMA DELE
 REABASTEÇA DE MUNIÇÃO
@@ -3969,11 +4018,16 @@ DESTRUA O COMPOSTO ARMADO
 SALTE COM PARAQUEDAS
 ACABE COM KIRILENKO
 Entendido, sargento.
-Francoatirador! Eu vi, na torre.
+Francoatirador! Eu vi ele, na torre.
 Para um local em que querem nos matar, tem uma bela vista.
 
 Meu Deus!
-REABASTECIMENTO EM
+A: SEÇÃO DA CIDADE 1
+B: SEÇÃO DA CIDADE 2
+C: PONTE
+D: SEÇÃO DO PORTO 1
+E: SEÇÃO DO PORTO 2
+TEMPO PARA REABASTECIMENTO
 Não, isso é ruim! Não é nada bom!
 
 
@@ -3988,8 +4042,8 @@ FAROL
 Minas! Cuidado onde pisa.
 FAZENDA
 CABANA
-É? Eu não sei, fomos atacados por tipos incomuns. Não me sinto seguro.
-Estou total e completamente de acordo com isso.
+É? Eu não sei, fomos atacados por pessoas estranhas. Não me sinto seguro.
+Estou total e completamente tranquilo com isso.
 Programadores de ferramentas
 Deve ser este o lugar. Tenham cuidado, se dispararmos em qualquer coisa que não seja os russos, podemos dizer adeus ao satélite.
 Não atirem nos controles. Muito bem, destrua!
@@ -4007,6 +4061,10 @@ Aperte o passo! Você está andando mais depressa?
 FÁBRICA
 CENTRO DA VILA
 FAZENDA
+A: CABINE
+B: CASA DO CIVIL
+C: POSTO AVANÇADO DO EXÉCITO
+D: POSTO AVANÇADO DE COMUNICAÇÃO
 NÍVEL ATUAL
 COMETEU SUICÍDIO
 A: LOCAL DO IMPACTO
@@ -4031,7 +4089,6 @@ Acho ainda que somos desçartáveis.
 ATAQUE
 PONT. PRÊMIOS
 Bravo 2, aqui é Gladiador, precisamos mesmo parar de nos encontrar assim. ½Missão completa, Gladiador regressando à base.
-SEM MUDANÇAS EM SEU ESTADO VETERANO.
 Diretores de marketing
 EXPLOSIVO EM ALFA DESARMADO
 EXPLOSIVO EM BRAVO DESARMADO
@@ -4047,6 +4104,7 @@ Pont. para o próximo ponto
 Quer remover este amigo?
 SIM, REINICIAR
 TROCAR A CÂMERA
+ONSLAUGHT STATUS
 Chefe de animação
 NAVEGAR EQUIPES
 PPM
