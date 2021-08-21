@@ -5007,6 +5007,8 @@ EXPULSO
 partida instantânea não classificada
 Defina a configuração do stick enquanto caminha
 Comprar esta arma na PLAYSTATION®Store.
+Line Manager Animation
+Senior Test Leads
 CAIXA DE OURO 1
 CAIXA DE OURO 2
 Interpretada por
@@ -5015,6 +5017,7 @@ Niklas Åstrand
 ATROPELAMENTOS:
 JOGABILIDADE
 Que merda, a porra dos muros estão vindo abaixo!
+PAINEL ONSLAUGHT
 BASE CENTRAL
 Sargento, veja se consegue pedir um piloto novo também, esse me parece um pouco comunista....
 
@@ -5036,6 +5039,8 @@ FUZIL DE FRANCOAT. GOL MAGNUM
 FUZIL DE ASSALTO M14 MOD 0 MELHORADO
 FUZIL DE ASSALTO M16A2
 FUZIL DE FRANCOATIRADOR M24
+LANÇA-CHAMAS M2
+PATTON M48
 METRALHADORA LEVE M60
 FUZIL DE FRANCO ATIRADOR M95
 METRALHADORA MG3
@@ -5043,6 +5048,7 @@ SENSOR DE MOVIMENTO
 BARCO DE PATRULHA
 METRALHADORA LEVE PKM
 MOTO AQUÁTICA
+T-54
 FUZIL DE FRANCOAT. SNAIPERSKAYA SVU
 AERONAVE NÃO TRIPULADA
 SUBMETRALHADORA UMP-45
@@ -5056,6 +5062,7 @@ Cure 50 companeiros de esquadrão e reanime outros 50
 OPERAÇÕES MÉDICAS NO ESQUADRÃO ({2:s} ptos)
 ESTATÍSTICAS DA RODADA
 REANIMAÇÕES
+ONSLAUGHT
 QUER MESMO ABANDONAR SEU ESQUADRÃO?
 Vamos, proteja o veículo. Vamos pegá-lo e dar o fora daqui!
 O que é isso? Um comboio no caminho do penhasco, pela direita!
@@ -5093,17 +5100,18 @@ DESBLOQUEADO ESPECIALIZAÇÃO DE ASSALTO: PRÁTICAS DE ATIRADOR COM FUZIL DE ASS
 O transporte escolhido pelas forças armadas americanas. Equipado com uma metralhadora calibre .50 e uma torre de 360 graus. Assentos: 4.
 DESBLOQUEADO EQUIPAMENTO DE ENGENHEIRO: ATM-00
 Este texto fictício é para uma UZI com mira reflex
-Atirador na janela, lança granada!
-TODOS
+MISSÃO FALHOU - SEU ESQUADRÃO FOI ELIMINADO!
+Atirador na janela, RPG!
+TODOS OS KITS
 Ajuda na localização de 50 minas de movimento para o esquadrão
 VIGILÂNCIA EM ESQUADRÃO ({2:s} ptos)
 Você sabe onde está indo?
 Parecia um muro de fogo, granadalhão!
 ACELERAR
 PRECISÃO
-Lança-mísseis eliminados, mas não podemos perder mais blindados.
+Ok, Lança-mísseis eliminados, mas não podemos perder mais blindados.
 Recomendo desviar pela direita.
-Concordo, 1. Vamos pela direita.
+Concordo com isso, 1. Vamos pela direita.
 Em uma rodada, faça 5 ajudas com minas de movimento
 BROCHE DE VIGILÂNCIA ({2:s} ptos)
 NO DEATHMATCH EM ESQUADRÃO, 4 ESQUADRÕES COMBATEM CABEÇA A CABEÇA PARA SER O CAMPEÃO DO CAMPO DE BATALHA.½½EM CADA NÍVEL, EXISTE UM VEÍCULO QUE PODE DAR UMA VANTAGEM IMPORTANTE PARA O ESQUADRÃO QUE CONSEGUI-LO.
@@ -5129,10 +5137,11 @@ Maldito seja!
 Não cruzei todo este caminho para me acovardar diante do perigo próximo, vamos!
 Marlowe, vamos sair daqui.
 MORTES
-INCLINAR TORRE
+Community Manager
+INCLINAR TORRETA
 SELECIONAR UM DISPOSITIVO
-Vamos! Fora! Fiquem abaixados!
-Ah, vamos! Se este piloto hippie tivesse alguns colhões,½estaríamos bebendo margaritas na zona de impacto.
+Vamos! Pra Fora! Fiquem abaixados!
+Ah, Qualé! Se este piloto hippie tivesse coragem,½estaríamos bebendo margaritas na zona de impacto.
 
 MARCADORES
 Kodiak 4, como está indo? Recebeu danos no último confronto?
@@ -5164,29 +5173,30 @@ BAIXAR VOL
 SANGRE DEL TORO DESCRIÇÃO
 SANGRE DEL TORO
 CARREGAMENTO COMPLETO
-ESQUADRÃO: ASSALTO
+ESQUADRÃO ASSALTO
 NÃO FOI POSSÍVEL DESBLOQUEAR A ARMA.
 OS REFORÇOS CHEGARAM, MUITO BEM!
 OBJETIVO DESARMADO +{0:s}
 Erik Svensson
 LANÇA-GRANADAS
 GRANADA DE MÃO
-INJEÇÃO (DESBLOQUEAR)
-Estes bastardos estão bem entrinceirados; há metralhadoras nas casas cobrindo as ruas.
+AUTO INJETOR (DESBLOQUEAR)
+Estes desgraçados estão bem fechados; há metralhadoras nas casas cobrindo as ruas.
 NING.
 VOCÊ QUER MESMO REINICIAR TODA A MISSÃO? TODO O PROGRESSO NESTA MISSÃO SERÁ PERDIDO.
 GRANADA DE MÃO
 LANÇA-FOGUETES
 MINA ANTITANQUE (DESBLOQUEAR)
 BRILHO
-Merda, merda! Estão nos rodeando, vão tentar chegar à casa!
+Merda, merda!, merda!, merda! Estão nos rodeando, vão tentar chegar à casa!
 CONVIDAR AMIGO PARA O ESQUADRÃO
 UNIR-SE À SESSÃO
 ORIGINAL
-Merda. Estamos aqui por isso.
+Merda. Agora estamos prontos.
 
 JOGAR AGORA
 EQUIPE:
+Manuscript
 Um barco de pesca com um lançador de granada automática montado na proa! Muito canhão para um barquinho...
 Cobertura!
 Siga-me, vamos!
@@ -5195,7 +5205,7 @@ ARMA DE MÃO
 SENSOR DE MOVIMENTO
 DESIGNADOR LASER (DESBLOQUEADO)
 Especialização de veículo
-Bravo 2, aqui é Motoqueiro Fantasma, muitos caras malvados seguindo em sua direção.
+Bravo 2, aqui é Motoqueiro Fantasma, muitos desgraçados seguindo em sua direção.
 GRANADA DE MÃO
 ARMA TRAÇADORA
 EXPLOSIVOS REMOTOS (DESBLOQUEAR)
@@ -5209,14 +5219,18 @@ Com excelente precisão, este fuzil fornece desempenho excepcional em situaçõe
 Esta versão modificada do M14, é um fuzil de combate semiautomática de 20 balas que representa  uma arma com uma culatra para missões de atiradores que aumenta sua capacidade de distância.½
 O M16A2, um fuzil de assalto com drágeas para 3 disparos fabricado nos EUA, inclui um carregador de 30 projéteis e um formato para otimizar a conservação da munição, precisão do tiro e potência. 
 Originalmente desenvolvido para usar os cartuchos Magnum cal. 30-06, a câmara foi refeita para usar munição de 7.62mm. O que não reduz o alcance ou o poder de detenção.  O M24 ainda é popular aos Franco atiradores do mundo todo.
+Lança-chamas portátil capaz de produzir um jato de queima de combustível
+Lança-chamas portátil capaz de produzir um jato de combustível em chamas. Ideal para limpar bunkers e outros espaços apertados.
 Utilizando elementos desenvolvidos na MG42 da 2ª GM, o M60 foi lançado em 1957 e tem sido o cavalo de batalha de todo o corpo militar americano.  It has gone through several modifications but is slowly being phased out by the M240.
+O Patton foi o principal tanque de batalha dos Estados Unidos durante o período da Guerra Fria e o M48 foi o principal MBT da Guerra do Vietnã.
 Uma versão moderna da MG42 da 2ª GM, o MG3 está presente em mais de 20 países devido ao seu desenho simples e excelente desempenho. Com 1.000 balas por minuto, o MG3 é um incrível multiplicador de força. Seu desenho segue firme por mais de 70 anos.
 Uma ferramenta para exploração e recolhimento de inteligência em tempo real, este dispositivo portátil de alta tecnologia foi criado para detectar mesmo uma movimentação mínima alertando que o estiver usando quando um inimigo se aproximar a pé ou em um veículo.
 Este barco de patrulha leve tem alta velocidade e capacidade de manobra, desenvolvido para inserção/extração, tiro de apoio e reconhecimento de ameaças de nível baixo a médio.  Armado com 2 lança granadas de 20mm. Operado por uma tripulação de 4 pessoas.½
 Metralhadora russa de propósito geral adotada no mundo todo por ser simples e confiável. Sua alta taxa de fogo e seu calibre 7.62x54mm fornecem excelente capacidade de longo alcance.½
 Esta moto aquática tem alta velocidade e desenvolvida para colocar 2 pessoas em território ocupado inimigo.½
+O T-54 é o MBT mais produzido da história, tendo se envolvido em vários conflitos desde a Segunda Guerra Mundial. Seu canhão de 100 mm era uma grande ameaça para qualquer coisa em seu caminho.
 Ainda que sacrifique precisão e poder de detenção, a empunhadura adianta é baseada no Dragunov SVD. O SVU foi originalmente desenvolvido para a tropa aerotransportada russa, porém foi adotada pelas forças policiais para operações urbanas.
-Aeronave não tripulada pilotada a distância para missões de reconhecimento que permite solicitar ataques aéreos e um informaçõesrme em tempo real do campo de batalha.  It can be equipped with a .50 caliber HMG or smoke dispensers.½
+Aeronave não tripulada pilotada a distância para missões de reconhecimento que permite solicitar ataques aéreos e um informaçõesrme em tempo real do campo de batalha.  Pode ser equipado com um calibre .50 HMG ou dispensadores de fumaça.½
 De fabricação alemã, 25 balas, esta submetralhadora automática é notável por sua versatilidade, mobilidade e silenciador, tornando-a a escolha ideal para forças terrestres em combate de curta distância. 
 Esta lendária submetralhadora israelense foi desenvolvida para defesa pessoal, provando ser bem eficiente na proteção de espaços reduzidos. É uma escolha de confiança entre incontáveis forças terrestres.
 O VSS é compacto, silencioso e com tambor para munição subsônica 9x39 mm.  As balas diferenciam do padrão 9 mm que fornecem mais energia a capacidade de penetração para um alcance de até 400 metros.
@@ -5226,12 +5240,13 @@ REPRESÁLIA EM ESQUADRÃO ({2:s} ptos)
 Metralhadora leve automática. 200 balas. 650rpm. Precisão média. Alcance longo. Poder médio. Mobilidade baixa. Grande recuo. 
 QJY-88 HMG
 PREFERÊNCIAS DE JOGO
-Wyatt, pegue esse canhão cal .30!
+Wyatt, pegue esse canhão calibre .30!
 ENVIO COMPLETADO
 Ele me disse que era da CIA.
 REANIM. PARA SEG. NIV.
 Soldados armados, pela direita!
 E esse buraco?
+Artists
 VOCÊ FOI RECOMPENSADO COM UMA ARMA EXCLUSIVA PARA USAR NO MULTIJOGADOR ONLINE DE BATTEFIELD. PARA USÁ-LA, SELECIONE NA TELA DE REGENERAÇÃO DURANTE O JOGO ANTES DE ENTRAR EM AÇÃO.
 NINGUÉM FICA PARA TRÁS (DESCRIÇÃO)
 NINGUÉM FICA PARA TRÁS
@@ -5264,7 +5279,7 @@ PRESSIONE PARA ABAIXAR
 Cara, ah cara... Eu posso me conformar com uma vida menos turbulenta!
 
 Solicitação de amizade enviada com sucesso.
-Um BMD, às 12! Pela direita! Agora! Agora!
+Um BMD, às doze horas! Pela direita! Agora! Agora! Agora!
 0
 Tarde demais! Tarde demais...
 
@@ -5277,6 +5292,7 @@ Ah! Você é um rapaz esperto.
 
 Metralhadora leve automática. 100 balas. 750 rpm. Precisão média. Alcance médio. Mobilidade média. Recuo médio.
 MG36
+Você foi colocado em uma fila, sua posição é… X † de… Y †.
 CÓDIGO PROMOCIONAL
 PONT.
 Uma história de
@@ -5290,14 +5306,14 @@ Obrigado, Motoqueiro Fantasma. Recebido.
 Kit médico de capacidade maior. Aumentando a eficiência de alcance de cura de seus kit médicos distribuídos.
 Kit médico de alcance estendido
 CRIANDO UM ESQUADRÃO
-Calado, por favor. Sweets.
+Por favor, Cala a boca, Sweets.
 ESTA CONTA FOI BANIDA.
 Gamertag
 O que há neste caminhão, afinal?
 Entendido, sargento!
 MAPA:
 CORRER (PRESSIONAR)
-Use o lança-granadas nesta porra!
+Use o RPG nesta porra!
 Granadas de 40mm altamente explosivas para o lança-granadas do fuzil de assalto. Eficiente contra veículos leves e infantaria.
 RIO ACIMA (DESCRIÇÃO)
 RIO ACIMA
@@ -5312,6 +5328,7 @@ NÃO
 Soldado japonês
 Coloque 100 dardos traçadores
 RÁDIO EM COMB. EXTENDIDO ({2:s} ptos)
+Additional Art Director
 O CONTEÚDO BAIXÁVEL ADQUIRIDO PARECE ESTAR CORROMPIDO, PARA RESOLVER ESTE PROBLEMA, BAIXE-O DE NOVO.
 Quer aprender o idioma da tecnologia? Visite o ½Instituto Russo. Subsidiado pela coalizão RULA.
 
@@ -5340,15 +5357,17 @@ CURAS PARA SEG. NIV.
 Muito bem, comece disparando nos atiradores.
 Certo, tudo limpo.
 Inge Jöran Holberg
-Ele está caído! Merda, eu acho, todos para cima das torres, vamos derrubar estes bastardos!
+Director Online Marketing
+Ele morreu! Merda, Acho quê... Sim, todos para cima das torres, vamos derrubar estes desgraçados!
 
 
 
+Level Designers
 Coordenador de licenças musicais
 Coordenador de gravação, Rússia
 Artileiro abatido!
 DEIXANDO O ESQUADRÃO
-Morteiros! Procurem abrigo!
+Morteiros! Protejam-se!
 
 Atento às suas nove horas, às nove.
 Americanos! Minhas forças estão indo para aí! Rendam-se imediatamente e serão poupados. ½Não conseguirão sair desta montanha.
@@ -5358,6 +5377,7 @@ Kirilenko deve estar perto. ½Eu voto por eliminarmos o alvo junto com a sucata 
 
  Granadas de fumaça de 40mm para o lança-granadas do fuzil de assalto. Fornece uma cortina visual para dar apoio ao movimento no campo de batalha.  Oculta alvos perto do ponto de impacto.
 PRODUÇÃO DE VÍDEO E ARTE DIGITAL
+{0:s}<AK47>
 Mmhm. Motoqueiro Fantasma, aqui é Redford. Temos a trajetória de impacto para o satélite. Pode recolhê-lo?
 JOG. NECESSÁRIOS PARA COMEÇAR: {0:~}
 Merda, pare! Temos de... Voltar, inverter curso!
@@ -5371,6 +5391,7 @@ Bravo 2, aqui é Motoqueiro Fantasma. Não quero alarmá-los, vocês sabem... ½
 
 {0:s}<DESFIBRILADOR>
 {0:s}<FUZIL DE ASSALTO F2000>
+{0:s}<G69>
 Chefe de programação
 5 Broches de Nêmesis, 5 Broches de Vingança
 FATOR DE GUINADA
@@ -5379,6 +5400,7 @@ Meu Deus, há Franco atiradores por todo o mapa aqui, não parem!
 
 Vamos.
 {0:s}<PISTOLA M1911 CAL. 45 2ªGM>
+Line Manager Audio
 ESC40MM
 {0:s}<PISTOLA REX MP-412>
 {0:s}<PISTOLA GRACH MP-443>
@@ -5387,6 +5409,7 @@ RECARREGANDO
 ESCOPETA DE 40MM
 {0:s}<FACA DE COMBATE>
 PAUSADO
+{0:s}<PPSh>
 {0:s}<FUZIL DE FRANCOATIRADOR TIPO 88>
 NÃO FOI POSSÍVEL INICIAR A SESSÃO, TENTE DE NOVO.
 ANTIGO
@@ -5400,6 +5423,7 @@ DESBLOQUEADA ARMA DE SOLDADO: FUZIL GARAND M1 DA 2ª GM
 DESBLOQUEADO DISPOSITIVO DE ENGENHEIRO: M136 AT4
 DESBLOUQEADA ARMA DE MÉDICO: METRALHADORA LEVE M249 SAW
 DESBLOUQEADO DISPOSITVO DE ENGENHEIRO: M2 CARL GUSTAV AT
+DESBLOQUEADA ARMA DE MÃO DE SOLDADO: METRALHADORA M416
 DESBLOQUEADA ESPECIALIZAÇÃO DE MÉDICO: MAIOR ALCANCE DO KIT MÉDICO
 DESBLOQUEADA ESPECIALIZAÇÃO DE MÉDICO: MAIOR CURA DO KIT MÉDICO
 DESBLOQUEADO DISPOSITIVO DE MÉDICO: KIT MÉDICO
@@ -5416,6 +5440,7 @@ EQUIP.
 DESBLOQUEADA ARMA DE ENGENHEIRO: CARABINA COMPACTA XM8
 Recebido, rastreando.
 Certo, Marlowe, mantenha esta metralhadora apontada. Qualquer movimento, você atira!
+{0:s}<TT-33>
 ASSALTO DO ES
 ASSALTO DO ES
 ATROPELAMENTO
@@ -5423,9 +5448,10 @@ Ativa o rádio em determinados veículos
 Todas as unidades da rede, aqui fala Kodiak.
 Fique alerta, elementos blindados pesados fizeram contato.
 Nossas unidades tem recebido tiros de armas pesadas, armas pequenas e lança-granadas.
+{0:s}<XM22>
 {0:s}<LANÇA-GRANADAS AUTOMÁTICO XM-306>
 {0:s}<METRALHADORA PESADA>
-Lança-granadas na janela!
+RPG na janela!
 Ver o progresso de seus colecionáveis
 COLECIONÁVEIS
 Certo, vamos lá! Estamos indo.
@@ -5470,8 +5496,9 @@ Bravo 2, inimigos irritados. Esperem reforços.
 Digite o endereço de email que deseja anexar à sua conta EA. Também pode usar uma conta já criada.
 CANAL DE RÁDIO
 Equipado com suprimentos médicos de campo, um desfibrilador e uma metralhadora leve. Literalmente para um médico em combate.
+Executive Assistant
 Zeros!
-FECHA:
+DATA:
 Pistola semiautomática de 7 balas possuindo o devastador calibre .45: poder de detenção combinado com uma estrutura compacta. ½
 Um revólver semiautomático de 6 balas superior à custa distância e com capacidade para eliminar o inimigo com um só disparo.
 Pistola semiautomática de 17 balas, conhecida por sua alta mobilidade, tornando-a a escolha ideal para combates de curta distância.
@@ -5483,9 +5510,11 @@ Estamos chegando... Identificado o comboio de tanques...
 Um fuzil semiautomático, 10 balas, com um desenho robusto que produz precisão e poder de detenção médios.  ½
 Metralhadora leve de 5.8 mm disparando 650 balas/min, com cinto de alimentação para 200 balas. Seu longo alcance compensa o seu peso elevado e forte recuo.½
 Um lança-granadas automático chinês de 35mm leve e altamente móvel.½
+Lançador de granadas de propulsão por foguete russo 85mm
 DESBLOQUEAR
-Talvez não tenha sido nosso homem. Um tiro impressionante na minha opinião.
+Talvez tenha sido nosso cara. Um tiro impressionante na minha opinião.
 PLACAS DE IDENTIFICAÇÃO ÚNICAS RECOLHIDAS
+European QA Director
 Configuração de botões para veículos terrestres e barcos
 O último recurso de qualquer soldado em campo de batalha.
 Faca de combate
@@ -5512,12 +5541,13 @@ Projetistas de som
 Eu te cubro às seis! Você cuida dos helicópteros, certo?
 100 mortes com C4
 DETON. REMOTA EM COMBATE DESTACADO ({2:s} ptos)
-YOU ARE THE LAST MAN STANDING!
+VOCÊ É O ULTIMO HOMEM DE VIVO!
 {0:s}<ESCOPETA DE ASSALTO 870>
+ONSLAUGHT
 COLECIONÁVEL ENCONTRADO: F2000
 NÃO FOI POSSÍVEL SE CONECTAR À PlayStation®Network PARA COMPLETAR A CRIAÇÃO DA CONTA
 FALHA AO CONECTAR COM A EA ONLINE, TENTE NOVAMENTE
-Possíveis legais de Xbox 360
+Possíveis menssagens legais do Xbox 360
 MODO DE JOGO:
 PONT. MÉDICO
 DISPARAR CANHÃO PRINCIPAL
@@ -5534,6 +5564,7 @@ COLECIONÁVEL ENCONTRADO: MP-443
 Johannes Fors
 SUA SESSÃO FOI ENCERRADA, ISTO PODE TER ACONTECIDO DEVIDO A VÁRIAS SESSÕES COM A MESMA CONTA.
 Acabe com os dois, rápido.
+Âncora de notícias
 COLECIONÁVEL ENCONTRADO: T88 S
 DISTÂNCIA PERCORRIDA
 COLECIONÁVEL ENCONTRADO: METR. T88
@@ -5545,6 +5576,7 @@ DANOS EM VEÍCULO DA EQUIPE {0:s}
 Apresse o passo!
 Haggard, tire esse pedaço de perda da estrada!
 Este canhão Gatling de fogo rápido dispara projéteis explosivos de 20 mm de curto alcance. Algumas vezes usado como uma arma de apoio terrestre antiaérea.  Outras vezes usado como para atacar veículos blindados.  Ainda que fora de serviço, ainda opera em exércitos estrangeiros.½
+Gravação cortesia de
 Nós te tiraremos daqui, maldito hippie. Incenso e hortelã, seus bastardos!
 
 CAPTURA DE TELA REALIZADA
@@ -5553,7 +5585,7 @@ QUER MESMO RESTAURAR AOS VALORES PADRÕES?
 Esquisito. É equipamento russo de última ½geração.
 É, parece que sim...
 ESCOLHA UM TRAILER
-Um veículo! Protejam-se!
+Veículo! Protejam-se!
 Marlowe! Volte! Os morteiros inimigos cobrem essa ½área! Volte!
 
 Marlowe! Olhe seu mapa! Nessa área há morteiros ½inimigos! Volte!
