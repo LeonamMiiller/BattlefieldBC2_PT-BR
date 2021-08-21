@@ -2813,7 +2813,7 @@ Wyatt, pegue o da esquerda.
 VOCÊ NÃO PEGOU NENHUMA PLACA
 Manuel Llanes
 REPARAC. PARA NIV. SEG.
-Ei! Sentiu esse ceiro?
+Ei! Sentiu esse cheiro?
 Não, não, não, é o oceano. Acho que estamos nos aproximando do porto...
 
 
@@ -2825,6 +2825,7 @@ Em uma rodada, atropele 3 inimigos com qualquer veículo
 BROCHE DE RODAS PERIGOSAS ({2:s} ptos)
 Entendi, sargento.
 Não acredito que estamos a ponto de fazer isso...
+M10
 O submarino está partido... Está partindo! Corram!
 
 NÃO FOI POSSÍVEL UNIR
@@ -2850,6 +2851,7 @@ Este traje de carga dobra a quantidade de granadas e mão e de 40MM que um solda
 TRAJE PARA GRANADAS
 GAMERTAG
 Maldito, chamariz luminoso para armadilha. Preparem-se.
+Tuk-Tuk
 Escopeta de bomba com empunhadura adiantada, potente, mas com alcance limitado.  Tem um carregador tubular de 4 balas.½
 Bom trabalho, Bravo 2, ele está torrado.
 Não podemos ir mais devagar! Não podemos ir mais devagar!
@@ -2901,23 +2903,30 @@ EVITE A DETONAÇÃO DA ARMA ESCALAR
 EVITE A DETONAÇÃO DA ARMA ESCALAR
 EVITE A DETONAÇÃO DA ARMA ESCALAR
 Consiga todos os broches de veículos
+Um mecânico combatente que é igualmente hábil em ajustar veículos aliados ou destruir os dos inimigos. Carrega metralhadoras para defesa pessoal.
 SERVIÇO DE VEÍCULOS EXEMPLAR ({2:s} ptos)
-Reforços no alto!
+Reforços chegando!
 O último grupo está junto ao barco.
-Em um rodada, mate com carro 4 inimigos
-Merda com o moinho.
-Falha ao iniciar sessão com soldado.
+Em um rodada, mate 3 inimigos com carros
+Puta merda, o moinho de vento.
+Falha ao iniciar sessão, soldado.
 BROCHE HOSTILIDADE AO VOLANTE ({2:s} ptos)
 SÓ MESMA VERSÃO
 Arma operada a gás que planta um dardo luminoso que guia mísseis até o alvo.
 Arma de dados traçadores
-Devíamos nos encontrar aqui.
+Devíamos nos encontrar aqui, não é?
 VIRAR ESQUERDA/DIREITA (GUINADA)
 CANHOTO
 ESPAÇO VAZIO
 Produtor executivo
 JOGADOR ÚNICO
 CANHOTO
+TRUCK RIDE
+TANK STRIKE
+KIRILENKO'S TAKEOFF
+A: UAV STATION
+B: TOW DEFENSE
+C: BMD HILL
 Estou esgotado, maldição! Continue com o fogo de supressão! Vamos sair desta merda!
 Eles têm muitos caras malvados ali fora, certo?
 Entendido.
@@ -2925,6 +2934,7 @@ Dizer ao esquadrão
 VISÃO VERTICAL
 1J NÍVEL 6
 ESCOPETA DE ASSALTO NEOSTEAD 2000
+Este riquixá automático não é recomendado para o serviço militar ou qualquer outro trabalho pesado. No entanto, ele o levará ao seu destino - muito barato e com um preço especial.
 VER SOLDADO/VEÍCULO
 CLASSE:
 TEMPO:
@@ -2934,14 +2944,15 @@ PONT. VEÍCULO
 Buscar proteção nas casas!
 CAPTURAS
 DIAS
-Bem, agora! Fogo de supressão! Preston, designe o alvo!
+Certo, agora! Fogo de supressão! Preston, designe o alvo!
 BROCHE
 VITÓRIAS
 Consiga todos os broches
 SERVIÇO DE ELITE ({2:s} ptos)
 Continue atacando!
 CONTROLES TERRA/ÁGUA
-Belo tiro, magrela, tem talento.
+Additional Sound Design
+Belo tiro, magrelo, tem talento.
 ESTRADA
 Em uma rodada, usando tanque mate 7 inimigos
 <{0:s}LANÇA-FOGUETES>
@@ -2954,22 +2965,22 @@ Que merda! Eles têm pássaros inimigos no ar, não podemos arriscar subir! ½Vo
 
 Artista da vegetação
 Belo tiro, Marlowe!
-É. Merda!
+Isso, Caralho!
 FOGO SECUNDÁRIO
 Cara, toda esta areia está me deixando com sede!
 Abaixados!
 Auxiliar de animação
 Submetralhadora automática de 40 balas de pouco poder, mas com grande mobilidade e pouco barulho. 
-POSIÇÃO DE MEU CLÃ
+POSIÇÃO DO MEU CLÃ
 ÁUDIO
 Sargento, quer que eu peça apoio aéreo?
-Vai ser um minuto realmente longo!
+Esse vai ser um minuto realmente longo!
 Com o quê? Com pensamentos positivos?
 COMEÇAR CAMPANHA
 Tutorial de assalto
 Especialistas
 Pare este veículo!
-Verifique... Parece com uma estação móvel. Marlow...bote ½uma bala...não queremos estes caras conversando entre si.
+Vejam só... Parece com uma estação móvel. Marlow... ½mete uma bala nisso... não queremos estes caras conversando entre si.
 
 Aqui é Zero Seis Um a duas milhas, Arcanjo Quatro. Aguentem firme, bombas carregadas.
 FALHA AO CRIAR UMA CONTA EA. O ENDEREÇO DE EMAIL É INVÁLIDO.
@@ -2977,7 +2988,7 @@ MÁS NOTÍCIAS, SOLDADO!
 BEM-VINDO DE VOLTA AO DEVER! COMO RECOMPENSA POR SER UM VETERANO EM BATTEFIELD, AGORA VOCÊ TEM ACESSO EXCLUSIVO AO GARAND M1, fuzil DE OUTRO BALAS SEMIAUTOMÁTICO DE BATTLEFIELD 1943.
 A CONEXÃO COM A EA ONLINE FOI PERDIDA: A CONTA FOI BANIDA.
 PRÓXIMO ITEM
-Vamos fazer algo! Daremos cobertura!
+Vamos, faça alguma coisa! Daremos cobertura!
 MÊS
 MOUSE
 Há uma porrada de inimigos.
@@ -2997,10 +3008,10 @@ BC1-CANHOTO
 Quatro atingido, quatro atingido! Abrir fogo!
 Provavelmente pássaros.
 O jogo já está registrado.
-Muito bem, vamos encontrar Kirrilittigo. Estou ansioso para encontrá-lo... ½Diabos, até penteei minha barba...
+Certo, vamos encontrar esse Kirrilittigo. Estou ansioso para conhecê-lo... ½Inferno, até penteei minha barba...
 
-Bravo 2, fique avisado que temos um inimigo [estática] chegando.
-Em uma rodada, usando embarcação mate 4 inimigos
+Bravo 2, fique ciente que temos um inimigo [estática] chegando.
+Em uma rodada, mate 4 inimigos usando embarcações
 BROCHE GUERRA NAVAL ({2:s} ptos)
 Alguém se encarrega dos quadriciclos? Marlowe!
 VÍDEO
@@ -3023,25 +3034,24 @@ Shh... Algo sobre uma baía?
 QUALQUER
 Para a cabeceira do rio!
 Não estaríamos assim se tivéssemos aproveitado...
-ANTIGO
+LEGADO
 AUTOEQUILÍBRIO
 Cuidado!
 NÍVEL DE HABIL.
 Acabe com estes caras antes que eles cheguem ao alarme.
 PP-2000 AVTOMAT
-Vamos acabar com isso.
+Vamos acabar com isso e dar o fora daqui.
 Entendido, Kodiak Quatro... Iniciando ataque.
-DEFENSOR:
 Tropas terrestres se aproximando, às doze horas!
 BAD COMPANY 1
-Entendido, sargento, embora não haverá outro lugar para esconder em 30 segundos!
+Entendido, sargento, embora não haverá outro lugar para se esconder em 30 segundos!
 
 UNIR-SE
-Que diabos de tiroteio rolou aqui. Creio que alguns deles são homens do Aguire.
+Rolou um tirotieio infernal aqui. Creio que alguns deles são homens do Aguire.
 
-olhe as armas e itens disponíveis no jogo
+dê uma olhada nas armas e itens disponíveis no jogo
 SUICÍDIO
-É! Vou tentar aterrissar, certo? Muito bem, estamos girando...
+É! Vou tentar aterrissar, certo? Estou aproximando a gente...
 
 Consiga todas as estrelas de bronze para veículos
 CONHEC. DE VEÍCULOS DISTINTO ({2:s} ptos)
@@ -3053,7 +3063,7 @@ Há caras com mísseis TOWS...
 Você não se parece com um pacifista agora, Flynn!
 NÃO
 ACEITAR
-Maldito seja! Aonde ele vai?
+Droga! Aonde ele vai?
 VOCÊ É O ÚLTIMO HOMEM EM PÉ
 PARTIDA PERSONALIZADA
 Docinho, o que estão dizendo?
@@ -3075,23 +3085,24 @@ ESTA DEMO FOI DESENVOLVIDA APENAS PARA PROPÓSITOS PROMOCIONAIS E NÃO PODE SER 
 continuar desde o último ponto de controle salvo
 FALHA AO CONECTAR COM A XBOX LIVE
 Selecione se você quer jogar no modo hardcore.
-Jesus! De onde eles vieram?
+Line Managers Programming
+Mas que merda! De onde eles estão vindo?
 Temos de continuar, Preston!
 870MCS
 GLOBAL
-Eu vi! Disparos, disparos!
+Estou vendo eles! Abram fogo, Abram fogo!
 Roland Smedberg
 Mattias Häggström
 Talvez... nós devemos detê-lo de qualquer forma.
 TEMP. JOGO
-Maldição. Há uma grande presença inimiga aqui.
+Maldição. Tá cheio de inimigos aqui.
 DETONAR CARGA
 ATIVAR DISPOSITIVO
 RECARREGAR
 NÃO FOI POSSÍVEL SE CONECTAR A XBOX LIVE PARA COMPLETAR A CRIAÇÃO DA CONTA
 ACELERAR
 ACELERAR
-Aqui está! Maldição, Aguire não disse que era grande!
+Aí vem! Maldição, Aguire não disse que era tão grande!
 
 Ver a classificação geral e da equipe
 INFORMAÇÃO: ESQUADRÕES
@@ -3102,7 +3113,7 @@ Comunicações corporativas
 COMBATE DE ARTILHARIA DISTINTO ({2:s} ptos)
 você tem um mapa favorito?
 partida classificada ou não?
-MISSÃO NÃO CUMPRIDA - VOCÊ FOI MORTO
+MISSÃO FALHOU - VOCÊ FOI MORTO
 Muito bem. 3, 2, 1...
 
 
@@ -3132,16 +3143,17 @@ PLACA DO CLÃ
 LOGAR
 PONT.
 Kristoffer Bergqvist
+CRIAR UM JOGO PRIVADO
 Assistente de marketing
-Um escopeta exclusiva de bomba de 4 balas perfeita para o combate de curta distância. Tem um excelente poder de fogo, mas limitado alcance.½
-Uma escopeta semiautomática com carregador de caixa para 6 balas que oferece um poder devastador em combate a curta distância onde o alcance não é relevante.½
+Uma espingarda de 4 tiros de aparência única, adequada para combate corpo-a-corpo. Possui excelente poder de fogo, mas alcance limitado.½
+Uma espingarda semiautomática de 6 tiros, com alimentação em caixa, que oferece um poder de parada devastador em CQB, onde o alcance não é um fator.
 TIRO NA CABEÇA POR ATIRADOR +{0:s}
 VISÃO DA EXECUÇÃO
 Não não não... Espere!
 ARMAS E DISPOSITIVOS
 NOTA DA ESRB: Interações online não foram avaliadas pela ESRB.
 ACESSAR CONTROLES DO SATÉLITE
-O acampamento e Aguire está rio acima. Vamos, sem fazer barulho.
+O acampamento e Aguire estão rio acima. Vamos, sem fazer barulho.
 Maldito seja!
 EA Xangai
 EXTRAS
@@ -3154,13 +3166,13 @@ Que se dane, Pitbull.
 FECHAR
 QUALIDADE GERAL
 Ver captura
-É isso! É isso!
-É a hora do Miller! Bom trabalho, Bravo 2.
+Isso ai! Isso ai! Ligue para ele. 
+É a vez do Miller! Bom trabalho, Bravo 2.
 Seus homens podem nos acompanhar a qualquer hora, devemos muitas cervejas.
 Cuidado agora...
 OBJETIVOS SECUNDÁRIOS
 SAIR
-Certo, vamos lá, vamos nos mover, vamos!
+Certo, vamos lá, vamos continuar, bora!
 CONVITES PENDENTES
 Alguém suba neste helicóptero e dê um banho nele!
 Vão nos devorar vivos!
@@ -3179,7 +3191,7 @@ ESQ.ESQ
 Tire o pé daí, tenho de colocar em quarta!
 MELHORA PARA O EQUIPAMENTO DO ENGENHEIRO
 Muito bem, parece ser o lugar.
-Maldição! Olhe estes caras...
+Maldição! Dá uma olhada nesses caras...
 
 MINHA CAMPANHA
 Barrie Tingle
@@ -3187,10 +3199,10 @@ Gerente de TI
 CAIXA COM OURO 2 DESTRUÍDA!
 Estou cansado. Matar pessoas é exaustivo.
 Chefe de ferramentas
-BOTÃO B
-BOTÃO A
+RDOWN
+RLEFT
 Maldito seja, não consigo ouvir nada, vira essa arma!
-USAR BINÓCULOS
+PARA USAR BINÓCULOS
 Metralhadora!
 Este cara está nos devorando vivos. Preston, siga-me! Temos de flanqueá-lo.
 DEIXAR O CLÃ
@@ -3198,7 +3210,9 @@ BAD COMPANY 1
 SELEÇÃO DE EQUIP.
 Esta conta não tem nenhum soldado, por favor crie um soldado pressionando o botão Criar.
 O aeroporto está perto.
+Ferramenta de soldagem portátil para reparos de emergência. Cuidado! Mantenha-se afastado de chamas ardentes.
 O endereço de email é inválido.
+Escritor
 PRINCIPAL
 FUNÇÃO
 ESCOPETA DE ASSALTO SPAS-12
@@ -3209,6 +3223,7 @@ Esta entrada já está sendo usada para {0:~} ({1:~}). Quer mesmo alternar?
 Onde diabos está todo mundo, não tem ninguém aqui!
 0
 Defina a configuração de botões para os veículos aéreos
+{0:s}<SERINGA>
 Abaixar
 PONT. TOTAL
 CONTATE-ME SOBRE PRODUTOS, NOTÍCIAS E EVENTOS DA EA.
@@ -3220,7 +3235,7 @@ Artistas de personagens
 Acabe com eles antes que cheguem aos oficiais.
 JOGO
 Líder de testes adicional
-Cale a boca e mexa-se, Haggard. Estamos atrasados...
+Cale a boca e mexa-se, Haggard. Estamos sem tempo...
 TODOS OS EQUIPAMENTOS
 COLDWOOD
 INFO: TEAMPLAY
@@ -3229,7 +3244,7 @@ Marlowe! Volte aqui! Essa área não é segura! ½É uma área de morteiros inim
 
 
 
-Volte, Preston! Morteiros inimigos apontam pra este caminho! ½Veja o mapa!
+Volte, Preston! Morteiros inimigos estão apontados para este lado! ½Veja o mapa!
 Não vá por aí Preston! Morteiros inimigos estão ½cobrindo a área!
 
 Meta medo neles, Marlowe.
@@ -3257,6 +3272,8 @@ INSÍGNIAS
 Vamos tentar sair pelo jeito difícil!
 PROP. A/M
 Uma variante de empunhadura adiantada da M95, versão serrada da M82A1 que reduz o tamanho, mas mantém o comprimento geral do tambor.   Suas funções principais são operações antifrancoatirador e antiequipamentos.
+Maçarico
+Insira quaisquer caracteres asiáticos ToS ausentes aqui
 As caixas de munição estão marcadas em seu mini mapa.
 Lembre-se que você pode usar armas destrutivas para detonar prédios, criar rotas e causar estragos.
 Correr pode frequentemente colocá-lo em situações difíceis. Tenha cuidado.
@@ -3267,12 +3284,12 @@ Apenas abaixe a cabeça e fique fora da linha de fogo desta coisa por um pouco m
 Faz um maldito buraco!
 Alternar armas
 CORPO A CORPO
-A casa de Aguire, lá em cima!
+A casa do Aguire, lá em cima!
 Muito bem, vamos detonar. o veículo ali parece legal.
 Muito bem, saia! Vamos!
 PONT. MÉDICO
-MISSÃO NÃO CUMPRIDA - VOCÊ CONGELOU ATÉ A MORTE
-Armas montadas podem ser usadas pressionando B ao estar em seu raio de alcance.
+MISSÃO FALHOU - VOCÊ CONGELOU ATÉ A MORTE
+Armas montadas podem ser usadas pressionando B quando estiver em seu raio de alcance.
 A: CENTRO DE COMUNICAÇÕES
 B: ARMAZÉM
 C: FÁBRICA
@@ -3333,10 +3350,14 @@ Está vindo!
 Preston, temos de flanquear essa metralhadora, siga-me!
 
 VOCÊ FOI REVIVIDO POR {0:~}
+ALPHA
 Muito bem, Bravo 2, o suporte aéreo está disponível. Você precisa designar o veículo inimigo manualmente.
 Repetindo, você precisa designar o veículo inimigo manualmente.
 Essa foi ao estilo ninja, Marlowe.
+BRAVO
 Mirar acima
+DELTA
+News Anchor
 Precisamos matá-los se quisermos chegar até a arma. Devemos estar bem perto dos Estados Unidos agora. Ao meu sinal.
 
 
@@ -3348,6 +3369,7 @@ A senha contém caracteres inválidos.
 MORTES
 MINHA EQUIPE
 {0:s}m {1:s}s
+Em Onslaught, até 4 jogadores capturam uma série de bandeiras que são defendidas por inimigos de IA. Mantenha pelo menos um membro do esquadrão vivo o tempo todo ou o jogo terminará. Complete o mapa no menor tempo possível. Jogue novamente para bater seu melhor tempo pessoal!
 PREÇO
 TEMPO DE JOGO
 Perseguimos?
