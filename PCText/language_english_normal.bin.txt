@@ -5605,7 +5605,6 @@ MORTES
 500 mortes com fuzis francoatirador
 FRANCO-ATIRADOR COMB. LONGO SERVIÇO ({2:s} ptos)
 MEMBROS DO MEU CLÃ
-K/D
 Contato à frente!
 ESSE NÍVEL EXIGE CÓDIGO VIP
 CLIQUE EM UM NOME PARA COMPARAR
@@ -5613,7 +5612,7 @@ DESCONHECIDO
 JOGO PRODUZIDO PELO ESTÚDIO DICE
 Voltar ao Menu Principal
 Em uma rodada, mate 8 inimigos com o UMP SPECACT
-DIRIGIR EM MARCHA A RÉ
+DIRIGIR EM MARCHA RÉ
 BROCHE DE EXCELÊNCIA ENGENHEIRO SPECTACT ({2:s} ptos)
 Estamos muito perto.
 Preston, degole o guarda e pegue sua arma... ½Vamos!
@@ -5621,6 +5620,7 @@ Técnico de CQ
 Ah, quer se divertir assim?
 Versão melhorada da M9 para as forças especiais e pessoal de segurança. 20 balas, rajada de 3 disparos, taxa de tiro elevada, danos pequenos.
 Ok, Preston, cubra-nos. Disparem!
+SEC
 TRIANGULAR
 PROBLEMAS COM A CONEXÃO
 A VITÓRIA ESTÁ PRÓXIMA, PRECISAMOS DE UM ÚLTIMO EMPURRÃO
@@ -5630,7 +5630,7 @@ Bem, se tem dores de cabeça...
 Que espere até que tenhamos Flynn!
 IF YOU ARE 13 AND OVER, YOU WILL NEED AN EA ACCOUNT TO PLAY ONLINE. BY PRESSING SUBMIT, YOU ACKNOWLEDGE THAT YOUR PlayStation®Network INFO WILL BE SENT OVER TO ELECTRONIC ARTS IN THE U.S. TO SET UP YOUR EA ACCOUNT.
 SAIR DO JOGO
-contra
+VS
 ali.. ali em cima, uma patrulha.
 Ah!
 Para onde eles estão indo?
@@ -5649,7 +5649,7 @@ OK PARA COMEÇAR
 ESSA PÁGINA ESTÁ INDISPONÍVEL NO MOMENTO, TENTE DE NOVO MAIS TARDE
 Metralhadora leve automática. 100 balas. 1000rpm. Baixa precisão. Alcance médio. Baixa potência. Mobilidade média. Pouco retrocesso.
 MG3
-contra
+VS
 O minicanhão do helicóptero de Flynn é útil para destruir veículos e estruturas. 
 Dentro do Cav, siga as dicas na tela para disparar o lança granadas montados.
 Para abrir passo com a faca e cruzar portas, use o botão corpo a corpo.
@@ -5664,6 +5664,7 @@ Em uma rodada, mate 8 inimigos com o MG3 das AE
 BROCHE DE EXCELÊNCIA MÉDICO SPECACT ({2:s} ptos)
 ZOOM
 Vou disparar na luz. Mate o cara.
+TEMPO
 CERTIFICAÇÃO EA
 Instalações
 Desenho de aplicações
@@ -5802,7 +5803,7 @@ Programador do núcleo
 <{0:s}GRANADA DE MÃO>
 Vejo outra caixa com armas. Fico com a escopeta.
 
-AGUARDE
+CARREGANDO
 Hoje foi um... dia bom.
 Saia da porra da rua!
 Não o vejo!
@@ -5858,13 +5859,16 @@ Aí está de novo... que porra é esse ruído?
 
 Mari Saastamoinen
 ATIVAR OBJETO
+Seu lugar é necessário para um VIP!
+FUBAR
 Abram fogo naquelas casas!
 AVALANCHE
+Line Manager Art
 ÁUDIO
 NÍVEL
 3ª geração do tanque principal de batalha M1A2. Fortemente blindado com um canhão sem estrias de 120mm e uma metralhadora de cal. 50 acionada à distância. Dois assentos.
 Violoncelo
-Ali em cima!
+Ali em cima!. Ali em cima!
 
 Rápido! A outra rota de fuga era bem melhor...
 
@@ -5892,6 +5896,7 @@ ARMA
 Piano
 Consiga 5 mortes seguidas com a MG3 SPECACT
 BROCHE DE EFICÁCIA COM A MG3 SPECACT ({2:s} ptos)
+SoCOM
 Canhão reforçado que proporciona maior precisão em qualquer distância. ½
 Título
 Visite www.battlefield.com para ver os dados estatísticos
@@ -5904,6 +5909,7 @@ Wyatt, depressa! Derrube a porta.
 TEM CERTEZA DE QUE QUER RECOMEÇAR DO ÚLTIMO PONTO DE CONTROLE? O PROGRESSO NÃO SALVO SERÁ PERDIDO.
 Isso é loucura!
 PACOTE DE RECARGA RÁPIDA
+CRIAR JOGO PUBLICO
 NÍV. CONQUISTA
 SUBIR
 Posto de socorro portátil.  Posicione para curar todos os soldados próximos. Possui número limitado de curas.
@@ -5928,9 +5934,10 @@ Todas unidades, dispersar corretamente.
 <{0:s}METRALHADORA LEVE>
 <{0:s}SUBFUZIL>
 <{0:s}UAV>
-Ah, ceira como...
+Ah, cheira como...
 Merda!
 
+Avaliação de Jogo
 Não pode usar a sua conta para jogar. Isso se deve à política da Electronics Arts sobre menores.
 Ok...
 Só uma pedra!
@@ -5944,6 +5951,7 @@ NÃO ENCONTRAMOS NENHUMA PARTIDA, TENTE DE NOVO
 RECONNECT THE XBOX 360 CONTROLLER
 SAIR DO JOGO
 Ok, vire ali à esquerda, temos que sair da estrada!
+CRÉDITOS VIETNAMITA
 Cristoofer Stegmayr
 USAR BINÓCULOS
 Consiga 5 mortes seguidas com a M95 SPECACT
@@ -5972,6 +5980,7 @@ Estaremos bem
 Anders Gyllenberg
 Ben Minto
 MULTIJOGADOR
+Sound Design
 Alto, alto, alto! Sabe, poderia funcionar. Se dou o sinal ½de assalto pelo rádio, nos posicionarmos aqui; você entra. Dispare rajadas curtas, destrua tudo ½o que puder: barris, tanques de combustível, o que for... ½causaríamos tanto caos, que teríamos oportunidade de chegar ao avião.
 
 
@@ -5979,6 +5988,7 @@ Alto, alto, alto! Sabe, poderia funcionar. Se dou o sinal ½de assalto pelo rád
 
 
 
+Seringa
 ANT. CANHOTOS
 Mortes
 MISSÃO FALHOU - VOCÊ FOI MORTO PELAS MINAS INIMIGAS
@@ -6064,7 +6074,6 @@ NOMES
 {0:s}<MINA ANTITANQUE>
 ONLINE
 Coordenador de localização
-SOLDADO
 A substituta moderna da metralhadora de cal. 50 "Ma Deuce" do exército americano. Mais leve que a M2, mas ainda muito usada em missões de posicionamento.
 Des. chefe de objetos e edifícios
 REPAROS PARA PRÓX. NÍV.
@@ -6096,10 +6105,13 @@ Muitos alvos para mim, demais!
 {0:s}<BMD-3 BAKHCHA AA>
 DISPOSITIVO DE ENGENHEIRO DESBLOQUEADO: MINA ANTI-TANQUE
 ARMA DE ASSALTO DESBLOQUEADA: FUSÍL STG.77 AUG
+ARMA DE RECONHECIMENTO DESBLOQUEADA: GOL SNIPER MAGNUM
+ARMA DE SOLDADO DESBLOQUEADA: M14 MOD 0 APRIMORADO
 ARMA MÉDICA DESBLOQUEADA: METRALHADORA M60 LMG
 ARMA DE RECONHECIMENTO DESBLOQUEADA: M95 FRANCOATIRADOR
 ARMA MÉDICA DESBLOQUEADA: MG3
 ARMA DE RECONHECIMENTO DESBLOQUEADA: SVU SNAIPERSKAYA SHORT
+ARMA DE ENGENHEIRO DESBLOQUEADO: UMP-45
 ARMA DE ENGENHEIRO DESBLOQUEADO: UZI
 ESPECIALIZAÇÃO DE VEÍCULO LIBERADA: PACORTE ÓTICO DE GRANDE ALCANCE
 ESPECIALIZAÇÃO DE VEÍCULO LIBERADA: PACOTE DE OGIVAS MELHORADAS
@@ -6252,6 +6264,7 @@ Jonas Törnqvist
 BAIXAR NOVAMENTE
 RECOLHER EQUIPAMENTO
 Peter Hoyles
+AK 47
 CAIXA DE MUNIÇÃO
 MORTE
 EXPLOSIVOS C4
@@ -6259,6 +6272,7 @@ DESFIBRILADOR
 FUSÍL DE ASSALTO F2000
 Entendido, e ha ha, 1.
 Adaga 1, aqui vamos nós, exceto pelo fato que queria ter feito isso antes.
+G69
 Merda, precisamos flanquear aquela metralhadora!
 Só sei que precisamos detonar aquela coisa cara... É uma ½a verdadeira lástima desperdiçar equipamentos como esse.
 Líder de Projeto de Engenharia
@@ -6268,6 +6282,7 @@ Metralhadora totalmente automática. 25 balas. 600 rpm. Precisão média. Alcanc
 UMP
 ABRIR SUPLIMENTOS GUARDADOS
 MMINHA CAMPANHA
+M151A1
 PISTOLA DA SEGUNDA GUERRA M1911 .45
 Fagote
 MP-412 REX
@@ -6275,6 +6290,7 @@ MP-443 GRACH
 Tô bem. Tô legal, apenas siga em frente.
 COMBATE COM FACA
 PRESSIONE & SEGURE PARA ATIRAR UM ATAQUE MORTAL
+PPSh
 O LIDER DA SUA ESQUIPE ESTÁ SELECIONANDO A SESSÃO DE JOGO. AGUARDE.
 Cale-se e se foque.
 FUSÍL DE FRANCO ATIRADOR TIPO 88
@@ -6283,16 +6299,21 @@ LANÇA GRANADAS AUTOMÁTICO QLZ-87 GL
 Programador Online
 Faça!
 MUDAR CAMÊRA
+PISTOLA TT-33
 Você está demorando, Sargento!!
 CUSTO
+ECHO
 CLASSE
+GOLF
 ESCOPETA DE SOLDADO DESBLOQUEADA: USAS-12 AUTO
 OEM 102
 CLASSIFICAÇÃO
+XM22 LMG
 XM-306 AUTO GL
 METRALHADORA PESADA
 Veículos inimigo, porra do caralho.
 Disparem quando for a hora.
+AK47
 C.MUNI
 Vamos! Vamos!
 Cale-se, Haggard, apenas dirija!
@@ -6303,6 +6324,7 @@ DEFIB
 F2000
 OLHAR/MOVER TORRE
 LOCALIZAÇÃO 3D
+G69
 CLÃ
 CLASSE
 Todos as gravações são cortesias da APM Music, LLC
@@ -6310,6 +6332,7 @@ NÃO, FAÇA DEPOIS
 USADO
 Não foi nada, vá com calma.
 Bravo 2, missão de assalto à caminho. Unidades próximas à sua AO. Chegada em um minuto, aguente.
+M151A1
 M1911
 Percussão
 MP-412
@@ -6319,6 +6342,7 @@ CONEXÃO COM O SERVIDOR FOI PERDIDA. POR FAVOR CHEQUE SUA REDE E TENTE NOVAMENTE
 O servidor está ceio.
 ATROPELAMENTOS
 Aproveite para melhorar a pontaria
+PPSh
 CAPTURA DE TELA
 T88 S
 T88 LMG
@@ -6327,6 +6351,7 @@ NENHUM PERFIL DE JOGADOR ESCOLHIDO
 VER CARTÃO DO JOGADOR
 BOMBA PLANTADA!
 PRINCIPAL 2
+TT-33
 Ei, você se esqueceu de uma parte, Wyatt.
 Está ai. Agora nós esperamos.
 Sargento, você acha que esse lance da Aurora é de verdade?
@@ -6584,6 +6609,7 @@ Eu ouvi. Há uma, bem ali.
 Santo Deus!
 É a coisa mais impressionante que eu já vi em toda a minha vida!
 Ahhh, vamos pegar este maldito satélite!
+XM22
 LG AUTO
 MET. P.
 Vá pegar a caixa preta.
@@ -7012,6 +7038,7 @@ CÓDIGO
 DICE STUDIO
 Trompa
 Oboe
+QAOS
 Tuba
 NORMAL
 ESTRELA DE OURO {1:s} COM {0:~} ({2:s} ptos)
