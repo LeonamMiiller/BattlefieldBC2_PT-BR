@@ -61,7 +61,7 @@ Oh que merda é essa nós temos cinco ou seis posicionadas... Puta merda... ½H�
 NÃO FOI POSSÍVEL ACESSAR A PlayStation®Network PARA COMPLETAR A AUTORIZAÇÃO
 Composição
 PONTUAÇÃO:
-Bravo 2, Motoqueiro Fantasma na escuta, acabei de contatar o comando aéreo. ½Eles limparam o seu espaço aéreo, o seu laser designador deve funcionar agora. ½Apenas mantenha o seu binóculo, na alvo e é só mandar ver parceiro! Boa caçada! Motoqueiro Fantasma desliga.
+Bravo 2, Motoqueiro Fantasma na escuta, acabei de contatar o comando aéreo. ½Eles limparam o seu espaço aéreo, o seu laser designador deve funcionar agora. ½Apenas pegue seu binóculos, Mire, e aproveite irmão! Boa caçada! Motoqueiro Fantasma desliga.
 
 ENGENHEIRO
 Vai!
@@ -94,7 +94,7 @@ EXTRAS
 NÃO
 A Espingarda Modular de Combate 870 é uma espingarda ideal para batalhas de aproximação onde brechas e fim de munição são críticas. Podendo ser combinada para variadas missões, com múltiplas combinações de munição.
 Engeneiro de Gravações Sonoras
-MISSÃO FRACASSADA - VOCÊ NÃO ATINGIU O SATÉLITE A TEMPO
+MISSÃO FALHOU - VOCÊ NÃO ATINGIU O SATÉLITE A TEMPO
 Mantenha-se na cola do seus alvos.
 Gerente do Projeto de Mocap
 DETALHES DA ARMA
@@ -188,15 +188,15 @@ Em uma rodada, faça 7 reparos
 Nós vamos pelo caminho difícil. Wyatt, cuide das trinceiras.
 Não, não vamos Faraday, essa não é a missão! Boa sorte, Wyatt.
 
-Uma espingarda de impacto convencional de ação com uma potência de calibre 12. Foi criada para os militares Russos, porém nunca foi utilizada. Em contra partida se tornou popular para esportistas do gênero e para vias de segurança internacional.
+Uma espingarda de impacto convencional de ação com uma potência de calibre 12. Foi criada para os militares russos, porém nunca foi utilizada. Em contra partida se tornou popular para esportistas do gênero e para vias de segurança internacional.
 MANUTENÇÃO OPS PIN ({2:s} pts)
 Subit no ranking irá liberar a você novos créditos.
 Pronto.
 Base inimiga a frente. Prepare-se para o estilo a moda antiga, mano...
 Estamos cortando caminho! Marlowe, acabe com a torre de mísseis!
 Claro que existem, só tome conta dele mostrando alguns respeito, beleza?
-Nenhum ateu nas covas, só um cara e um russo torturados até a morte!
-Meu Deus eles foram pelo caminho em segurança. temos que flanqueá-los e manter a calma.
+Nada de ateus em trincheiras, cara, e um pouco de tortura russa vai longe!
+Caramba, eles cobriram todo o caminho. temos que flanqueá-los e manter a calma.
 Estou indo para o andar superior, continue atirando!
 Eu duvido. Eles provavelmente pensam que é só mais um tiroteio... É melhor seguirmos em frente
 
@@ -274,7 +274,7 @@ MELHOR DISPOSITIVO
 Eles estão vindo por todos os lados!
 <{0:s}FRANCOATIRADOR fuzil>
 A Garota Dragão
-Um de vocês derrubem com um lança granada aquele bote!
+Um de vocês derrubem com um Lança Míssil aquele bote!
 VOCÊ DESBLOQUEOU UM RECOMPENSA ESPECIAL
 Aonde todo mundo se meteu? Quer dizer, todo mundo apenas... sobe e desce?
 
@@ -326,7 +326,7 @@ Beleza, então, se puder arriscar alguns números da loteria, seria ótimo!
 veja os recentes prêmios e planeja a sua próxima jogada
 FREIO
 JUNTAR-SE
-Há uma guerra rolando, mano. Não declarada, mas rolando e logo essa equipamento russo cairá nas suas mãos.
+Há uma guerra rolando, mano. Não declarada, Ainda assim, esse equipamento russo cairá nas mãos deles.
 
 Sênior Gerente de Testes Black Box
 Você serve de isca enquanto acabamos com eles!
@@ -348,7 +348,7 @@ BINOCULARS/CLASSIFICAÇÃO*
 RPG7
 GUIA DE MISSÉIS
 Ok, ok. Chopper, OLHA PARA ESQUERDA!
-Revólver Russo .357 desenvolvido com objetivo de exportação. 6 cargas, semiautomático, baixa eficiência, dano extremamente alto.
+Revólver russo .357 desenvolvido com objetivo de exportação. 6 cargas, semiautomático, baixa eficiência, dano extremamente alto.
 Não deixe eles derrubarem o satélite!
 Iniciar uma partida online sozinho ou com seus amigos
 Iniciar uma partida online sozinho ou com seus amigos
@@ -404,7 +404,7 @@ Espera! EMBOSCADA!
 Ataquem sem parar!
 DANOS
 DESTRUIÇÃO
-MISSÃO FRACASSADA - SEU VEÍCULO DE FUGA JÁ ERA
+MISSÃO FALHOU - SEU VEÍCULO DE FUGA JÁ ERA
 MELHORES
 ENTRANDO NO TIME‚
 Eles vão pegar a gente.
@@ -836,7 +836,7 @@ Marlowe, aqui quem fala é Bravo 2, na escuta?
 Onde você está?
 Estamos procurando pelo Haggard, o Flynn não está respondendo. 
 Ouça, se pode me ouvir, você precisa encontrar um abrigo e rápido.
-Os Russos estão atrás da gente vasculhando cada ponto dessa montanha de merda, ½alguns já estão escondidos.
+Os russos estão atrás da gente vasculhando cada ponto dessa montanha de merda, ½alguns já estão escondidos.
 Você vai querer se esquentar no fogo e em seguida precisa andar rápido. ½Senão você não vai durar muito.
 Você precisa aguentar!
 NÃO
@@ -881,7 +881,7 @@ PERDEMOS A POSIÇÃO FOXTROT
 Levante pegue a placas de suas vítimas. Aponte para seus objetivos com a ponta da faca.
 Ele tá disparando, cuidado!
 Radio DJ
-MISSÃO FRACASSADA - O SATÉLITE FOI DESTRUÍDO
+MISSÃO FALHOU - O SATÉLITE FOI DESTRUÍDO
 Lo Wallmo
 ESPINGARDAS
 Lança míssil acima, acabe com ele!
@@ -908,14 +908,14 @@ PARTIDA PERSONALIZADA
 Seleciona o volume de áudio, efeitos e todos o resto
 OLHAR EM VOLTA
 MOVER-SE EM VOLTA
-AJUDA NA MORTE DE PASSAGEIRO +{0:s}
+ASSISTÊNCIA NA MORTE DE PASSAGEIRO +{0:s}
 Receber informações dos produtos EA, notícias e eventos?
 O que?
 Marlowe, use o binóculo para marca o alvo!
 Siga avançando, porra! Não há onde se esconder aqui.
 Atirar e mover-se.
 FILTRO ANISTRÓPICO
-Uma embosca! Lança mísseis!
+Quase uma embosca! Lança mísseis nos penhascos!
 Bem vá rápido, pois vamos dar o fora logo! Somos que nem imãs!½ Estamos praticamente cercados, que merda!
 BARRAS DE OURO ACHADAS
 Eu vou o mais rápido possível! Que merda, tem maluco em todo o canto!
@@ -1105,7 +1105,7 @@ NORMAL
 EA GAMES LABEL MARKETING
 Ascender
 Com uma carga, efetuar 7 assistências
-MEDALHAS POR ASSITÊNCIAS ({2:s} pts)
+MEDALHAS POR ASSITÊNCIAS EM MORTES ({2:s} pts)
 A base inimiga, os Agressores
 Eles está fugindo, acabe com ele.
 PENALIDADE DO TIME (+20 SEC)
@@ -1206,7 +1206,7 @@ Tudo bem Kirilenko, nós vamos nessa por você.
 
 REABASTECIMENTO +{0:s}
 CURA P/ PRÓ. NÍVEL
-Uma espingarda de ação convencional de calibre 12. Foi originalmente desenhada para o exércitorusso, mas nunca usada de fato. Essa versão inclui um lançador melhorado.
+Uma espingarda de ação convencional de calibre 12. Foi originalmente desenhada para o exército russo, mas nunca usada de fato. Essa versão inclui um lançador melhorado.
 Preston, se esconda atrás da merda do veículo!
 REALIZAÇÕES
 Mas que merda está caindo? Recuar!
@@ -1281,7 +1281,7 @@ Escopeta russa, semiautomática, similar em aparência com a AK-74. Possui 6 bal
 Esse modelo foi desenhada para ter vários tipo e tamanhos de barris e é compatível com muitos tipos de munições. O silenciador desse fuzil e velocidade fez dele a escolha das forças SOCOM.
 Um fuzil ambidestro de ação é capaz de neutralizar alvos a mais de mil metros, o SV-98 foi desenhado para permitir vários sistemas de configurações óticas. É popular entre a polícia russa e unidades antiterrorismo.
 Muito utilizado nos países do antigo Pacto de Varsóvia, com alcance efetivo de 800 metros. Este rifle de atirador semi-automático deve ser usado como parte da infantaria regular, ao contrário de rifles de precisão dedicados.
-Tanque de Batalha Principal Russo (MBT) vem armada com canhões de 125mm e uma HMG calibre 12.7mm.  O T-90 é tão capaz se não superior ao M1 Abrams MBT. ½
+Tanque de Batalha Principal russo (MBT) vem armada com canhões de 125mm e uma HMG calibre 12.7mm.  O T-90 é tão capaz se não superior ao M1 Abrams MBT. ½
 Composto explosivo ligado com material adesivo. Pode ser preso na maioria das superfícies secas e detonado manualmente. Mantenha uma distância segura.
 O tubo opcional de lançamento, controlado por rastreamento e mísseis guiados (TOW 2) tem alcance de 4,000 metros e requere um operador para manter a mira nos alvos. Tendo sido desenhado para luta com blindados e batalhas leves com antiaéreo.½
 Desenhado para ajudar o reconhecimento de alvos, essa pistola a gás disparara dados magnéticos sobre veículosinimigos ajudando a aumentar o dano em potencial de armas antitanques.
@@ -1388,7 +1388,7 @@ COMBATE DISTINTO ({2:s} pts)
 SUICÍDIO
 Exige a configuração dos controles para lançar veículos
 MORTE AO DEFENDER +{0:s}
-MISSÃO FRACASSADA - O HELICOPTER DE FUGA FOI DESTRUÍDO
+MISSÃO FALHOU - O HELICOPTER DE FUGA FOI DESTRUÍDO
 Em uma rodada, seja o melhor jogador
 MEDALHAS ESPECIAIS({2:s} pts)
 CONTROLE
@@ -1571,7 +1571,7 @@ BOTÕES AÉREOS
 O que é aquilo?
 Oh. O vapor é ruim.
 
-Contato... Tanques e Lança granadas lá em cima na fazenda!
+Contato... Tanques e Lança Mísseis lá em cima na fazenda!
 Artistas de Efeitos Especiais
 Gerentes de Projeto de GQ
 Selecionar fuzil
@@ -1603,14 +1603,14 @@ Você conseguiu? Acho que... Sim, pode crer. Bom trabalho soldado.
 Contato, veículo pela direita!
 Onde estamos indo?
 ASSALTO
-MERGULHAR
+METRALHAR
 SIM
 VOCÊ SUBIU DE POSTO.
 0
 Dizer a todos
 Jimmy Gustafsson
 MUDAR DISPOSITIVO DE ARMAZENAGEM
-GIRAR TORRE
+GIRAR TORRETA
 OBJETIVO ARMADO +{0:s}
 Chefe de testes de rede
 INFO
@@ -1618,7 +1618,7 @@ MUNIÇÃO
 Ver avisos para recarregar na tela
 MÉDICO
 TRANSPORTE
-MISSÃO FRACASSADA - VOCÊ NÃO MATOU O KIRILENKO A TEMPO
+MISSÃO FALHOU - VOCÊ NÃO MATOU O KIRILENKO A TEMPO
 Acabe com todos!
 ALTO
 EXPULSAR
@@ -1649,7 +1649,7 @@ Digite a senha de sua conta já criada, ou a nova senha que quer vincular com su
 Isso vai ser divertido! Vai ser mesmo!
 Silenciador personalizado que reduz o ruído e aumenta a precisão durante o disparo. 
 Você pode melhorar a pontaria da calibre .50 usando o Zoom.
-Os lança-granadas são letais contra os humvees. Acabe com os soldados que carregam lança-granadas o quanto antes.
+Os Lança Mísseis são letais contra os humvees. Acabe com os soldados que carregam Lança Mísseis o quanto antes.
 Siga as instruções da tela para usar o indicador laser.
 Os inimigos que precisam ser aniquilados para poder avançar estão marcados no mundo e em seu mini mapa.
 Não demore depois de lançar um ataque de artilharia ou morrerá. Não pare.
@@ -1738,7 +1738,7 @@ HELICÓPTERO HIND MI-24
 HELICÓPT. MI-28 HAVOC
 PBR
 QUADRICICLO
-LANÇA GRANADAS RPG-7
+LANÇA MÍSSIL RPG-7
 RPK LMG
 ESCOPETA SEMIAUTOM. SAIGA 20K
 CARABINA SCAR-L
@@ -1777,7 +1777,7 @@ Ok, dois deles.
 PENALIDADE POR MORTE
 Você foi expulso do jogo. Motivo: {0:s}.
 Mecânico de combate preparado para dar apoio a veículos amigos e destruir os dos inimigos. Leva um subfuzil para sua defesa pessoal.
-Russos. Surpresa!
+russos. Surpresa!
 
 Em uma rodada, mate 7 inimigos com fuzils francoatirador
 BROCHE DE EFICIÊNCIA COM FUZIL DE FRACOATIRADOR ({2:s} ptos)
@@ -1849,7 +1849,7 @@ Violino 2
 FOGO AMIGO
 Fredrik Seehuusen
 TEMPO:
-Parece que não podemos seguir no barco, ½correnteza à frente.
+Parece que não podemos seguir no barco, ½rochas à frente.
 Oh, não, eu insisto. Idiotas primeiro.
 HBAO
 ANTIALIASING
@@ -1893,14 +1893,14 @@ Aqui é Bravo 2 no comando, avançar.
 O exército desaprova as "dores de cabeça".
 INVESTIDA
 SAIR
-MISSÃO FRACASSADA - VOCÊ FOI VISTO ANTES DE TERMINAR DE RECOLHER INFORMAÇÕES
+MISSÃO FALHOU - VOCÊ FOI VISTO ANTES DE TERMINAR DE RECOLHER INFORMAÇÕES
 SOLISTAS
 Limpo.
 MINHAS ESTATÍSTICAS
 INFORMAÇÃO: JOGO EM EQUIPE
 CURA +{0:s}
 {0:s} PONTOS
-AJUDA NA LOCALIZAÇÃO +{0:s}
+ASSISTÊNCIA NA LOCALIZAÇÃO +{0:s}
 DANOS AO VEÍCULO +{0:s}
 Subir Avião não tripulado
 CANHOTO
@@ -1930,8 +1930,8 @@ Merda! Outra vez esse maldito ruído!
 Calado! Vamos!
 
 ZOOM
-MISSÃO FRACASSADA - VOCÊ NÃO DESTRUIU A ARMA
-AJUDA NA MORTE DO CONDUTOR +{0:s}
+MISSÃO FALHOU - VOCÊ NÃO DESTRUIU A ARMA
+ASSISTÊNCIA NA MORTE DO CONDUTOR +{0:s}
  Projéteis de 40mm de escopeta para o lançador incorporado ao fuzil de assalto.  Preenchido com 12 dardos de tungstênio para combate corpo a corpo.  Sua eficácia diminui muito com a distância.
 Os malditos estão recuando!
 Sim, Kirilenko deve estar por aí!
@@ -1963,14 +1963,14 @@ Ok, em marcha, peguem aquele veículo.
 
 Ver e desbloquear arma e itens
 CONTROLE PARENTAL
-MISSÃO FRACASSADA - OS CONTROLES DO SATÉLITE FORAM DESTRUÍDOS
+MISSÃO FALHOU - OS CONTROLES DO SATÉLITE FORAM DESTRUÍDOS
 LÍDER
 REPETIR MISSÃO
 MELHOR VEÍCULO
 Em uma rodada, mate 7 inimigos com metralhadoras leves
 MEDALHA DE EFICIÊNCIA COM METR. LEVES ({2:s} ptos)
 DESARMANDO...
-Copyright 2010 EA Digital Illusions CE AB. Todos os direitos reservados.½Traduzido por GameVicio: www.gamevicio.com.br 
+Copyright 2010 EA Digital Illusions CE AB. Todos os direitos reservados.½Traduzido por GameVicio: www.gamevicio.com.br½Portado por:Brazilian-Warriors
 MINIMAPA
 PARA PODER JOGAR ONLINE, É PRECISO INSTALAR UMA ATUALIZAÇÃO DO XBOX LIVE
 Grupo de provas especiais
@@ -2125,7 +2125,7 @@ VOCÊ JÁ PODE USAR ESSE ITEM.
 Cacete, esse lugar está ceio de inimigos.
 Agradecimento especial
 Carabina automática; 30 balas. 750rpm, precisão média, curto alcance. potência média, alta mobilidade, silenciosa.
-AJUDA NA CONDUÇÃO DO ESQUADRÃO +{0:s}
+ASSISTÊNCIA NA CONDUÇÃO DO ESQUADRÃO +{0:s}
 Entendido, Motoqueiro Fantasma, disseram onde?
 Entendido. Estamos nessa.
 XM8C
@@ -2159,7 +2159,7 @@ MÉDIO
 This is a test of line break, ½in to HAL.
 Compre essa arma no Mercado Xbox.
 Será que devo aprender espanhol? Ou russo?
-Russo poderia ser útil, sabe, se as coisas ficassem feias.
+russo poderia ser útil, sabe, se as coisas ficassem feias.
 
 
 A configuração de empunhadura avançada da M95, a versão de ferrolho da semiautomática M82A1, reduz seu tamanho mas conserva o tamanho do canhão. Essa versão modificada também inclui uma mira telescópica com zoom iluminador.
@@ -2217,14 +2217,14 @@ MORTES
 SUBIR
 Certo... acerte-os agora. Vamos, rápido!
 Venha aqui!
-AJUDA POR DANOS COM TRAÇADOR +{0:s}
+ASSISTÊNCIA POR DANOS COM TRAÇADOR +{0:s}
 DICE QA Testers
 PTS ESQUADRÃO
 DESENHO
 Fuzil de assalto que dispara 800 balas por minuto; equipado com carregador de 30 balas e regulador de recuo.
 Pistolas são excelentes para combate corpo a corpo, rápidas e letais. 
-Use lança-misseis para acabar com veículos blindados. Geralmente há um por perto quando precisar.  
-As metralhadoras blindadas são resistentes aos projéteis convencionais. Flank, use as granadas de 40mm ou lança-granadas para acabar com elas.
+Use Lança Mísseis para acabar com veículos blindados. Geralmente há um por perto quando precisar.  
+As metralhadoras blindadas são resistentes aos projéteis convencionais. Flanqueie, use as granadas de 40mm ou Lança Mísseis para acabar com elas.
 Olhar à direita
 PONTOS POR MINUTO
 Eba, vamos comer!
@@ -2322,7 +2322,7 @@ CRÉDITOS
 MEMBROS DO ESQUADRÃO
 GIRAR
 Merda! Acabe rápido com eles!
-Cuidado com os lança-granadas.
+Cuidado com os Lança Mísseis.
 EQUIPE INIMIGA
 Será melhor acelerar essa coisa se quisermos derrotar ½os russos.
 AJUSTA O BRILHO E O CONTRASTE PARA QUE TUDO FIQUE VISÍVEL.
@@ -2351,7 +2351,7 @@ Ajuste o volume dos diálogos
 Busque versões especiais de armas na tropa inimiga e nos cenários para obter ganhos e armas variadas.
 Vamos lá.
 DISTÂNCIA AO ALVO:
-AJUDA À MORTE COM TRAÇADOR PARA A PATRULHA +{0:s}
+ASSISTÊNCIA À MORTE COM TRAÇADOR PARA A PATRULHA +{0:s}
 Continue, estamos quase lá!
 Faça em pedaços!
 DEIXAR DE BUSCAR ESQUADRÃO
@@ -2398,13 +2398,13 @@ Bravo 2, aqui é Motoqueiro Fantasma. Estou captando comunicações da milícia 
 Desculpe 2, negativo, há muito ruído de onde ½estão transmitindo.
 AGORA NÃO HÁ PARTIDAS DISPONÍVEIS
 MUDAR VISÃO DO MAPA
-AJUDA PARA DESTRUIR VEÍCULO +{0:s}
+ASSISTÊNCIA PARA DESTRUIR VEÍCULO +{0:s}
 LEVE
 DICE BABIES
 INFORMAÇÃO: COLECIONÁVEIS
-AJUDA COM MINA DE MOVIMENTO +{0:s}
+ASSISTÊNCIA COM MINA DE MOVIMENTO +{0:s}
 RECONECTE O CONTROLE DE XBOX 360
-Kodiak 1, identificação positiva de outro T90 chegando... ½Parece que levam uma equipe de granadas antitanque...
+Kodiak 1, identificação positiva de outro T90 chegando... ½Parece uma equipe com lança mísseis a bordo...
 RECONECTE O CONTROLE
 INFORMAÇÃO: VEÍCULOS
 Desenho de níveis e missões
@@ -2549,7 +2549,7 @@ Depois pegaremos o submarino.
 Não. Improvisaremos.
 *
 BARRAS DE STATUS
-Concentrem fogo nos lança-granadas!
+Concentrem fogo nos Lança Mísseis!
 Cuidado!
 Helicópteros russos. Cara, eles não deveriam estar aqui!
 O médico de combate das forças de ações especiais está equipado com suprimentos médicos, um desfibrilador e uma metralhadora leve. Sua arma de escolha é a MG3 SA, a de maior taxa de tiro.
@@ -2652,7 +2652,7 @@ Preston! Morteiros estão cobrindo essa área! Volte!
 Morteiros inimigos estão apontando para essa direção! ½Preston, volte já!
 MOMENTOS SOMBRIOS
 Ei, vejo esquadrões inimigos lá em baixo!
-Lança-granadas atrás de nós!
+Tem uns caras com Lança Mísseis atrás de nós!
 
 {0:s}<ATROLPELAMENTO>
 SEU PERFIL DE JOGADOR NÃO TEM AS PERMISSÕES NECESSÁRIAS PARA ACESSAR FUNCIONALIDADES DA XBOX LIVE.
@@ -2679,7 +2679,7 @@ SEU PERFIL DE JOGADOR NÃO TEM AS PERMISSÕES NECESSÁRIAS PARA ACESSAR FUNCIONA
 Esse fuzil de assalto belga totalmente automático tem empunhadura avançada e admite modificações como miras telescópicas ou montar lança-granadas, adaptando-o a qualquer missão ou situação tática. Essa versão inclui mira reflex.
 Míssil russo supersônico antitanque e eletroguiado desenhado para destruir tanques de batalha e alcançar helicópteros em baixa altitude.
 PRECISÃO:
-MISSÃO NÃO CUMPRIDA - VOCÊ NÃO SUBIU NO AVIÃO
+MISSÃO FALHOU - VOCÊ NÃO SUBIU NO AVIÃO
 USAR 1 CRÉDITO PARA DESBLOQUEAR ESSA ARMA?
 BASE NEUTRA
 OPÇÕES
@@ -2740,7 +2740,7 @@ INFORMAÇÃO: JOGO EM EQUIPE
 Para tornar este item disponível você deve alcançar um nível superior.
 PUNKBUSTER
 Blindado leve identificado.
-AJUDA A MORTE COM TRAÇADOR +{0:s}
+ASSISTÊNCIA A MORTE COM TRAÇADOR +{0:s}
 Abaixados, isso vai realmente pegar fogo.
 PARABÉNS! VOCÊ DESBLOQUEOU O KIT DE MELHORAMENTO EXCLUSIVO DO ENGENHEIRO QUE CONTEM UMA NOVA CAMUFLAGEM, VÁRIOS PRÊMIOS E TROFÉUS E UMA VERSÃO ESPECIAL DA ARMA UMP-45.
 Tuk-Tuk
@@ -3179,7 +3179,7 @@ Vão nos devorar vivos!
 Consiga todas as estrelas de bronze
 DIGITE O CÓDIGO
 CONHEC. DE CAMPO DE BATALHA DISTINTO ({2:s} ptos)
-Apenas continue queimando estes lança-granadas e ficaremos bem!
+Apenas continue ferrando estes malditos com Lança Mísseis e ficaremos bem!
 ÁUDIO
 LOJA
 LOCAL
@@ -3440,7 +3440,7 @@ Programador de IA
 Torres de guarda à frente, prossiga.
 Belo tiro.  Em marcha, sargento.
 
-RPG ali em cima!
+Lança Míssil ali em cima!
 Bloqueio de estrada à frente, temos de passar por ele!
 VOLUME DA MÚSICA
 Quão próximos nós estamos?
@@ -3464,7 +3464,7 @@ Foram os dois, bom trabalho, Bravo 2. Vamos.
 Dois em um dia? Incrível.
 Uh, nós estaremos quase cegos também.
 Este modelo leve da Scar é desenvolvido para vários realizar variadas modificações de tamanho de tambor. O silenciador do fuzil e a armação tornam a arma preferida das forças SOCOM. Esta versão modificada também inclui uma mira telescópica.
-RPG! Abaixar e se proteger!
+Lança Míssil! Abaixem e se protegam!
 Cara, esta coisa vai fazer um puta estrago quando acertar!
 Dar ordem / Comunicar / Avistar
 VERIFIQUE SEU CAMPO BATTLEFIELD: BAD COMPANY 2 BOX PARA ENCONTRAR SEU CÓDIGO VIP.½½ESTE CÓDIGO PERMITE QUE VOCÊ BAIXE CONTEÚDOS GRÁTIS QUE PODEM SER ENCONTRADOS NA LOJA DENTRO DO JOGO. ½½VOC~E QUER DIGITAR O CÓDIGO AGORA?
@@ -3492,7 +3492,7 @@ Sim.
 FUZIL DE FRANCOATIRADOR
 Acabe com seus malditos alvos!
 METRALHADORA LEVE XM8
-O estandarte dourado do exército Russo, o fuzil de assalto AEK971 foi desenvolvido para permitir que atiradores mantenham a precisão durante o fogo automático. Esta versão modificada também inclui uma mira a laser.
+O estandarte dourado do exército russo, o fuzil de assalto AEK971 foi desenvolvido para permitir que atiradores mantenham a precisão durante o fogo automático. Esta versão modificada também inclui uma mira a laser.
 Pres, dispare! Dispare!
 Seringa
 CARREGANDO DADOS DO PERFIL DO JOGADOR. POR FAVOR, NÃO DESLIGUE SEU CONSOLE XBOX 360.
@@ -3518,7 +3518,7 @@ REGENERAÇÃO EM:
 DTN-4 (Explosivos plásticos). Uma carga C-4 transportada com segurança e facilidade, mas após armada é suscetível a detonação se não manuseada corretamente. Pode ser afixada à maioria das superfícies para fácil instalação e detonação. Um atributo adicionado é a habilidade de detonar remotamente por um operador (detonação controlada).  ½
 Desfibrilador Externo Automático (DEA) - capaz de ressuscitar vítimas de parada cardíaca. A administração deve ser feita após alguns segundos da parada cardíaca.  Não é aconselhado seu uso em indivíduos com boa saúde ou como forma de "diversão".
 Este fuzil de assalto belga automático tem empunhadura adiantada e oferece uma gama de modificações que vão de miras telescópicas a anexos lançadores de granada permitindo ser adaptada para quaisquer missões ou situações táticas.
-Caminhão utilitário tático Russo. Com excelentes habilidades de navegação em terreno, este veículo foi o transporte off-road padrão para o Exército Vermelho.
+Caminhão utilitário tático russo. Com excelentes habilidades de navegação em terreno, este veículo foi o transporte off-road padrão para o Exército Vermelho.
 Uma .50 lá em cima!
 O cilindro, cara, atire nele.
 ONLINE
@@ -3556,7 +3556,7 @@ Um sistema modular de armas projetado na década de 1960. Esta arma entrou em a�
 A XM-312 modificada com um tambor e outros componentes para disparar granadas de 25mm. Assim como a versão calibre .50, é leve, altamente móvel e oferece pouco ou nenhum recuo.  É um devastador multiplicador de força quando usada a nível de esquadrão.½
 Metralhadora moderna americana calibre .50 apresentada para substituir a Browning calibre .50 de 80 anos. A XM-312 é leve, altamente móvel e oferece pouco ou nenhum recuo.  É um devastador multiplicador de força quando usada a nível de esquadrão.½
 Patrick O'Shaughnessy
-Um centro de comunicação dos EUA com uma visão dominante da área local foi selecionado como o próximo alvo pelas Forças Russas. O Comando Russo primeiro terá que cruzar um rico vale agrícola e proteger a cidade próxima antes que os preparativos para um ataque final possam começar. Os campos abertos e as fazendas locais verão intensos combates de veículos, já que ambos os lados moveram meios blindados para o teatro.
+Um centro de comunicação dos EUA com uma visão dominante da área local foi selecionado como o próximo alvo pelas Forças Russas. O Comando russo primeiro terá que cruzar um rico vale agrícola e proteger a cidade próxima antes que os preparativos para um ataque final possam começar. Os campos abertos e as fazendas locais verão intensos combates de veículos, já que ambos os lados moveram meios blindados para o teatro.
 DIA DA COLHEITA
 FERRO VELHO
 Business Development
@@ -3715,7 +3715,7 @@ MÉDICO DA AE
 Líder de controle de qualidade do estúdio
 Kodiak Um, alvos adquiridos, temos circo ou seis blindados pesados.
 Não posso acreditar que é uma arma escalar!
-É, Bem se isto tiver potência o suficiente... ½Eu realmente não sei, só suposições, mas, mas significa que provavelmente não teríamos de½ voltar para casa, visto que seria nada mais que uma cratera exalando fumaça.
+É, Bem se isto tiver poder o suficiente... ½Eu realmente não sei, só suposições, mas, mas significa que provavelmente não teríamos de voltar para casa,½ visto que nossa casa não seria nada alem de uma cratera exalando fumaça.
 
 
 Cuidado!
@@ -3875,7 +3875,7 @@ DISPARAR
 Uh-oh, eles têm até serviço de logística!
 MIRA TELESCÓPICA
 Engeneiro de gravação, Sound Company
-MISSÃO NÃO CUMPRIDA - AGUIRE FOI MORTO
+MISSÃO FALHOU - AGUIRE FOI MORTO
 Descobriremos para onde o levaram.
 BATTLEFIELD BAD COMPANYƒ 2 APRESENTA UM MODO HARDCARE PARA TODOS OS MODOS DE JOGO CONVENCIONAIS. ½½NO MODO HARDCORE, VOCÊ TEM MENOS ELEMENTOS DE INTERFACE, AS ARMAS CAUSAM MENOS DANO E SEU SOLDADO TEM MENOS SAÚDE. ½½O MODO HARDCORE NÃO É PARA QUEM TEM CORAÇÃO FRACO.
 VÍDEO
@@ -3928,7 +3928,7 @@ RTRIGGER
 Bravo 2-4, aqui é Motoqueiro Fantasma. ½Não sei se você já encontrou o barco, ou se é um mesmo um barco. ½Mas estou fazendo uma prece por você, cara.
 
 PARABÉNS! VOCÊ DESBLOQUEOU O EXCLUSIVO MELHORAMENTO DO KIT MÉDICO, CONTENDO NOVA CAMUFLAGEM, RECOMPENSAS, UMA CONQUISTA E UMA VERSÃO ESPECIAL DA ARMA MG3.
-Marlowe, vá pegar o RPG no terraço ali em cima!
+Marlowe, vá pegar o Lança Míssil no terraço ali em cima!
 Bravo 2, qual seu tempo estimado de chegada para o centro de comunicações? ½Eu mexi alguns pauzinhos para afastar a barragem de artilharia, mas não posso fazer disso um jogo.  ½Pegue Kirilenko agora!
 
 
@@ -4188,7 +4188,7 @@ Abaixe! Estou seco, recarregando! Vamos! ½Você precisa designar os alvos para 
 
 INFORMAÇÃO: JOGAR COM AMIGOS
 Ataque essa casa!
-Lança-foguetes na colina!
+Lança Míssil no penhasco!
 BEM-VINDO AO NÍVEL DE OFICIAL!
 ID Online
 EQUIPE INIMIGA
@@ -4203,7 +4203,7 @@ O inferno está muito intenso. O rio congelou permitindo que blindados e a artil
 BAÍA DE NELSON
 CARACTERÍSTICAS DA ARMA
 Por aqui, parece um túnel de drenagem.
-AJUDA COM TRAÇADOR +{0:s}
+ASSISTÊNCIA COM TRAÇADOR +{0:s}
 Você tem certeza que deseja trocar de equipe?
 NECESSÁRIO SENHA
 MIRA REFLEX
@@ -4369,7 +4369,7 @@ James Harrison
 {0:s}<PBR>
 {0:s}<MARK V SPECACT>
 {0:s}<QUADRICICLO>
-{0:s}<LANÇA-GRANADAS ANTITANQUE RPG-7>
+{0:s}<LANÇA MÍSSIL ANTITANQUE RPG-7>
 {0:s}<RPK>
 {0:s}<ESCOPETA SEMIAUTOMÁTICA SAIGA 20K>
 {0:s}<CARABINA SCAR-L>
@@ -4450,7 +4450,7 @@ Você não pode trocar de equipem com tanta frequência. Tente novamente em algu
 Diretor técnico de animação facial e captura de movimento
 REINICIAR
 {0:s}<CANHÃO ANTIAÉREO>
-Se você enfrenta metralhadora montadas, use lançador de granadas ou granadas de 40 mm.
+Se você enfrenta metralhadora montadas, use o Lança Míssil ou granadas de 40mm.
 Soldados de elite são mais difíceis de matar e mais ágeis em ação que soldados convencionais. Tenha cuidado.
 Use granadas de mão ou C4 para eliminar inimigos concentrados em um pequeno espaço.
 Espere que a artilharia termine o bombardeio antes de continuar.
@@ -4458,7 +4458,7 @@ Alguns inimigos virão procurá-lo caso você se esconda, ou destruirão a cober
 M10
 VISTA VERTICAL
 Programador líder de IA
-Eu vi indivíduos no alto da colina... Às três horas. A cem metros, lançadores de granadas.
+Eu vi indivíduos no alto da colina... Às três horas. A cem metros, Lança Mísseis.
 É isso, em marcha.
 A CONTA FOI DESATIVADA DEVIDO À SOLICITAÇÃO DOS USUÁRIOS.
 ATUALIZANDO SUAS ESTATÍSTICAS‚
@@ -4615,13 +4615,13 @@ Inclinar à esquerda
 CONVIDAR AMIGOS
 Ó meu Deus, finalmente algum reforço americano? Aleluia!
 
-AJUDA À MORTE CRÍTICA +{0:s}
+ASSISTÊNCIA EM MORTE CRÍTICA +{0:s}
 Assistente de diretor de arte
 Testers Reino Unido - CQ Dice
 NOME DO CLÃ
 Eu me pergunto... quem diabos vai à guerra com chapéu de caubói?
 Caubóis não estão em guerra há centenas de anos.
-Bravo 2, aqui é Motoqueiro Fantasma. Tenho lança granadas por toda a vila.
+Bravo 2, aqui é Motoqueiro Fantasma. Tenho Lança Mísseis por toda a vila.
 Tente chegar ao telhado. Pegarei você lá - vá rápido!
 Não sei por quanto tempo posso continuar com isso.
 ATIVAR TELEMETRIA
@@ -4635,7 +4635,7 @@ BROCHE DE ASSALTO ({2:s} ptos)
 Digite o código
 VÕO VERTICAL
 PATRULHA: ASSALTO
-AJUDA PARA DESTRUIR VEÍCULO DE PATRULHA +{0:s}
+ASSISTÊNCIA PARA DESTRUIR VEÍCULO DE PATRULHA +{0:s}
 O modo Conquista consiste em capturar e controlar bandeiras. Quando uma equipe captura um ponto de controle, seus membros podem ressurgir na área e ganhar aceso a veículos lá estacionados. Manter o controle sobre as bandeiras no campo de batalha e fazer a equipe adversária sofrer grandes perdas são as chaves para a vitória no modo Conquista.
 SUBMETRALHADORAS
 Você precisa ter o Punkbuster instalado e em execução para participar de servidores que tenha esta opção ativada.
@@ -4656,7 +4656,7 @@ FUZILS DE ASSALTO
 PRECISÃO
 Quase sem munição...
 Temos algo a fazer. Lá está o avião e com um punhado de alvos. Mãos à obra!
-Suba nesta mera agora e encontre um RPG!
+Suba nesta mera agora e encontre um Lança Míssil!
 Marketing & RP
 DANOS AO OBJETIVO DE EQUIPE {0:s}
 ARMA ANTIAÉREO
@@ -4683,7 +4683,7 @@ Dois inimigos no píer mais afastado. Alcance do alvo, sete, dois. Vento, cinco 
 
 
 CURA DE ESQUDRÃO +{0:s}
-AJUDA AO PASSAGEIRO DO ESQUADRÃO +{0:s}
+ASSISTÊNCIA AO PASSAGEIRO DO ESQUADRÃO +{0:s}
 Vença uma rodada de Conquista
 BROCHE À CONQUISTA ({2:s} ptos)
 DESBLOQUEÁVEIS
@@ -4715,7 +4715,7 @@ Vamos! Vamos! Vamos!
 APROXIMANDO
 Que merda!
  
-Um grupo de assalto dos EUA se move para apoiar uma ação... inovadora † contra as forças russas nas montanhas chilenas. Os russos estão tentando dominar as posições dos EUA com um contra-ataque surpresa para expulsá-los do vale. Ativos blindados e aerotransportados na paisagem aberta tornam a guerra de veículos em grande escala uma grande probabilidade. Equipes de Sniper e RPG também foram vistas no teatro.
+Um grupo de assalto dos EUA se move para apoiar uma ação... inovadora † contra as forças russas nas montanhas chilenas. Os russos estão tentando dominar as posições dos EUA com um contra-ataque surpresa para expulsá-los do vale. Ativos blindados e aerotransportados na paisagem aberta tornam a guerra de veículos em grande escala uma grande probabilidade. Equipes de Sniper e Lança Mísseis também foram vistas no teatro.
 COLECIONÁVEL ENCONTRADO: MET T88R
 VEÍCULO FAVORITO:
 Selecionar arma 1
@@ -4791,7 +4791,7 @@ X
 Y
 Z
 TAXA DE TIRO
-Javalis! Que inferno!
+Warthogs! Isso ai!
 Você não atendeu a todas as restrições de posto do servidor. Tente outro servidor.
 Muito bem, não temos tanto tempo...
 Não, continuem!
@@ -4955,7 +4955,7 @@ Grande helicóptero com canhão operador por uma equipe de 2 pessoas e capaz de 
 Helicóptero de assalto russo armado com um canhão de cadeia de 30mm e um lança-foguetes duplo de 80mm.  Equipe: 2. Proteção de blindagem: até calibre .50.½
 USAS-12
 Um veículo tático ultra leve para 2 pessoas desenvolvido para oprar em qualquer terreno, em todos os climas e qualquer altitude. ½
-Lança-granadas antitanque russo RPG-7 de 85mm. Preparado para o sistema de direcionamento com dardos traçadores.
+Lança Míssil antitanque russo RPG-7 de 85mm. Preparado para o sistema de direcionamento com dardos traçadores.
 Uma escopeta semiautomática com carregador para 6 projéteis, perfeita para espaços reduzidos. Tem um excepcional poder de detenção, mas alcance limitado.½
 Carabina automática de 30 balas possuindo grande mobilidade tornando-a ideal para combates de curta distância.
 Uma escopeta de bomba, curto alcance desenvolvida combate de curta distância.½
@@ -4972,7 +4972,7 @@ Estúdio de gravação
 BACKSPACE
 Mudar posição
 PONTOS
-Lança granada ali!
+Lança Míssil bem ali!
 P.FUZIL
 TREINAMENTO COM FUZIL DE ASSALTO
 DESBLOQUEADA ESCOPETA DE SOLDADO: ESCOPETA SEMIAUTOMÁTICA SAIGA 20K
@@ -5025,7 +5025,7 @@ Dois guardas na rua, um na casa. Espere... espere...
 
 
 TRAILERS
-AJUDA À MORTE CRÍTICA PARA O ESQUADRÃO +{0:s}
+ASSISTÊNCIA EM MORTE CRÍTICA PARA O ESQUADRÃO +{0:s}
 Muito bem, vamos correr. Quem vencer... não irá perder.
 
 
@@ -5101,7 +5101,7 @@ O transporte escolhido pelas forças armadas americanas. Equipado com uma metral
 DESBLOQUEADO EQUIPAMENTO DE ENGENHEIRO: ATM-00
 Este texto fictício é para uma UZI com mira reflex
 MISSÃO FALHOU - SEU ESQUADRÃO FOI ELIMINADO!
-Atirador na janela, RPG!
+Atirador na janela, Lança Míssil!
 TODOS OS KITS
 Ajuda na localização de 50 minas de movimento para o esquadrão
 VIGILÂNCIA EM ESQUADRÃO ({2:s} ptos)
@@ -5119,7 +5119,7 @@ NO DEATHMATCH EM ESQUADRÃO, 4 ESQUADRÕES COMBATEM CABEÇA A CABEÇA PARA SER O
 Que merda!
 Estamos presos! Vamos, mexa-se!
 ID ONLINE
-Concentre-se nos soldados com lança-granadas para evitar que eles destruam o satélite.
+Concentre-se nos soldados com Lança Mísseis para evitar que eles destruam o satélite.
 Atire nos barris explosivos para que as chamas lhe aqueçam neste clima congelante.
 Se você não encontrar refúgio ou se aquece quando as bordas da tela começar a congelar, logo morrerá congelado.
 Prédios caindo podem te matar. Tenha cuidado.
@@ -5129,7 +5129,7 @@ Agarre-se a alguma coisa!
 CALC.
 NÍVEL
 Dane-se, acabe com estes alvos.
-Use a metralhadora coaxial nos inimigos corredores e também nos que estiverem armados com lança-granadas.
+Use a metralhadora coaxial nos inimigos corredores e também nos que estiverem armados com Lança Mísseis.
 Sim!
 XM8 MET.
 Escrita por
@@ -5164,7 +5164,7 @@ Henrik Fegraeus
 Mira telescópica avançada de localização com rastreamento por computador que transmite a posição do inimigo em tempo real para a equipe de combate. 
 Consiga que equipe te regenere 200 vezes
 OPERAÇÕES TÁTICAS EM ESQUADRÃO ({2:s} ptos)
-Merda, lança granadas!
+Merda, Lança Mísseis!
 VOCÊ NÃO ESTÁ LOGADO COM UMA PERFIL DE JOGADOR ATIVO E NÃO SERÁ CAPAZ DE SALVAR OU CARREGAR ARQUIVOS EM SEU CONSOLE XBOX 360.
 Selecione o idioma desejado para as vozes
 Em uma rodada, reanime 5 companeiros
@@ -5272,7 +5272,7 @@ Muito obrigado, Motoqueiro Fantasma. Muito bem, vamos lá.
 
 
 
-AJUDA PELA CAPTURA DA BASE +{0:s}
+ASSISTÊNCIA NA CAPTURA DA BASE +{0:s}
 Guinada à esquerda
 A CONTA AINDA NÃO FOI AUTORIZADA.
 PRESSIONE PARA ABAIXAR
@@ -5300,7 +5300,7 @@ Merda! Inimigos à frente!
 TOTAL DE PLACAS RECOLHIDAS
 Metralhadoras lá em cima!
 VÍDEO
-AJUDA À MORTE EM VEÍCULO +{0:s}
+ASSISTÊNCIA NA MORTE EM VEÍCULO +{0:s}
 OFERTAS DE TESTE DE DESENVOLVIMENTO
 Obrigado, Motoqueiro Fantasma. Recebido.
 Kit médico de capacidade maior. Aumentando a eficiência de alcance de cura de seus kit médicos distribuídos.
@@ -5313,7 +5313,7 @@ O que há neste caminhão, afinal?
 Entendido, sargento!
 MAPA:
 CORRER (PRESSIONAR)
-Use o RPG nesta porra!
+Use o Lança Míssil nesta porra!
 Granadas de 40mm altamente explosivas para o lança-granadas do fuzil de assalto. Eficiente contra veículos leves e infantaria.
 RIO ACIMA (DESCRIÇÃO)
 RIO ACIMA
@@ -5330,7 +5330,7 @@ Coloque 100 dardos traçadores
 RÁDIO EM COMB. EXTENDIDO ({2:s} ptos)
 Additional Art Director
 O CONTEÚDO BAIXÁVEL ADQUIRIDO PARECE ESTAR CORROMPIDO, PARA RESOLVER ESTE PROBLEMA, BAIXE-O DE NOVO.
-Quer aprender o idioma da tecnologia? Visite o ½Instituto Russo. Subsidiado pela coalizão RULA.
+Quer aprender o idioma da tecnologia? Visite o ½Instituto russo. Subsidiado pela coalizão RULA.
 
 
 Você só se preocupa em atirar nele, deixe que eu me preocupo sobre eles atirarem em nós.
@@ -5447,11 +5447,11 @@ ATROPELAMENTO
 Ativa o rádio em determinados veículos
 Todas as unidades da rede, aqui fala Kodiak.
 Fique alerta, elementos blindados pesados fizeram contato.
-Nossas unidades tem recebido tiros de armas pesadas, armas pequenas e lança-granadas.
+Nossas unidades tem recebido tiros de armas pesadas, armas pequenas e Lança Mísseis, foda.
 {0:s}<XM22>
 {0:s}<LANÇA-GRANADAS AUTOMÁTICO XM-306>
 {0:s}<METRALHADORA PESADA>
-RPG na janela!
+Lança Míssil na janela!
 Ver o progresso de seus colecionáveis
 COLECIONÁVEIS
 Certo, vamos lá! Estamos indo.
@@ -5459,7 +5459,7 @@ SALVANDO DADOS DO PERFIL. NÃO DESLIGUE SEU SISTEMA.
 LANÇAM.
 MUDAR
 CRÉDITOS OBTIDOS
-Bravo 2, você recebeu? Cuidado com os lança-granadas.
+Bravo 2, vocês entenderam? Cuidado com os Lança Mísseis.
 Para desbloquear este item, você deve coletar pontos com os veículos.
 Renderização de arquitetura
 LANÇA-GRANADAS DE FUMAÇA DE 40MM
@@ -5467,7 +5467,7 @@ MISSÕES ANTERIORES
 Olhos abertos, olhos bem abertos!
 Michael Othen
 PART. DEATHMATCH EQUIPE
-NÃO SE PODE CONVIDAR
+NÃO PODE CONVIDAR
 TOTAL:
 Veículo de transporte modular russo. Transporte de tropas de combate; versão com uma metralhadora 12.7mm. Assentos 4.
 Pearl Digital Entertainment
@@ -5505,14 +5505,14 @@ Pistola semiautomática de 17 balas, conhecida por sua alta mobilidade, tornando
 Lâmina sintética desenvolvida para estar sempre afiada; sem oxidar, dobrar ou quebrar. ½
 NÃO SE PÔDE UNIR
 Ah merda... Esqueça!
-VÔO VERT.
+VÔO VERTICAL
 Estamos chegando... Identificado o comboio de tanques...
 Um fuzil semiautomático, 10 balas, com um desenho robusto que produz precisão e poder de detenção médios.  ½
 Metralhadora leve de 5.8 mm disparando 650 balas/min, com cinto de alimentação para 200 balas. Seu longo alcance compensa o seu peso elevado e forte recuo.½
 Um lança-granadas automático chinês de 35mm leve e altamente móvel.½
 Lançador de granadas de propulsão por foguete russo 85mm
 DESBLOQUEAR
-Talvez tenha sido nosso cara. Um tiro impressionante na minha opinião.
+Talvez nosso cara tenha feito isso. Um tiroterio impressionante na minha opinião.
 PLACAS DE IDENTIFICAÇÃO ÚNICAS RECOLHIDAS
 European QA Director
 Configuração de botões para veículos terrestres e barcos
@@ -5555,7 +5555,7 @@ O servidor é privado.
 Maldição. Tem um montão de árvores mortas.
 Alvos de oportunidade, dispare!
 Em um rodada, mate 8 inimigos com o M16 da AE
-AJUDA À MORTE +{0:s}
+ASSISTÊNCIA EM MORTE +{0:s}
 BROCHE À EXCELÊNCIA EM ASSALTO AE ({2:s} ptos)
 Certo, agora! Continue abaixados! Marlowe, designe o alvo!
 PEGAR O BINÓCULO
@@ -6021,7 +6021,7 @@ Vamos acabar com eles.
 Ajusta a intensidade de vibração
 MORTOS / BAIXAS
 Sua base, os Atacantes
-AJUDA COM MINA DE MOVIMENTO PARA A PATRULHA +{0:s}
+ASSISTÊNCIA COM MINA DE MOVIMENTO PARA A PATRULHA +{0:s}
 CAPTURAR TELA*
 Sim, toma isso! Toma isso, sim!
 Ok, precisamos de um veículo.
@@ -6068,7 +6068,7 @@ Metralhadora, acima, às 3!
 Animador chefe
 Aqui é Bravo 2, temos o veículo alvo. Disparam tiros de todos os lados, estamos sob ataque!
 
-PRESSIONE O BOTÃO INICIAR PARA COMEÇAR
+PRESSIONE START PARA COMEÇAR
 METRALHADOREAS LEVES
 NOMES
 {0:s}<MINA ANTITANQUE>
@@ -6281,7 +6281,7 @@ Apenas uma opção, o vale a frente, vamos!
 Metralhadora totalmente automática. 25 balas. 600 rpm. Precisão média. Alcance curto. Poder médio. Alta mobilidade. Silencioso.
 UMP
 ABRIR SUPLIMENTOS GUARDADOS
-MMINHA CAMPANHA
+MINHA CAMPANHA
 M151A1
 PISTOLA DA SEGUNDA GUERRA M1911 .45
 Fagote
@@ -6322,7 +6322,7 @@ C4
 Artista Técnico
 DEFIB
 F2000
-OLHAR/MOVER TORRE
+OLHAR/MOVER TORRETA
 LOCALIZAÇÃO 3D
 G69
 CLÃ
@@ -6509,7 +6509,7 @@ Whoa, que tal isso?
 Ah! Lança-mísseis! Lança-mísseis!
 Sim, eu vi.
 Whoa, mas que porra?
-Agora agente vê esses lança-mísseis russos baratos por aqui, eles são de boa, cara.
+Agora a gente vê esses lança-mísseis russos baratos por aqui, eles são de boa, cara.
 Se aquilo foi tipo uma formação especial eu tenho que fazer algo rápido.
 Você pode apenas nos levar para a porra da ZA, antes que eu tenha que fazer algo rápido, também?
 Certo, certo, saquei, chefinho.
@@ -6650,16 +6650,16 @@ Sargento?
 Amigo, eu tenho 44 anos. Tenho três crianças bastardas para cuidar, a carreira pode esperar.
 Esta era para ser minha última missão! Não posso fazer isso de novo, não posso.
 E quanto a salvar os Estados Unidos?
-O que tem?
+E depois?
 Isso é tudo.
 Certo, então você está nessa.
-Kirilenko ainda respira, devido ao meu erro.
+Kirilenko ainda respira, por minha culpa.
 Docinho?
 Deixe-me pensar, sim!
 Haggard?
 Foda-se... Não estou pronto para fazer isso e nem pronto para desistir.
 Estou dentro.
-Muito bem, é isso...
+Muito bem, é o seguinte...
 Você irá a bordo de um blindado para pegar Kirilenko.
 É o único jeito.
 Então vamos para o sul, em direção ao Chile.
@@ -6714,11 +6714,11 @@ Maldito seja!
 Vamos, pessoal.
 Certo, temos a localização de Kirilenko. Fuzileiros, vamos precisar de seus humvees e de seus atiradores.
 O que for, senhor.
-O que você disse a esse prisioneiro, sargento?
+O que você disse pro prisioneiro, sargento?
 Nada, só disse a ele o motivo de estarmos aqui.
 E ele desistiu?
 Sim, disse que tem família em Houston.
-Texan...
+Texano...
 Algumas vezes, pessoas são apenas pessoas, cara.
 Vamos!
 Entendo... Você têm ordens para me levar vivo.
@@ -6739,7 +6739,7 @@ Sargento!
 Adversário?
 Ele jogou bem para chegar até aqui. Como vocês, eu reconheço.
 Onde diabos foi o Rasputin?
-Ah, esqueça dele, só siga em frente!
+Ah, esqueça ele, apenas continue!
 Merda!
 Ei, você beija sua mãe com essa boca?
 Estou orgulhoso de você, Pres!
@@ -6762,7 +6762,7 @@ Talvez.
 Certo. O que fazer, o que fazer...?
 O esta agulha se move...
 Gira...
-Giro este dial!
+Gira este dial!
 Funcionou!...
 Como dizem: Você pode ser o que quiser.
 Ei, se algo acontecer, você já sabe...
