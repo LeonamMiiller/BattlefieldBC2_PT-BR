@@ -78,7 +78,7 @@ IT
 QA
 Sim, estou vendo ele também... E agora?
 M14
-FAILED TO CONNECT TO PlayStation®Network
+FALHA AO SE CONECTAR COM A PlayStation®Network
 Franco atiradores, deem cobertura!
 Recrutador
 A senha é inválida.
@@ -189,7 +189,7 @@ Nós vamos pelo caminho difícil. Wyatt, cuide das trinceiras.
 Não, não vamos Faraday, essa não é a missão! Boa sorte, Wyatt.
 
 Uma espingarda de impacto convencional de ação com uma potência de calibre 12. Foi criada para os militares russos, porém nunca foi utilizada. Em contra partida se tornou popular para esportistas do gênero e para vias de segurança internacional.
-MANUTENÇÃO OPS PIN ({2:s} pts)
+MEDALHA EM MANUTENÇÃO DE OPERAÇÕES ({2:s} pts)
 Subit no ranking irá liberar a você novos créditos.
 Pronto.
 Base inimiga a frente. Prepare-se para o estilo a moda antiga, mano...
@@ -200,7 +200,7 @@ Caramba, eles cobriram todo o caminho. temos que flanqueá-los e manter a calma.
 Estou indo para o andar superior, continue atirando!
 Eu duvido. Eles provavelmente pensam que é só mais um tiroteio... É melhor seguirmos em frente
 
-<{0:s}ROAD KILL>
+<{0:s}ATROPELAMENTOS>
 Merda! Estamos no meio do fogo cruzado! Maldita hora que nós movemos... vamos... Faça Itýs, manda bala! Puta que pariu... Mexa-se... Faça algo, Preston! Exploda os barris!
 
 
@@ -268,13 +268,13 @@ Marlowe, quase lá!
 Ok, eu tenho todos marcados. Você deve ter o visual no seu mapa agora...
 Nós temos que continuar nós preparando aqui, achar o navio é trabalho seu, Marlowe.
 Heh, sem pressão, amigo!
-{0:s}<STATIONARY AT>
+{0:s}<ESTACIONÁRIO AT>
 MELHOR DISPOSITIVO
 ÍTEM DISPONÍVEL
 Eles estão vindo por todos os lados!
-<{0:s}FRANCOATIRADOR fuzil>
+<{0:s}FUZIL FRANCOATIRADOR>
 A Garota Dragão
-Um de vocês derrubem com um Lança Míssil aquele bote!
+Um de vocês dê um passo a frente e usa um Lança Míssil naquele maldito bote!
 VOCÊ DESBLOQUEOU UM RECOMPENSA ESPECIAL
 Aonde todo mundo se meteu? Quer dizer, todo mundo apenas... sobe e desce?
 
@@ -566,7 +566,7 @@ Virar à direita
 PKM
 {0:s}<PP-2000 AVTOMAT>
 Galera! Venham para cá! Cubram a estrada e a colina!
-Apenas continue essa porra de scan!
+Apenas continue de olho, porra!
 O avião está partindo!
 Rápido!
 {0:s}h {1:s}m
@@ -578,7 +578,7 @@ EXPLODIR GRANADA DE FUMAÇA
 MODO DE JOGO
 Estou nessa. Marlowe, mantenha eles fora do meu alcance!
 ENTRE COM NOME DE NOVO SOLDADO
-Consiga algo! Sim! Que o combate aéreo nós ajude ao invés de ferra com a gente de uma vez. Hoje deve ser meu dia de sorte.
+Consiga algo! Sim! Que o combate aéreo nós ajude ao invés de ferrar com a gente de uma vez. Hoje deve ser meu dia de sorte.
 Beleza, espero que consigamos algumas respostas nesse barco, do contrário½todo mundo vai ir sem nada para cara. E se for assim prefiro voltar morto.
 
 Radio DJ
@@ -591,8 +591,8 @@ NOV
 DEZ
 <{0:s}FUZIL DE ASSALTO>
 NUM ,
-Passe a régua naqueles desgraçados!
-Pressione para levantar-se ou para agachar-se
+Passe a régua naqueles filhos da puta!
+Pressione para levantar ou agachar
 UMA NOVA ATUALIZAÇÃO FOI LANÇADA PARA BATTLEFIELD BAD COMPANYƒ 2, QUER ATUALIZAR AGORA?
 DEFENDA AS ESTAÇÕES M-COM
 INSERIR NUM
@@ -600,7 +600,7 @@ MODO HARDCORE
 Markus Wolmerud
 BASTÃO DO SOLDADO
 Ok. Fiquem quietos rapazes. Somos todos ouvidos.
-ABAIXE-SE! RÁPIDO! ...Um blindado Japo. Não se mexam. Nem ½pensem em respirar.
+ABAIXE-SE! RÁPIDO! ...Um blindado Japo. Não se mexam.½Nem pensem em respirar.
 EU POSSO REPARAR
 Equipe de Programação de Áudio
 Diretor de Certificação Global
@@ -857,7 +857,7 @@ Marcados. 3, 2, 1...
 
 
 Mate 4 inimigos de uma só vez com explosivos
-EFICIÊNCIA DO EXPLOSIVO ({2:s} pts)
+MEDALHA EFICIÊNCIA EM EXPLOSIVO ({2:s} pts)
 QUALIDADE DOS EFEITOS
 Wow! Marlowe, você me impressionou. Você vai comigo para a Nascar quando voltarmos.
 
@@ -899,10 +899,10 @@ Dane-se... Somos todos homens mortos!
 Em uma rodada mate 4 inimigos no corpo-a-corpo
 PONTUAÇÃO DE RECONHEC.
 COLECIONÁVEL ENCONTRADO: AEK-971R
-EFICIÊNCIA DO MANO A MANO ({2:s} pts)
+MEDALHA EFICIÊNCIA EM CORPO A CORPO ({2:s} pts)
 Marlowe, pegue aquela estrada lá embaixo, ao invés de dar meia voltar e passar pelo mesmo lugar.
 Produtor Sênior
-Isso! Fodam-se tudo! Queres brincar de baseball? Eu vou jogar essa porra com você! ½Vou ser o lançador e o batedor e toda a merda do time! Bora lá! Seus viados!
+Isso! Foda-se tudo! Quer jogar baseball? Eu vou jogar essa porra com você!½Vou ser o lançador e o batedor e todo o maldito time! Bora lá! Seus viados!
 
 PARTIDA PERSONALIZADA
 Seleciona o volume de áudio, efeitos e todos o resto
@@ -941,12 +941,12 @@ PROGRESSO LIBERADO
 ENTRAR
 Inclinar à Direita
 RESULTADO
-50 Broches por Eficiência em Combate
+50 Medalhas por Eficiência em Combate
 DISTINTA EFICIÊNCIA EM COMBATE ({2:s} pts)
 BOTÕES DO SOLDADO
 Em uma carga, destrua 4 veículos inimigos
 SELECIONE A DIFICULDADE
-EFICIÊNCIA ANTI VEÍCULOS PIN ({2:s} pts)
+MEDALHA EFICIÊNCIA ANTI VEÍCULOS ({2:s} pts)
 Marlowe, mate aqueles esquadrões!
 BOTÕES TERRESTRES
 DANO
@@ -1007,13 +1007,13 @@ SILÊNCIO
 PARAR
 CONTINUAR
 MANTER
-50 Broxes por Excelência em Combate
+50 Medalhas por Excelência em Combate
 EXCELÊNCIA DISTINTA EM COMBATE ({2:s} pts)
 PARTIDA RÁPIDA RANQUEADA
 GUIAR MÍSSEL PARA ALVO
 Em uma carga, mate cerca de 6
 Continue apertando o gatilho!
-BROXES POR EFICIÊNCIA EM COMBATE ({2:s} pts)
+MEDALHA POR EFICIÊNCIA EM COMBATE ({2:s} pts)
 Ei Marlowe! Tu tá ficando doidão!
 Abaixe-se! Agora! Um blindado... Não se mexam!
 
@@ -1035,7 +1035,7 @@ Juntem-se os três.
 Tudo bem por mim. Bora...
 MUDAR POSIÇÃO
 {0:s}<XM8 LMG>
-Nós pegamos mais T90 lá em cima.
+Nós temos mais T90 lá em cima.
 Veículo se aproximando.
 Não podemos recuar!
 HI-FI
@@ -1173,7 +1173,7 @@ DISPOSITIVO DE ARMAZENAMENTO
 Com uma carga, faça duas mortes 2 de resgate
 Tanque!
 Whoa whoa whoa whoa... Marlowe, pega leve, pega leve! Aquelas coisas vão voar!
-BROCHES POR RESGATE ({2:s} pts)
+MEDALHAS POR RESGATE ({2:s} pts)
 NÍVEL DE DETALHES
 Line Manager Production
 COLETE
@@ -1226,7 +1226,7 @@ Vidar Nygren
 Designer Chefe de Jogo
 ID ONLINE
 Em uma carga, faça dê duas revanches
-BROCHES POR REVANCHE ({2:s} pts)
+MEDALHA POR REVANCHE ({2:s} pts)
 PARA CIMA
 BASE AMIGA
 Você não tem placas!
@@ -1349,7 +1349,7 @@ MOSTRAR KIT SELECIONADO
 VOCÊ NÃO CONSEGUIU SUPERAR SEU MELHOR TEMPO „ TENTE NOVAMENTE!
 Em uma carga, dê 5 tiros na cabeça
 INFO: COMBATE
-BROCHES POR ATIRADOR ({2:s} pts)
+MEDALHA POR ATIRADOR ({2:s} pts)
 Tá ficando uma loucura aqui!
 Soldados vindo às 20 horas!
 VOCÊ ESCOLHEU UM DISPOSITIVO DE ARMAZENAMENTO COM ESPAÇO INSUFICIENTE. O ARMAZENAMENTO DO PROGRESSO NÃO SERÁ EFETUADO.
@@ -1687,7 +1687,7 @@ A SPAS 15, desenvolvida da SPAS 12, tem o mesmo sistema de seleção de funciona
 ATUALIZANDO SUAS ESTATÍSTICAS
 Preston, volte para dentro! Franco atiradores!
 Em uma rodada, mate 4 inimigos com lança-granadas
-BROCHE DE EFICIÊNCIA COM LANÇA-GRANADAS ({2:s} ptos)
+MEDALHA DE EFICIÊNCIA COM LANÇA-GRANADAS ({2:s} ptos)
 DEMOL.+
 Não sei quanto tempo nos resta, se puder apressar ½o passo, melhor.
 Um delicado composto explosivo que aumenta bastante a energia liberada sobre o alvo.  Aumenta o poder de destruição dos engeneiros e da infantaria móvel.
@@ -1780,7 +1780,7 @@ Mecânico de combate preparado para dar apoio a veículos amigos e destruir os d
 russos. Surpresa!
 
 Em uma rodada, mate 7 inimigos com fuzils francoatirador
-BROCHE DE EFICIÊNCIA COM FUZIL DE FRACOATIRADOR ({2:s} ptos)
+MEDALHA DE EFICIÊNCIA COM FUZIL DE FRACOATIRADOR ({2:s} ptos)
 PALHEIRO
 TOPO DA COLINA
 A: PALHEIRO
@@ -1817,7 +1817,7 @@ Tentar de novo?
 A USAS-12 sul-coreana é uma escopeta com carregador de gás e permite disparar em modo automático ou semiautomático. Seu peso e volume não são problema se a missão exige potência e efetividade.
 ERRO AO CRIAR O ESQUADRÃO, TENTE DE NOVO.
 Em uma rodada, mate 4 inimigos com armas de mão
-MEDALHA DE EFICIÊNCIA COM ARMAS DE MÃO ({2:s} ptos)
+MEDALHA DE EFICIÊNCIA COM PISTOLAS ({2:s} ptos)
 Engeneiro de construção
 MUDAR CÂMERA
 Marlowe, pegue a metralhadora! Acabe com eles!
@@ -1920,7 +1920,7 @@ Marlowe, recue, estamos na mira dos TOW!
 MORTE TRIPLA +{0:s}
 Em uma rodada, mate 5 inimigos com lança-foguetes
 DISPARAR
-BROCHE DE EFICIÊNCIA COM LANÇA-FOGUETES ({2:s} ptos)
+MEDALHA DE EFICIÊNCIA COM LANÇA-FOGUETES ({2:s} ptos)
 SALTAR
 OLHAR
 PAUSA/MENU
@@ -2586,7 +2586,7 @@ MORTES PRÓX. NÍV.
 Espere, Pres, espere.
 O SERVIÇO XBOX LIVE ESTÁ OCUPADO.
 Seja parte do melhor esquadrão em uma rodada
-BROCHE DE OURO DA PATRULHA ({2:s} ptos)
+MEDALHA DE OURO DO ESQUADRÃO ({2:s} ptos)
 Produção
 Limpo. Seguro. Ninguém em casa.
 Sim.
@@ -2705,8 +2705,8 @@ Pegue outro minicanhão, Marlowe. Cubra esse lado.
 Maestro
 Em uma rodada, mate seu nêmesis
 INFORMAÇÃO: JOGO EM EQUIPE
-BROCHE DE VINGANÇA ({2:s} ptos)
-TIPO DE BROCHE
+MEDALHA DE VINGANÇA ({2:s} ptos)
+TIPO DE MEDALHA
 Certo, seus loucos filhos da puta.... Será uma honra... Ao meu comando, três, dois, um... ½Vão! Vão! Vão!
 
 
@@ -2752,7 +2752,7 @@ Selecionar assento 3
 Selecionar assento 4
 Selecionar assento 5
 Selecionar assento 6
-Consiga todos os broches de armas
+Consiga todos as medalhas de armas
 SAIR DO VEÍCULO
 SERVIÇO DE ARMAS EXEMPLAR ({2:s} ptos)
 Artistas adicionais
@@ -2764,7 +2764,7 @@ Selecione o mapa que deseja jogar.
 Na mesma ronda, receba uma ordem de ataque e uma de defesa
 MAPA PREFERIDO
 SIM
-BROCHE AO MEMBRO DA PATRULHA ({2:s} ptos)
+MEDALHA AO MEMBRO DO ESQUADRÃO ({2:s} ptos)
 VOCÊ PRECISA DE UM PERFIL DE JOGADOR PARA SALVAR SEU PROGRESSO NO MODO INDIVIDUAL OU PARA PARTICIPAR DE JOGOS MULTIJOGADOR. CONITNUAR SEM UM PERFIL DE JOGADOR?
 ENTRAR EM COMBATE
 CARREGANDO
@@ -2818,11 +2818,11 @@ Não, não, não, é o oceano. Acho que estamos nos aproximando do porto...
 
 
 MORTOS PARA NIV. SEG.
-Consiga todos os broches de combate
+Consiga todos as medalhas de combate
 SERVIÇO DE COMBATE EXEMPLAR ({2:s} ptos)
 Ajuste esta opção de acordo com seu sistema de reprodução
 Em uma rodada, atropele 3 inimigos com qualquer veículo
-BROCHE DE RODAS PERIGOSAS ({2:s} ptos)
+MEDALHA RODAS PERIGOSAS ({2:s} ptos)
 Entendi, sargento.
 Não acredito que estamos a ponto de fazer isso...
 M10
@@ -2902,15 +2902,15 @@ CHEGUE AO PORTO
 EVITE A DETONAÇÃO DA ARMA ESCALAR
 EVITE A DETONAÇÃO DA ARMA ESCALAR
 EVITE A DETONAÇÃO DA ARMA ESCALAR
-Consiga todos os broches de veículos
 Um mecânico combatente que é igualmente hábil em ajustar veículos aliados ou destruir os dos inimigos. Carrega metralhadoras para defesa pessoal.
+Consiga todos as medalhas de veículos
 SERVIÇO DE VEÍCULOS EXEMPLAR ({2:s} ptos)
 Reforços chegando!
 O último grupo está junto ao barco.
 Em um rodada, mate 3 inimigos com carros
-Puta merda, o moinho de vento.
+Puta merda, o maldito moinho de vento.
 Falha ao iniciar sessão, soldado.
-BROCHE HOSTILIDADE AO VOLANTE ({2:s} ptos)
+MEDALHA HOSTILIDADE AO VOLANTE ({2:s} ptos)
 SÓ MESMA VERSÃO
 Arma operada a gás que planta um dardo luminoso que guia mísseis até o alvo.
 Arma de dados traçadores
@@ -2945,18 +2945,18 @@ Buscar proteção nas casas!
 CAPTURAS
 DIAS
 Certo, agora! Fogo de supressão! Preston, designe o alvo!
-BROCHE
+MEDALHAS
 VITÓRIAS
-Consiga todos os broches
+Consiga todas as medalhas
 SERVIÇO DE ELITE ({2:s} ptos)
 Continue atacando!
 CONTROLES TERRA/ÁGUA
 Additional Sound Design
 Belo tiro, magrelo, tem talento.
 ESTRADA
-Em uma rodada, usando tanque mate 7 inimigos
+Em uma rodada, mate 7 inimigos usando tanques
 <{0:s}LANÇA-FOGUETES>
-BROCHE GUERRA DE TANQUES ({2:s} ptos)
+MEDALHA GUERRA DE TANQUES ({2:s} ptos)
 PONTOS POR MINUTO
 Lá vamos nós. Bom trabalho, amigo.
 
@@ -3012,7 +3012,7 @@ Certo, vamos encontrar esse Kirrilittigo. Estou ansioso para conhecê-lo... ½In
 
 Bravo 2, fique ciente que temos um inimigo [estática] chegando.
 Em uma rodada, mate 4 inimigos usando embarcações
-BROCHE GUERRA NAVAL ({2:s} ptos)
+MEDALHA GUERRA NAVAL ({2:s} ptos)
 Alguém se encarrega dos quadriciclos? Marlowe!
 VÍDEO
 COMPANHEIROS DE ESQUADRÃO
@@ -3057,7 +3057,7 @@ Consiga todas as estrelas de bronze para veículos
 CONHEC. DE VEÍCULOS DISTINTO ({2:s} ptos)
 ESTAÇÃOES DE COMUNICAÇÃO DESTRUÍDAS
 Em uma rodada, com aeronaves, mate 5 inimigos
-BROCHE COMBATE AÉREO ({2:s} ptos)
+MEDALHA COMBATE AÉREO ({2:s} ptos)
 Flynn, que diabos estamos fazendo aqui?
 Há caras com mísseis TOWS...
 Você não se parece com um pacifista agora, Flynn!
@@ -3118,10 +3118,10 @@ Muito bem. 3, 2, 1...
 
 
 
-BROCHES COLETADOS
+MEDALHAS COLETADAS
 ID Online
 Em uma rodada, explora 4 estações de comunicação
-BROCHE ATACANTE DE ESTAÇÕES ({2:s} ptos)
+MEDALHA ATACANTE DE ESTAÇÕES ({2:s} ptos)
 ASSALTO
 MORTES
 GUINADA
@@ -3183,7 +3183,7 @@ Apenas continue ferrando estes malditos com Lança Mísseis e ficaremos bem!
 ÁUDIO
 LOJA
 LOCAL
-Um significativo avanço no dispositivos de rastreamento inimigos. Essa mira telescópica de localização assistida por computador permite identificar e transmitir as posições inimigas para o resto da equipe de combate.
+Um significativo avanço nos dispositivos de rastreamento inimigo. Essa mira telescópica de localização assistida por computador permite identificar e transmitir as posições inimigas para o resto da equipe de combate.
 MIRA TELESCÓPICA DE LOCALIZ.
 REINICIAR MISSÃO DO ÚLTIMO PONTO DE CONTROLE
 ESQ.ABAIXO
@@ -3642,7 +3642,7 @@ HARDCORE
 PONTO DE VANTAGE
 Não podemos recuar?
 MINA AT
-Nenhum barulho, pessoal, estamos entrando em ½campo logo adiante
+Nenhum barulho, pessoal,½estamos entrando em campo logo adiante
 NÃO FOI POSSÍVEL ENCONTRAR INFORMAÇÕES DA CONTA PARA PERFI DE JOGADOR CONVIDADO.
 PONT. VEÍCULO
 PONT. ASSALTO
@@ -3666,13 +3666,13 @@ CARREGADOR
 NÃO FOI POSSÍVEL APAGAR O PERFIL DE JOGADOR.
 A outra equipe está completa, mudar de equipe não é permitido
 VOCÊ FOI DESCONECTADO DA REDE
-Está no píer. Espere o trovão e acabe com ele.
+O Cara no píer. Espere o trovão e então acabe com ele.
 
 
 Uma das equipes tem muito pouco membros, assim não se pode trocar.
 MATERIAL BÔNUS
 Elimine seus alvos, acabe com eles!
-Infelizmente, a PlayStation®Store NÃO ESTÁ DISPONÍVEL ATUALMENTE, TENTE DE NOVO MAIS TARDE.
+INFELIZMENTE, A PlayStation®Store NÃO ESTÁ DISPONÍVEL ATUALMENTE, TENTE DE NOVO MAIS TARDE.
 Ajuste o brilho do jogo
 Mexam-se! Não temos tempo a perder.
 
@@ -3715,11 +3715,11 @@ MÉDICO DA AE
 Líder de controle de qualidade do estúdio
 Kodiak Um, alvos adquiridos, temos circo ou seis blindados pesados.
 Não posso acreditar que é uma arma escalar!
-É, Bem se isto tiver poder o suficiente... ½Eu realmente não sei, só suposições, mas, mas significa que provavelmente não teríamos de voltar para casa,½ visto que nossa casa não seria nada alem de uma cratera exalando fumaça.
+É, Bem se isto tiver poder o suficiente... ½Eu realmente não sei, só suposições, mas, mas significa quê, provavelmente não teríamos de voltar para casa,½visto que nossa casa não seria nada além de uma cratera exalando fumaça.
 
 
 Cuidado!
-Destrua o prédio! Traga abaixo essa porra!
+Destrua o prédio! Traga abaixo toda essa porra!
 
 TOTAL DE MORTES
 Use o botão de zoom para dar melhor controle e aumentar a precisão da arma.
@@ -3741,7 +3741,7 @@ Ordens podem ser dadas para seu esquadrão mirando em um objetivo e pressionando
 As unidades em contato estão sendo rotacionadas devido à fadiga de combate. Semanas de luta deixaram o porto em ruínas e as áreas ao redor repletas de equipamentos destruídos. O movimento armado está detido e há destruição por todo o terreno. As forças americanas estão preparando um ataque ao porto industrial com o objetivo de tomar, manter e explorar a área. O controle do canal permitirá operações estratégicas em maior escala ao longo da costa sudoeste do Pacífico. 
 CANAL DO PANAMÁ
 Gerente financeiro
-Apontar com torre para a direita
+Apontar torreta para a direita
 Muito bem , apenas continue andando, Adaga Três. Não pare, fique tranquilo. Vamos sair dessa inteiros.
 Eu podia estar aposentado agora e recebendo uma pensão insuficiente. Tomando um gin com suco... atividades especiais uma ova.
 É, melhor você correr!
@@ -3760,7 +3760,7 @@ Sim, eu menti.
 Precisamos continuar subindo!
 Espero que isso interrompa a comunicação deles, Deus sabe que poderia ser útil ½uma ajudinha do tio Sam.
 
-Obrigado pela ajuda, Gladiador Cinco, você salvou de verdade nossos rabos... Câmbio.
+Obrigado pela ajuda, Gladiador Cinco, você salvou de verdade nossos rabos lá... Câmbio.
 Muito bem, parece que a área está segura... Mas continuem examinando em busca dos alvos.
 Testadores de estúdio
 FRACASSO TOTAL
@@ -4590,7 +4590,7 @@ Muito bem, saiam do veículo. Vamos para a vila a pé.
 QUER MESMO ESTA CONFIGURAÇÃO?
 Inimigos por este caminho!
 Em uma rodada, defenda 4 estações de comunicação móveis
-BROCHE DEFENSOR DE ESTAÇÕES ({2:s} ptos)
+MEDALHA DEFENSOR DE ESTAÇÕES ({2:s} ptos)
 SAIR DO JOGO
 Chefes de projeto de CQ
 ÁUDIO
@@ -4631,7 +4631,7 @@ Consiga 10 estrelas de prata
 CONHEC. DE CAMPO DE BAT. EXEMPLAR ({2:s} ptos)
 SE TEM 13 ANOS OU MAIS‚
 Ganhe uma rodada de assalto
-BROCHE DE ASSALTO ({2:s} ptos)
+MEDALHA DE ASSALTO ({2:s} ptos)
 Digite o código
 VÕO VERTICAL
 PATRULHA: ASSALTO
@@ -4685,7 +4685,7 @@ Dois inimigos no píer mais afastado. Alcance do alvo, sete, dois. Vento, cinco 
 CURA DE ESQUDRÃO +{0:s}
 ASSISTÊNCIA AO PASSAGEIRO DO ESQUADRÃO +{0:s}
 Vença uma rodada de Conquista
-BROCHE À CONQUISTA ({2:s} ptos)
+MEDALHA CONQUISTAR E VENCER ({2:s} ptos)
 DESBLOQUEÁVEIS
 CONTEÚDO BAIXÁVEL CORROMPIDO
 COLECIONÁVEL ENCONTRADO: M60
@@ -4743,14 +4743,14 @@ MEU CLÃ
 LIVRE
 Correr
 Vença uma partida Deathmatch em equipe
-BROCHE PARTIDA DEATHMATCH EM EQUIPE ({2:s} ptos)
+MEDALHA PARTIDA DEATHMATCH EM EQUIPE ({2:s} ptos)
 Prepare-se, cara.
 Avançar. Prontos?
 
 Testadores de localização
 Aqui é Motoqueiro Fantasma. Se você puder cruzar este quadrante, ½Acho que posso extraí-lo pelo telhado. Eu te dou cobertura.
 
-Sniper nesta torre!
+Sniper naquela torre!
 Bravo 2, estamos chegando à ponte. 5 e 25, ½ continue rastreando.
 DISPARAR CANHÃO COAXIAL
 VOCÊ NÃO DIGITOU SEU CÓDIGO VIP E NÃO PODERÁ OPTAR POR JOGAR O NÍVEL EXECUTADO NESTE SERVIDOR.
@@ -4841,14 +4841,14 @@ CONVERTER
 Operador de captura de movimento e animador facial
 Gerente de grupo de testes
 Vença uma rodada de Esquadrão: Assalto
-BROCHE ESQUADRÃO: ASSALTO ({2:s} ptos)
+MEDALHA ESQUADRÃO: ASSALTO ({2:s} ptos)
 OPERAÇÃO AURORA (DESCRIÇÃO)
 OPERAÇÃO AURORA
 Abaixados!
 Programador chefe de áudio
 SEU ESQUADRÃO
 Três e cinco foram atingidos. Repetindo, três e cinco foram atingidos, maldição...
-Ninho de metralhadora! Ei, ouça-me! Cruze o rio!
+Ninho de metralhadora! Ei, me escuta! Cruze o rio!
 Não há mais deles... Dê-me um segundo enquanto eu calibro isso... Certo... ½Há outro local...½Se chegar até lá, poderemos fixar os vetores do último conjunto de coordenadas. ½Atualizei seu mapa.
 
 
@@ -4868,7 +4868,7 @@ Vamos, este veículo alvo deve estar logo à frente.
 Veículo de combate da infantaria americana. Algumas vezes chamado de tanque leve. Armado com um canhão de cadeia de 30mm e uma tore de artileiro cal. 50. Quatro assentos com 2 passageiros nos postos de disparo.
 CONFIGURAÇÃO
 Todos fora! Atividade hostil no assentamento!
-Vamos! Vai! Vai! Vai! Protejam-se, abaixem!
+Vamos! Vai! Vai! Vai! Mexam-se! se Protejam, abaixem!
 Porra, eles nos viram.
 É, entendido.
 Em marcha, vamos, vamos!
@@ -4908,7 +4908,7 @@ Marlowe! Não vá por aí, cara... Não é seguro! ½Vai se ferir! Verifique o m
 
 Ação instantânea classificada ou não classificada
 Em um rodada, capture 4 bandeiras
-BROCHE ATACANTE DA BANDEIRA ({2:s} ptos)
+MEDALHA ATACANTE DA BANDEIRA ({2:s} ptos)
 GUERRA FRIA
 COLECIONÁVEL ENCONTRADO: M2 CG
 GUERRA FRIA (DESCRIÇÃO)
@@ -4999,7 +4999,7 @@ NIV. PAT: C/TODOS
 Global Online Studios
 TODOS OS MAPAS
 Em uma rodada, defenda 4 bandeiras
-BROCHE DEFENSOR DA BANDEIRA ({2:s} ptos)
+MEDALHA DEFENSOR DA BANDEIRA ({2:s} ptos)
 DESBLOQUEADA ESPECIALIZAÇÃO MÉDICA: PRÁTICAS DE ATIRADOR COM METRALHADORA LEVE
 será sobrescrito o último ponto de controle salvo!
 CAPTURA DA BASE +{0:s}
@@ -5067,7 +5067,7 @@ QUER MESMO ABANDONAR SEU ESQUADRÃO?
 Vamos, proteja o veículo. Vamos pegá-lo e dar o fora daqui!
 O que é isso? Um comboio no caminho do penhasco, pela direita!
 Em um rodada, faça 7 reabastecimentos
-BROCHE REABASTECIMENTO ({2:s} ptos)
+MEDALHA REABASTECIMENTO ({2:s} ptos)
 Você precisa sair do tanque e designar manualmente os alvos.
 MINHA POSIÇÃO
 Ó... O satélite.
@@ -5113,7 +5113,7 @@ Ok, Lança-mísseis eliminados, mas não podemos perder mais blindados.
 Recomendo desviar pela direita.
 Concordo com isso, 1. Vamos pela direita.
 Em uma rodada, faça 5 ajudas com minas de movimento
-BROCHE DE VIGILÂNCIA ({2:s} ptos)
+MEDALHA DE VIGILÂNCIA ({2:s} ptos)
 NO DEATHMATCH EM ESQUADRÃO, 4 ESQUADRÕES COMBATEM CABEÇA A CABEÇA PARA SER O CAMPEÃO DO CAMPO DE BATALHA.½½EM CADA NÍVEL, EXISTE UM VEÍCULO QUE PODE DAR UMA VANTAGEM IMPORTANTE PARA O ESQUADRÃO QUE CONSEGUI-LO.
 
 Que merda!
@@ -5168,7 +5168,7 @@ Merda, Lança Mísseis!
 VOCÊ NÃO ESTÁ LOGADO COM UMA PERFIL DE JOGADOR ATIVO E NÃO SERÁ CAPAZ DE SALVAR OU CARREGAR ARQUIVOS EM SEU CONSOLE XBOX 360.
 Selecione o idioma desejado para as vozes
 Em uma rodada, reanime 5 companeiros
-BROCHE DE OPERAÇÕES MÉDICAS ({2:s} ptos)
+MEDALHA DE OPERAÇÕES MÉDICAS ({2:s} ptos)
 BAIXAR VOL
 SANGRE DEL TORO DESCRIÇÃO
 SANGRE DEL TORO
@@ -5393,7 +5393,7 @@ Bravo 2, aqui é Motoqueiro Fantasma. Não quero alarmá-los, vocês sabem... ½
 {0:s}<FUZIL DE ASSALTO F2000>
 {0:s}<G69>
 Chefe de programação
-5 Broches de Nêmesis, 5 Broches de Vingança
+5 Medalhas de Nêmesis, 5 Medalhas de Vingança
 FATOR DE GUINADA
 REPRESÁLIA EM COMBATE DISTINTO ({2:s} ptos)
 Meu Deus, há Franco atiradores por todo o mapa aqui, não parem!
@@ -5556,7 +5556,7 @@ Maldição. Tem um montão de árvores mortas.
 Alvos de oportunidade, dispare!
 Em um rodada, mate 8 inimigos com o M16 da AE
 ASSISTÊNCIA EM MORTE +{0:s}
-BROCHE À EXCELÊNCIA EM ASSALTO AE ({2:s} ptos)
+MEDALHA À EXCELÊNCIA EM ASSALTO AE ({2:s} ptos)
 Certo, agora! Continue abaixados! Marlowe, designe o alvo!
 PEGAR O BINÓCULO
 Fiquem dispersos e usem cobertura!
@@ -5613,7 +5613,7 @@ JOGO PRODUZIDO PELO ESTÚDIO DICE
 Voltar ao Menu Principal
 Em uma rodada, mate 8 inimigos com o UMP SPECACT
 DIRIGIR EM MARCHA RÉ
-BROCHE DE EXCELÊNCIA ENGENHEIRO SPECTACT ({2:s} ptos)
+MEDALHA DE EXCELÊNCIA ENGENHEIRO SPECTACT ({2:s} ptos)
 Estamos muito perto.
 Preston, degole o guarda e pegue sua arma... ½Vamos!
 Técnico de CQ
@@ -5624,11 +5624,11 @@ SEC
 TRIANGULAR
 PROBLEMAS COM A CONEXÃO
 A VITÓRIA ESTÁ PRÓXIMA, PRECISAMOS DE UM ÚLTIMO EMPURRÃO
-Ali, aquela porta. Parece o típico lugar ½onde alguém esconderia uma arma.
+Ali, naquela porta. Parece o típico lugar ½onde alguém esconderia uma arma.
 O que Flynn está fazendo na frequência de emergência?
 Bem, se tem dores de cabeça...
 Que espere até que tenhamos Flynn!
-IF YOU ARE 13 AND OVER, YOU WILL NEED AN EA ACCOUNT TO PLAY ONLINE. BY PRESSING SUBMIT, YOU ACKNOWLEDGE THAT YOUR PlayStation®Network INFO WILL BE SENT OVER TO ELECTRONIC ARTS IN THE U.S. TO SET UP YOUR EA ACCOUNT.
+SE VOCÊ TEM MAIS DE 13 ANOS, PRECISA DE UMA CONTA EA PARA JOGAR ONLINE. AO PRESSIONAR ENVIAR, VOCÊ RECONHECE QUE SUAS INFORMAÇÕES DA PlayStation®Network SERÃO ENVIADAS À ELECTRONIC ARTS NOS EUA PARA CONFIGURAR SUA CONTA EA.
 SAIR DO JOGO
 VS
 ali.. ali em cima, uma patrulha.
@@ -5661,9 +5661,9 @@ ARMAS TÁTICAS COMB. LONGO SERVIÇO ({2:s} ptos)
 Metralhadora leve automática. 100 balas. 750rpm. Média precisão. Alcance médio. Potência média. Mobilidade média. Retrocesso médio.
 XM8LMG
 Em uma rodada, mate 8 inimigos com o MG3 das AE
-BROCHE DE EXCELÊNCIA MÉDICO SPECACT ({2:s} ptos)
+MEDALHA DE EXCELÊNCIA MÉDICO SPECACT ({2:s} ptos)
 ZOOM
-Vou disparar na luz. Mate o cara.
+Vou disparar na luz. Você mata o cara.
 TEMPO
 CERTIFICAÇÃO EA
 Instalações
@@ -5700,7 +5700,7 @@ PARABÉNS! VOCÊ LIBEROU ESTA MELHORIA EXCLUSIVA PARA O EQUIPAMENTO DE ASSALTO Q
 Ponto portátil de abastecimento de munição. Posicione para repor a munição de soldados próximos.  Contém número limitado de reabastecimentos.
 Em uma rodada, mate 8 inimigos com a M95 SPECACT
 Arte do mundo persistente e UI
-BROCHE DE EXCELÊNCIA RECON. SPECTAT ({2:s} ptos)
+MEDALHA DE EXCELÊNCIA RECON. SPECTAT ({2:s} ptos)
 SOCIALIZAR
 NÃO TEM AMIGOS ONLINE!
 O grupo vermelho deveria se apropriar de um dos submarinos desse bunker. ½Talvez ainda estejam lá. Senão os cientistas estão certos, e nós mortos.
@@ -5748,7 +5748,7 @@ Fuzil francoatirador semiautomático. 10 balas. Média precisão. Longo alcance.
 SVU
 Morreram.
 Consiga 5 mortes seguidas com a M16 SPECACT
-BROCH DE EFICIÊNCIA COM A M16 SEPCACT ({2:s} ptos)
+MEDALHA DE EFICIÊNCIA COM A M16 SEPCACT ({2:s} ptos)
 JOGANDO BC2
 DEMOLIÇÃO
 Homens pela esquerda da estrada, vindo das árvores...
@@ -5823,7 +5823,7 @@ Paciência. Chegaremos logo. Já conhece a história da tartaruga e da lebre? A 
 
 
 Consiga 5 mortes seguidas com o UMP SPECACT
-BROCHE DE EFICÁFIA  COM UMP SPECACT ({2:s} ptos)
+MEDALHA DE EFICÁFIA COM UMP SPECACT ({2:s} ptos)
 EM ESPERA
 Sargento? Sargento! Aqui é Docinho, estou com Marlowe, estamos ok!
 Sargento? Filho da puta! Por que quando a merda fede a patrulha sempre se divide? 
@@ -5895,7 +5895,7 @@ LISTA DE PATRULHAS
 ARMA
 Piano
 Consiga 5 mortes seguidas com a MG3 SPECACT
-BROCHE DE EFICÁCIA COM A MG3 SPECACT ({2:s} ptos)
+MEDALHA DE EFICÁCIA COM A MG3 SPECACT ({2:s} ptos)
 SoCOM
 Canhão reforçado que proporciona maior precisão em qualquer distância. ½
 Título
@@ -5956,7 +5956,7 @@ Cristoofer Stegmayr
 USAR BINÓCULOS
 Consiga 5 mortes seguidas com a M95 SPECACT
 O servidor está ceio, tente de novo ou escolha outro servidor.
-BROCHE DE EFICÁCIA COM A M95 SPECACT ({2:s} ptos)
+MEDALHA DE EFICÁCIA COM A M95 SPECACT ({2:s} ptos)
 Oh, caralho! Filho da puta!
 Os dados desta conta foram combinados com os de uma segunda conta.
 VIBRAÇÃO
