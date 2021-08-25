@@ -646,7 +646,7 @@ A: BASE MITILAR
 B: RUÍNAS DO TEMPLO
 C: MERCADO
 D: VILAREJO
-Desative os cabos das emboscadas inimigas a baixando-se perto deles e pressionando o botão „ do contrário espere por companhias.
+Desative os cabos das emboscadas inimigas a baixando-se perto deles e pressionando o botão Círculo „ do contrário espere por companhias.
 Cuidado a cima
 TROCAR ARMA PRIMÁRIA
 Cara, há um monte de Tangos atravessando o rio!
@@ -5536,7 +5536,7 @@ Certo, os caras... Se eles... Se eles estão bem, provavelmente estão aqui em c
 
 
 BASE CAPTURADA, EM MARCHA
-BASE PERIDAD, RECUAR
+BASE PERDIDA, RECUAR
 Projetistas de som
 Eu te cubro às seis! Você cuida dos helicópteros, certo?
 100 mortes com C4
@@ -5590,7 +5590,7 @@ Marlowe! Volte! Os morteiros inimigos cobrem essa ½área! Volte!
 
 Marlowe! Olhe seu mapa! Nessa área há morteiros ½inimigos! Volte!
 
-Dê a volta! Vão acabar com você! Olhe seu mapa, ½Preston!
+Dê a volta! Vão acabar com você!½Veja seu mapa, Preston!
 Sim, é um maldito Zeus, Marlowe! Vou atraí-lo com disparos! ½Use o marcador para mandar um ataque em cima dele! No três! Um! Dois! Três!
 
 
@@ -6235,8 +6235,8 @@ INFO: COMBATE
 PONT. ENGENHEIRO
 NOME
 NÃO
-AH minha cabeça... conseguimos destruir?
-Vamos Preston, de pé homem. Vamos cara, me dá uma mão!
+Ai minha cabeça... Ugh, conseguimos destruir?
+Vamos Preston, de pé homem. Ugh, Vamos cara, me dá uma mão!
 Pensamos que tínhamos perdido você cara. Vamos lá.
 
 
@@ -6255,7 +6255,7 @@ Quer dizer que a arma escalar estará carregada de esteroides. Seremos vaporizad
 
 
 
-Qualquer arma que acharmos a partir de agora, vamos guardar aqui.½Vamos pegar tudo o que encontrarmos que parecer com essa, entenderam?
+Qualquer arma que acharmos a partir de agora, vamos guardar aqui.½Vamos pegar tudo o que encontrarmos em caixas que parecer com essa, entenderam?
 NOVA CAMPANHA
 Coordenador de GQ
 Essa ferramenta foi desenvolvida pelas forças armadas como uma medida de segurança para os engeneiros poderem efetuar reparos de forma rápida e eficaz nos veículos que foram danificados. 
