@@ -598,7 +598,7 @@ DEFENDA AS ESTAÇÕES M-COM
 INSERIR NUM
 MODO HARDCORE
 Markus Wolmerud
-BASTÃO DO SOLDADO
+JOYSTICK DO SOLDADO
 Ok. Fiquem quietos rapazes. Somos todos ouvidos.
 ABAIXE-SE! RÁPIDO! ...Um blindado Japo. Não se mexam.½Nem pensem em respirar.
 EU POSSO REPARAR
@@ -2787,7 +2787,7 @@ PLACAR*/COMUNICA.*
 VIETNAM
 ADICIONAR AOS FAVORITOS
 Vem Aqui!
-Marlowe, acabe com estes bastardos!
+Marlowe, acabe com estes desgraçados!
 COLECIONÁVEIS
 SAIR DO JOGO
 INFORMÇÃO: VEÍCULOS
@@ -4525,7 +4525,7 @@ SIM
 Gerentes de marketing
 Emboscada!
 Saia do veículo! Saia da droga do veículo!
-JOYSTICK AERON.
+JOYSTICK AERONAVE
 USAR ZOOM DE ARMA
 Ataque!
 HISTÓRIA E CINEMÁTICA
@@ -5577,7 +5577,7 @@ Apresse o passo!
 Haggard, tire esse pedaço de perda da estrada!
 Este canhão Gatling de fogo rápido dispara projéteis explosivos de 20 mm de curto alcance. Algumas vezes usado como uma arma de apoio terrestre antiaérea.  Outras vezes usado como para atacar veículos blindados.  Ainda que fora de serviço, ainda opera em exércitos estrangeiros.½
 Gravação cortesia de
-Nós te tiraremos daqui, maldito hippie. Incenso e hortelã, seus bastardos!
+Nós te tiraremos daqui, maldito hippie. Incenso e hortelã, filho da puta!
 
 CAPTURA DE TELA REALIZADA
 SUPERAQUECIDO
