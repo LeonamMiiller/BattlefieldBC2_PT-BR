@@ -207,7 +207,7 @@ Merda! Estamos no meio do fogo cruzado! Maldita hora que nós movemos... vamos..
 SEM NOME
 Ei. Há uma rota alternativa do outro lado.
 {0:s}<SUICÍDIO>
-LAND STICKS
+STICKS VEÍC. TERR.
 LEGACY SOUTHPAW
 PARABÉNS! VOCÊ DESBLOQUEOU UMA ATUALIZAÇÃO PARA O KIT MÉDICO EXCLUSIVA, CONTÉM UMA NOVA CAMUFLAGEM, PRÊMIOS, UM TRÓFEU E UMA VERSÃO ESPECIAL DA ARMA MG3.
 500 tiros na cabeça
@@ -613,7 +613,7 @@ David Goldfarb
 cheque os prêmios que você ganhou jogando online
 Arte e Qualidade da Interface de Usuário
 O fuzil de assalto AEK971 é o padrão do exército russo e foi desenhado para atiradores que se focam na precisão durante de armas automáticas. 
-PADRÕES
+PADRÃO
 FREIO
 PONTE
 COLINA
@@ -948,7 +948,7 @@ Em uma carga, destrua 4 veículos inimigos
 SELECIONE A DIFICULDADE
 MEDALHA EFICIÊNCIA ANTI VEÍCULOS ({2:s} pts)
 Marlowe, mate aqueles esquadrões!
-BOTÕES TERRESTRES
+BOTÕES VEÍC. TERRES.
 DANO
 Bora! Atravesse o lago! VÁ! Passe!
 Esconda-se atrás daquelas rochas!
@@ -1177,7 +1177,7 @@ MEDALHAS POR RESGATE ({2:s} pts)
 NÍVEL DE DETALHES
 Line Manager Production
 COLETE
-Se refere à um... trauma plates, coletes de cerâmica passam por testes de balísticas e design proteção adicional contra fogo inimigo, prevenindo danos de alcance que são fatais. 
+Se refere à... placas de pancada, coletes de cerâmica passam por testes de balísticas e design proteção adicional contra fogo inimigo, prevenindo danos de alcance que são fatais. 
 Você nunca sairá daqui vivo!
  
 BEM-VINDO À LOJA DO BATTLEFIELD: BAD COMPANYƒ. AQUI VOCÊ PODE EXPLORAR NOVOS CONTÉUDOS PARA DOWNLOAD, PEGAR NOVOS MAPAS, SE ATUALIZAR, BAIXAR TEMAS.½½ALÉM DE FICAR POR DENTRO DE ÍTENS NOVOS E ANTIGOS.
@@ -1567,7 +1567,7 @@ Líder de Armas & Artista de Veículos
 HOME CINEMA
 Puta merda...
 MÚSICA
-BOTÕES AÉREOS
+BOTÕES AERONAVES
 O que é aquilo?
 Oh. O vapor é ruim.
 
@@ -1581,7 +1581,7 @@ Erik Westerlund
 Pro chão!
 Escritor
 TV
-STICKS DE SOLDADOS
+JOYSTICKS DO SOLDADO
 FECHAR COMPARATIVO
 Assalto: É um teste de habilidades e jogo em equipe. Duas equipes de quatro homem lutam por duas estações M-COM e assim como em outros modos de jogo o time que destruir uma das M-COM antes de ficar sem homens.
 TEMPO TOTAL
@@ -2188,7 +2188,7 @@ Radio Native
 Radio desativado
 RIGHT ESQ.
 Vamos! Vamos! Vamos! 
-STICK ESQ
+JOYSTICK ESQ
 COMO PILOTO
 Ok, entrem na casa.
 SOBRESCREVER
@@ -2482,7 +2482,7 @@ MORTES DUPLAS
 2D Artist
 Designer do mundo persistente
 DANOS AO OBJETIVO +{0:s}
-Continue buscando alvos!
+Continue buscando por alvos!
 Musicas Adicionais Providas Por
 RODA DO MOUSE
 Daniel Collin
@@ -2562,7 +2562,7 @@ PRÓXIMO MAPA
 Ok...
 O jogo foi atualizado. Para que a atualização tenha efeito, será necessário reiniciar o jogo. Quer reiniciar o jogo agora?
 Ouviu alguma coisa?
-Continue buscando.
+Continue rastreando.
 Chefe de áudio
 ESQUADRÕES
 MINHAS ESTATÍSTICAS
@@ -2691,7 +2691,7 @@ Puta que pariu, quase acabaram com a gente!
 Suba de uma vez e vamos sair daqui!
 Niklas Fegraeus
 Bem, quanto mais incomunicáveis estiverem, melhor para ½a gente.
-Ajuste a configuração dos sticks para aeronaves
+Ajuste a configuração dos joysticks para aeronaves
 Persuadir
 TROFÉUS
 Marlowe, ele é seu. Sem fazer barulho.
@@ -2793,7 +2793,7 @@ SAIR DO JOGO
 INFORMÇÃO: VEÍCULOS
 Defina a configuração dos botões enquanto caminha
 Calibre 50! Uma granada!
-STICKS AERO.
+JOYSTICKS AERONAVES
 Sistema automático de fogo indireto, necessita de linha de visão direta e dispara morteiros de 120 mm. ½
 Limpo... Acho que está seguro... Acho que estamos a salvos.
 
@@ -4236,7 +4236,7 @@ NOVA ARMA
 Japas nos prédios!
 SEU NÍVEL DE HABILIDADE DIMINUIU
 Escopeta semiautomática. 6 balas. Potência elevada. Alcance muito curto. Mobilidade alta.
-BOTOÕES V. TERR.
+BOTÕES VEÍC. TERR.
 Incluída na versão Gold ou como prêmio quando chegar ao nível mais alto (25).
 Marlowe. Se estiver preso, precisa de algo para chegar a este barco naufragado. Muitos destes estão carregados com½óleo e gasolina... Talvez você encontre algo para explodir e liberar seu caminho.
 
@@ -4456,7 +4456,7 @@ Use granadas de mão ou C4 para eliminar inimigos concentrados em um pequeno esp
 Espere que a artilharia termine o bombardeio antes de continuar.
 Alguns inimigos virão procurá-lo caso você se esconda, ou destruirão a cobertura que você usar.
 M10
-VISTA VERTICAL
+VISÃO VERTICAL
 Programador líder de IA
 Eu vi indivíduos no alto da colina... Às três horas. A cem metros, Lança Mísseis.
 É isso, em marcha.
@@ -4487,7 +4487,7 @@ Um engeneiro das Ações Especiais é tanto uma ameaça quanto um salvador para 
 Helicóptero inimigo, abaixem e se cubram!
 TEMPO JOGADO
 EQUIPE DE OPERAÇÕES
-BOTÕES AERON.
+BOTÕES AERONAVES
 DESBLOQUEADA ESCOPETA DE SOLDADO: ESCOPETA DE ASSALTO 870
 Battlefield Franchise Art Director
 Bravo 2, aqui é Motoqueiro Fantasma, há uma caixa lá fora½esperando por você.
@@ -4808,7 +4808,7 @@ Urra Bravo 2, bom trabalho... Há apenas um assentamento à frente, Kirilenko n�
 SIM
 Acabe com ele, não há como fugir!
 INFORMAÇÃO: JOGO EM EQUIPE
-Define a configuração dos sticks para veículos terrestres
+Define a configuração dos joysticks para veículos terrestres
 Use esta opção para encontrar um servidor em qualquer mapa disponível.
 Ah, como você gosta, sargento.
 EQUIPE 1
@@ -4918,7 +4918,7 @@ GUERRA FRIA
 Metralhadora automática leve. 200 balas. 800rpm. Precisão média. Alcance longo. Poder médio. Mobilidade baixa. Recuo médio.
 Delicado explosivo desenvolvido para produzir mais energia e dano.
 Pronto!
-STICKS V. TERR.
+JOYSTICKS VEIC. TERR.
 REFRIGERANDO...
 SUICÍDIO {0:s}
 Descer avião não tripulado
@@ -5005,7 +5005,7 @@ será sobrescrito o último ponto de controle salvo!
 CAPTURA DA BASE +{0:s}
 EXPULSO
 partida instantânea não classificada
-Defina a configuração do stick enquanto caminha
+Defina a configuração do joystick enquanto caminha
 Comprar esta arma na PLAYSTATION®Store.
 Line Manager Animation
 Senior Test Leads
@@ -5731,7 +5731,7 @@ Poderíamos nos dividir. Atacá-los de duas direções. Ficariam confusos, talve
 Com certeza é a ideia mais estúpida de todas.
 
 
-SEG.
+SEGUNDOS
 LIBEROU ESPECIALIZAÇÃO MÉDICA: MIRA REFLEX PARA METRALHADORA LEVE
 LIBEROU ESPECIALIZAÇÃO MÉDICA: MIRA TELESCÓPICA 4X PARA METRALHADORA LEVE
 JOGAR AGORA
@@ -5961,7 +5961,7 @@ Oh, caralho! Filho da puta!
 Os dados desta conta foram combinados com os de uma segunda conta.
 VIBRAÇÃO
 PRESSIONE PARA SELECIONAR ATAQUE COM MORTEIRO
-STICKS TERRESTRES
+JOYSTICKS VEÍC. TERR.
 DANOS DA EQUIPE {0:s}
 Explosivos plásticos que se aderem nas superfícies mais difíceis. Detonado remotamente.
 DTN-4
