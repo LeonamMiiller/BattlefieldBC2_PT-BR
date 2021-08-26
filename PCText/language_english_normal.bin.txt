@@ -274,7 +274,7 @@ MELHOR DISPOSITIVO
 Eles estão vindo por todos os lados!
 <{0:s}FUZIL FRANCOATIRADOR>
 A Garota Dragão
-Um de vocês dê um passo a frente e usa um Lança Míssil naquele maldito bote!
+Um de vocês dê um passo a frente e use um Lança Míssil naquele maldito bote!
 VOCÊ DESBLOQUEOU UM RECOMPENSA ESPECIAL
 Aonde todo mundo se meteu? Quer dizer, todo mundo apenas... sobe e desce?
 
@@ -577,12 +577,12 @@ ASSALTO
 EXPLODIR GRANADA DE FUMAÇA
 MODO DE JOGO
 Estou nessa. Marlowe, mantenha eles fora do meu alcance!
-ENTRE COM NOME DE NOVO SOLDADO
+ENTRE COM NOME DO NOVO SOLDADO
 Consiga algo! Sim! Que o combate aéreo nós ajude ao invés de ferrar com a gente de uma vez. Hoje deve ser meu dia de sorte.
 Beleza, espero que consigamos algumas respostas nesse barco, do contrário½todo mundo vai ir sem nada para cara. E se for assim prefiro voltar morto.
 
 Radio DJ
-CONTINUE
+CONTINUAR
 Hum, eles estão usando esses capturadores para localizar o Sangre de Toro.
 Bem, acho que teremos que correr atrás disso. Motoqueiro Fantasma, aqui é Bravo 2-Two,½você pode checar essa frequência, Zero Um Um Alpha?
 
@@ -958,8 +958,8 @@ Eu ouvi mais alguma coisa... Acho que eles estão deslocando a arma.
 Longe ao norte... Parecia que a coisa estava feia perto do território americano.
 
 
-Dont esqueça o Suprimento de Armas. Ele podem fazer a diferença como a ferramenta para o trabalho e morrer.
-Franco atiradores nas árvores podem ser letais. Dont não se alongue no campo aberto.
+Não se esqueça das caixas de suprimentos de armas. Eles podem fazer a diferença entre a ferramenta certa para o trabalho e a morte.
+Franco atiradores nas árvores podem ser letais. não fique exposto em campo aberto.
 Assaltos de frente em bases grandes podem ser muito difíceis. Faça uma abordagem tática para diminuir os inimigos.
 Pontes são destrutíveis - destrua-as para confundir o inimigo. Sempre há uma rota alternativa nos locais.
 Use os objetos que os inimigos deixam pelo ambiente: armas/lançadores montados, até mesmo helicópteros em reparo podem ser usado na batalha.
@@ -1011,14 +1011,14 @@ MANTER
 EXCELÊNCIA DISTINTA EM COMBATE ({2:s} pts)
 PARTIDA RÁPIDA RANQUEADA
 GUIAR MÍSSEL PARA ALVO
-Em uma carga, mate cerca de 6
+Em uma rodada, mate 6 em sequência
 Continue apertando o gatilho!
 MEDALHA POR EFICIÊNCIA EM COMBATE ({2:s} pts)
 Ei Marlowe! Tu tá ficando doidão!
 Abaixe-se! Agora! Um blindado... Não se mexam!
 
 
-Tropa de caminhões se aproximando, que merda!
+Tropa de caminhões se aproximando, ah merda!
 FEITO POR
 Virar à Esquerda
 Proteja-se!
@@ -1462,7 +1462,7 @@ Lança granada chinesa de 35mm. Baseada em designers russos, comumente encontrad
 Conectado, selado e entregue! Eu sempre soube que você conseguiria.
 :
 ,
-Mines irá te matar se você chegar muito perto.
+Minas vão te matar se você chegar muito perto.
 Os Grandes Lança Mísseis pode derrubar helicópteros e outros pesados. Apenas fique ligado no seu objetivo até que o míssil chegue a ele.
 Use a destruição como uma vantagem - torres de rádio e outros objetos podem gerar efeitos devastadores.
 Use o Suplementos de Armas para mudar seu arsenal para um situação apropriada de combate.
@@ -2070,7 +2070,7 @@ Em uma rodada, mate 5 inimigos com armas de artilharia fixa
 MEDALHA DE EFICIÊNCIA EM POSICIONAMENTO ({2:s} ptos)
 DESBLOQUEADO ARMA DO SOLDADO: G3
 DESBLOQUEADO PISTOLA DO SOLDADO: PISTOLA M9
-EA APRESENTA
+BRAZILIAN-WARRIORS APRESENTA
 Acessório para escopetas de 40mm perfeito para o combate corpo a corpo. ½
 Estão tentando deter o helicóptero, acabem com eles!
 Há vários Zeus lá em cima! Merda!
@@ -2180,7 +2180,7 @@ Andreas Chrysovitsanos
 DESAFIO
 PADRÃO
 LANÇAR GRANADA
-Adotada pelo exército vermelho, essa carabina totalmente automática e de fácil manejo foi desenhada principalmente para ser usada em forças especiais como a infantaria aérea. Essa versão modificada também inclui uma mira reflex.
+Adotada pelo exército vermelho, essa carabina totalmente automática e de fácil manejo, foi desenhada principalmente para ser usada em forças especiais como a infantaria aérea. Essa versão modificada também inclui uma mira reflexiva.
 Radio Surf
 Radio Blue Steel
 Radio Spirit
@@ -2192,10 +2192,10 @@ STICK ESQ
 COMO PILOTO
 Ok, entrem na casa.
 SOBRESCREVER
-Marlowe, escute, lancei bengalas para iluminar ½o caminho. Espero que ajude!
+Marlowe, escute, lancei alguns sinalizadores para iluminar seu caminho.½Espero que ajude!
 
 Rob Knowles
-Deus, Aguire morreu. Nada sobrevive àquilo.
+Deus, Aguire morreu. Ninguém sobrevive àquilo.
 NOVO MELHOR TEMPO PESSOAL!
 Acho que me enganei ao achar que não sabiam que estávamos aqui...
 Descer
@@ -3991,9 +3991,9 @@ LOCALIZE ESTAÇÃO BASE CHARLIE
 PROCURE PELO SANGRE DEL TORO
 INVESTIGUE O INTERIOR DO BARCO
 ENCONTRE UM CAMINHO PARA O SANGRE DEL TORO
-MOVA PARA O PONTO DE TRIANGULAÇÃO
+VÁ PARA O PONTO DE TRIANGULAÇÃO
 ENCONTRE UMA CLAREIRA PARA ATERRISSAR
-ENCONTRE OS MEMBROS DO ESQUADRÃO AUSENTES
+ENCONTRE OS MEMBROS PERDIDOS DO ESQUADRÃO
 ENFRENTE O CONTRA-ATAQUE INIMIGO
 ENCONTRE O CENTRO DE DETENÇÃO
 ENCONTRE UM TRANSPORTE
@@ -6591,11 +6591,11 @@ Quem, eu? Nem a pau, mano. Sou um pacifista.
 QUÊ? PACIFISTA! COMO VOCÊ PODE SER UM MERDA DE UM PACIFISTA?
 Isso é ruim para a minha energia, cara. Eu não brinco com a minha energia, eu só voo.
 Hags, deixa quieto!
-Vai se foder! Comigo esse sujeito não voa.
+Vai se foder! Comigo esse sujeito não voa, bichinha.
 Vou te pegar e levar para o lindo e brilhante reino da magia!
 Eu te amo cara.
 Seu retardado, bichinha, liberal de merda!
-Feito. Devemos ser capazes de ver em um minuto.
+Feito. Devemos ser capazes de vê-lo a qualquer minuto.
 Com sorte, essa coisa é facilmente quebrável e muito fácil de ser hackeada.
 Sim, Deus abençoe os franceses.
 Beleza...
@@ -6631,7 +6631,7 @@ Você não pode estar falando sério.
 Nunca ouviu falar da Operação Aurora?
 Sim, mas olhe, mesmo se você puder produzir um campo escalar--
 Primeiro, haveria um evento Carrington, localizado na troposfera--
-Pare, pare. Fale meu idioma.
+Para, para, para. Fale no meu idioma.
 Uma arma escalar cria pulsos eletromagnéticos muito poderosos.
 E?
 E que são disparados em um ponto adequado, pode derrubar toda rede eletrica americana.
@@ -6647,7 +6647,7 @@ Kirilenko é o projeto! E se não dermos o primeiro passo, ele o fará...
 Não! Não, não, não! Ele enviará alguns cretinos das operações especiais,
 com monitores de batimento cardíaco em suas armas!
 Sargento?
-Amigo, eu tenho 44 anos. Tenho três crianças bastardas para cuidar, a carreira pode esperar.
+Cara, estou com 44 anos. Tenho três crianças birrentas para cuidar, a carreira pode esperar.
 Esta era para ser minha última missão! Não posso fazer isso de novo, não posso.
 E quanto a salvar os Estados Unidos?
 E depois?
@@ -6773,7 +6773,7 @@ Este...
 Hmm, sabia que devia ter feito aquele curso educativo para adultos...
 Talvez eu aprenderia até mesmo a usar o Powerpoint. 
 Ah, ali!
-Muito bem, agora vamos.
+Muito bem, agora continuem, eu cuido daqui.
 Certo, está feito.
 O quê? Maldição! Preston, tenho de ficar aqui e impedir a oscilação do sinal,½você precisa realocar agora para um novo quadrante enquanto eu ajusto algumas... coisas.
 E talvez eu faça algum progresso com Aguire enquanto estiver aqui.
@@ -6783,7 +6783,7 @@ E aqui estou...
 Em um barco que supostamente estava perdido,
 procurando por algo que deveria estar enterrado.
 Tenho meus motivos...
-Todos temos...
+Todos nós conseguimos...
 Voltar para casa.
 Então eu encontrei...
 E tudo mudou.
@@ -6809,7 +6809,7 @@ Certo, passe este código... Sierra Foxtrot um zero seve nove.
 Este é um prefixo militar americano, mas não indica nada que faça referência à nossa evacuação.
 O que mais?
 Difícil dizer...
-Vamos ver este outro.
+Vi apenas esse.
 Apenas tire-o de lá o mais rápido possível, esta área é muito perigosa.
 Estamos retirando todos os nossos agentes.
 Entendido.
