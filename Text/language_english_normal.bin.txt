@@ -2690,7 +2690,7 @@ Que porra é essa? Ele tem que estar lá em cima, merda!
 Puta que pariu, quase acabaram com a gente!
 Suba de uma vez e vamos sair daqui!
 Niklas Fegraeus
-Bem, quanto mais incomunicáveis estiverem, melhor para ½a gente.
+Bem, quanto mais incomunicáveis estiverem,½melhor para a gente.
 Ajuste a configuração dos joysticks para aeronaves
 Persuadir
 TROFÉUS
@@ -4199,7 +4199,7 @@ Bravo 2, há um inferno aqui fora, este espaço aéreo é quente demais para mim
 
 
 Veículo inimigo!
-O inferno está muito intenso. O rio congelou permitindo que blindados e a artilharia cruze o setor. Entretanto, o clima rigoroso e a floresta ao redor tornam improvável qualquer ataque com blindados. O reconhecimento por satélite indica que as forças especiais russas e unidades aerotransportadas saíram da América do Sul e estão se reunindo em massa. Um ataque noturno é iminente.  A Baía de Nelson abriga uma base submarina americana que será defendida a todo custo.
+O inverno está muito intenso. O rio congelou, permitindo que blindados e a artilharia cruze o setor. Entretanto, o clima rigoroso e a floresta ao redor tornam improvável qualquer ataque com blindados. O reconhecimento por satélite indica que as forças especiais russas e unidades aerotransportadas saíram da América do Sul e estão se reunindo em massa. Um ataque noturno é iminente.  A Baía de Nelson abriga uma base submarina americana que será defendida a todo custo.
 BAÍA DE NELSON
 CARACTERÍSTICAS DA ARMA
 Por aqui, parece um túnel de drenagem.
