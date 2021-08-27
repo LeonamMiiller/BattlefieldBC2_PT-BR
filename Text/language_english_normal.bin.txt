@@ -2543,7 +2543,7 @@ BASE 2 DESTRUÍDA!
 EQUIPAMENTOS
 AGORA
 Lá vem eles...
-A caixa, destrua ela Pres.
+O pacote, destrua ele Pres.
 Mattias Kylén
 Depois pegaremos o submarino.
 Não. Improvisaremos.
@@ -6834,7 +6834,7 @@ Unidades em movimento...
 Um minuto, talvez menos...
 Acho que é só você e eu.
 Vamos ao trabalho!
-Vocês tem o bote?
+Vocês tem o pacote?
 É, temos. Mas nosso piloto foi capturado, não podemos partir sem ele.
 Bravo 2, vocês estão cansados e atordoados.
 Precisamos do composto, enviaremos uma equipe de extração para o piloto.
