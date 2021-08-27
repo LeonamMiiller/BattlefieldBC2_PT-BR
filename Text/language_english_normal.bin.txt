@@ -1926,7 +1926,7 @@ OLHAR
 PAUSA/MENU
 MOVER-SE
 OLHAR À ESQ/DIR
-Merda! Outra vez esse maldito ruído!
+Merda! Outra vez esse maldito barulho!
 Calado! Vamos!
 
 ZOOM
@@ -6859,7 +6859,7 @@ Havia uma base logo abaixo. Helicópteros, está ceio deles... então...
 Certo, bem, vamos detonar!
 Aqui está a sua merda! Agora nos diga o que vai acontecer.
 Diga-me vocês.
-Isso era um...?
+Isso era um golpe...?
 Meu amigo é um homem muito dedicado.
 Entenda, há anos que ele era meu rival na busca de armas.. Não mais.
 Por quê?
@@ -6870,26 +6870,26 @@ Sim!
 O que importa?
 É que eu estive investigando sobre você... Nada demais.
 Só sei que você fica nervoso quando ouve o nome "Thomas Wyatt".
-Agora, espere, ele tem um filho, James, mais ou menos da sua idade. Interrompa-me se ouvir algo...
+Agora, espere, ele tem um filho, James, mais ou menos da sua idade. Interrompa-me se eu estiver errado...
 Seu pai era um comandante, Thomas Wyatt. Quando descobriu que seu governo o matou, você enlouqueceu!
 O governo, ele mentiu, não foi?
-Eu já tinha esquecido tudo...
+Eu já tinha perdoado tudo...
 Até ouvir que eles sabiam desta arma... E é por isso!
 Por isso este país precisa ser erradicado do mapa!
 Você é louco! Não pode destruir uma nação por vingança.
 Eu não posso, não...
 Mas ele pode.
 Estou de acordo!
-Aqui é Motoqueiro Fantasma, acho que as negociações não rolaram bem, né?
-De todo jeito, minha energia e eu, estamos em sintonia, então já era. O mundo precisa ser salvo.
+Aqui é Motoqueiro Fantasma, acho que as negociações não deram certo, né?
+De todo jeito, minha energia e eu, estamos em sintonia, então vão em frente. O mundo precisa ser salvo.
 E, Haggard... Obrigado pelos cigarros, irmão!
 Não!
 Vamos! dar o fora daqui! Vamos!
-Então... o que agora, sargento?
-Nós entregamos nas mãos dele a última peça da arma; não sei o que fazer.
+Então... e agora, sargento?
+Nós entregamos nas mãos dele a porra da última peça da arma, Eu não sei.
 Temos uma mudança de planos. O coronel russo está indo para o porto, Não conseguimos encontrar os americanos... Fique alerta.
 Marlowe, acabe com ele.
-Eu o peguei, sargento.
+Eu cuido dele, sargento.
 Pare.. maldição!
 Não era o avião que vimos antes?
 Por que estão entrando...?
