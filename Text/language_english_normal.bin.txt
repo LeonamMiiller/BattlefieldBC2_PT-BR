@@ -6130,7 +6130,7 @@ Nós temos que fazer alguma coisa com essa porra de lança granadas!
 Merda, já era!
 ESPECIALIZAÇÃO DE ENGENHEIRO LIBERADA: SMG RED DOT SIGHT
 ESPECIALIZAÇÃO DE ENGENHEIRO LIBERADA: SMG 4X fuzil SCOPE
-Putz, ele não param de chegar! Ainda mais!
+Putz, eles não desistem! Mais inimigos!
 Inimigos abatidos.
 SIM
 Tudo certo, todos comigo. Comecem a subir.
@@ -6148,7 +6148,7 @@ SISTEMA OFFLINE
 PARTIDA RÁPIDA
 CLASSIFICAÇÃO
 Beleza, você cuida da frente, Wyatt.
-Talvez não o melhor caminho!
+Talvez não seja o melhor caminho!
 Bravo 2, aqui é o Motoqueiro Fantasma. Muitos inimigos no local, fiquem preparados.
 
 VOCÊ NÃO É MEMBRO DE NENHUM CLÃ
