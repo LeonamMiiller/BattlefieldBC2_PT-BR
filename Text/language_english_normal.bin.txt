@@ -1603,7 +1603,7 @@ Você conseguiu? Acho que... Sim, pode crer. Bom trabalho soldado.
 Contato, veículo pela direita!
 Onde estamos indo?
 ASSALTO
-METRALHAR
+DESCER
 SIM
 VOCÊ SUBIU DE POSTO.
 0
