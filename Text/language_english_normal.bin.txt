@@ -5026,7 +5026,7 @@ Dois guardas na rua, um na casa. Espere... espere...
 
 TRAILERS
 ASSISTÊNCIA EM MORTE CRÍTICA PARA O ESQUADRÃO +{0:s}
-Muito bem, vamos correr. Quem vencer... não irá perder.
+Muito bem, vamos correr. Quem vencer... não será o perdedor.
 
 
 
@@ -5306,7 +5306,7 @@ Obrigado, Motoqueiro Fantasma. Recebido.
 Kit médico de capacidade maior. Aumentando a eficiência de alcance de cura de seus kit médicos distribuídos.
 Kit médico de alcance estendido
 CRIANDO UM ESQUADRÃO
-Por favor, Cala a boca, Sweets.
+Por favor, Cala a boca, Docinho.
 ESTA CONTA FOI BANIDA.
 Gamertag
 O que há neste caminhão, afinal?
@@ -6003,7 +6003,7 @@ DIFÍCIL
 AUTOEQUILIBRAR
 Atores secundários para capturas faciais
 Alvos destruídos. Cordileira limpa... Gladiador 5, câmbio.
-Se aprendeu algo, Sweets, é que sou superior... ½a você, em tudo o que realmente importa.
+Se isso te ensinou alguma coisa, Docinho, é que sou superior... ½A você, em tudo o que realmente importa.
 
 
 MELHORIA PARA EQUIPAMENTO MÉDICO SPECACT
@@ -6011,10 +6011,10 @@ WEB: ADIANTE
 OBJETIVO DESTRUÍDO +{0:s}
 WITH THE GOLD EDITION YOU ARE REWARDED FIVE UNIQUE WEAPONS, ONE PER KIT, TO USE WHILE PLAYING BATTLEFIELD ON XBOX LIVE. TO USE YOUR NEW WEAPONS JUST SELECT THEM IN THE SPAWN SCREEN IN GAME, BEFORE YOU TAKE ON THE ACTION.
 Dispare quando estiver pronto.
-Desçarregue.
+Descarregue.
 Desenvolvedores Web
 DESARMAR CARGA
-Isso não ceira bem.
+Isso não cheira bem.
 PRESSIONE PARA SELECIONAR ATAQUE COM MORTEIRO
 Ok, acho que tem uns 20 inimigos lá fora, elimine-os.
 Vamos acabar com eles.
@@ -6041,9 +6041,9 @@ Concentre fogo naquele alvo.
 MULTIJOGADOR
 UM JOGADOR
 Olho vivo.
-Puta que pariu, abaixem-se! De baixo da casa!
+Puta que pariu, abaixem-se! Pra baixo da casa!
 
-Eh... Sim, há muitos escombros na estrada, ½podem ser explosivos. Devagar, não podemos arriscar-nos.
+Eh... Sim, há muitos escombros na estrada, ½podem ser explosivos. Devagar, não podemos nos arriscar.
 Entendido, Lima Charlie, não vejo movimento lá em baixo...
 Este código de registro já está em uso.
 {0:s}<FUZIL DE ASSALTO AEK-971 VINTOVKA>
@@ -6051,7 +6051,7 @@ Havoks inimigos!
 Fredrik Ulfves
 Caralho! Ele detonou o caminhão!
 
-Adaga 2-2, é melhor se proteger.
+Adaga 2-2, Então é melhor se proteger, hein?.
 INFO
 SAIR DO JOGO
 {0:s}<FUZIL DE ASSALTO KRINKOV AKS-74U>
