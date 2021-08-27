@@ -584,7 +584,7 @@ Beleza, espero que consigamos algumas respostas nesse barco, do contrário½todo
 Radio DJ
 CONTINUAR
 Hum, eles estão usando esses capturadores para localizar o Sangre de Toro.
-Bem, acho que teremos que correr atrás disso. Motoqueiro Fantasma, aqui é Bravo 2-Two,½você pode checar essa frequência, Zero Um Um Alpha?
+Bem, acho que teremos que correr atrás disso. Motoqueiro Fantasma, aqui é Bravo 2-2,½você pode checar essa frequência, Zero Um Um Alpha?
 
 OUT
 NOV
@@ -5221,8 +5221,8 @@ O M16A2, um fuzil de assalto com drágeas para 3 disparos fabricado nos EUA, inc
 Originalmente desenvolvido para usar os cartuchos Magnum cal. 30-06, a câmara foi refeita para usar munição de 7.62mm. O que não reduz o alcance ou o poder de detenção.  O M24 ainda é popular aos Franco atiradores do mundo todo.
 Lança-chamas portátil capaz de produzir um jato de queima de combustível
 Lança-chamas portátil capaz de produzir um jato de combustível em chamas. Ideal para limpar bunkers e outros espaços apertados.
-Utilizando elementos desenvolvidos na MG42 da 2ª GM, o M60 foi lançado em 1957 e tem sido o cavalo de batalha de todo o corpo militar americano.  It has gone through several modifications but is slowly being phased out by the M240.
 O Patton foi o principal tanque de batalha dos Estados Unidos durante o período da Guerra Fria e o M48 foi o principal MBT da Guerra do Vietnã.
+Utilizando elementos desenvolvidos na MG42 da 2ª GM, o M60 foi lançado em 1957 e tem sido o cavalo de batalha de todo o corpo militar americano.
 Uma versão moderna da MG42 da 2ª GM, o MG3 está presente em mais de 20 países devido ao seu desenho simples e excelente desempenho. Com 1.000 balas por minuto, o MG3 é um incrível multiplicador de força. Seu desenho segue firme por mais de 70 anos.
 Uma ferramenta para exploração e recolhimento de inteligência em tempo real, este dispositivo portátil de alta tecnologia foi criado para detectar mesmo uma movimentação mínima alertando que o estiver usando quando um inimigo se aproximar a pé ou em um veículo.
 Este barco de patrulha leve tem alta velocidade e capacidade de manobra, desenvolvido para inserção/extração, tiro de apoio e reconhecimento de ameaças de nível baixo a médio.  Armado com 2 lança granadas de 20mm. Operado por uma tripulação de 4 pessoas.½
@@ -6805,7 +6805,7 @@ Sim...
 Inclusive já haviam previsto o número de baixas...
 Acho que eles precisavam ter certeza do que a arma podia fazer.
 Espere!
-Certo, inicie este código... Sierra Foxtrot um zero seve nove.
+Certo, inicie este código... Sierra Foxtrot um zero sete nove.
 Este é um prefixo militar americano, mas não indica nada que faça referência à nossa evacuação.
 O que mais?
 Difícil dizer...
