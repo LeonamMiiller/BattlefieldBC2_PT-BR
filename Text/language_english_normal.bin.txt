@@ -5485,7 +5485,7 @@ Bravo 2, aqui é Bravo 2 Comando, pode me ouvir?
 Repetindo... Bravo 2, aqui é Bravo 2 Comando, pode me ouvir?
 
 DETALHES DO VEÍCULO
-Olhe, quadriciclos! Uh, Flynn, você consegue dirigir?
+Vejam, quadriciclos! Uh, Flynn, você está bem pra andar?
 
 SOLDADOS
 Explosivos plásticos capazes de aderir à maioria das superfícies. É detonado à distância e leva um disparador à prova de erro.½
