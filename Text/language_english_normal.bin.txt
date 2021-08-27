@@ -920,12 +920,12 @@ Bem vá rápido, pois vamos dar o fora logo! Somos que nem imãs!½ Estamos prat
 BARRAS DE OURO ACHADAS
 Eu vou o mais rápido possível! Que merda, tem maluco em todo o canto!
 ESTAÇÕES M-COM
-Bem, alguém mande-os.
+Bem, alguém os enviou.
 G3
 WWII M1 GARAND
-M9 PISTOL
+PISTOLA M9
 Infantaria, a caminho!
-Yaw Right
+Guinada a direita
 Designer Adicionais
 CONTROLES
 Acabe com isso agora!
@@ -4918,7 +4918,7 @@ GUERRA FRIA
 Metralhadora automática leve. 200 balas. 800rpm. Precisão média. Alcance longo. Poder médio. Mobilidade baixa. Recuo médio.
 Delicado explosivo desenvolvido para produzir mais energia e dano.
 Pronto!
-JOYSTICKS VEIC. TERR.
+JOYSTICKS VEÍC. TERR.
 REFRIGERANDO...
 SUICÍDIO {0:s}
 Descer avião não tripulado
