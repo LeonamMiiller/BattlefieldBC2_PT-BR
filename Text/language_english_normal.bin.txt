@@ -6060,21 +6060,21 @@ Marcus Fritze
 Isso, fizeram um bom trabalho arrebentando esses caras. Temos mais um objetivo. ½Essa é a última rota de fuga. ½Temos que avançar, assegurar o assentamento e a estrada que o atravessa.
 
 
-Ah, ótimo, quem precisa comer e desçansar? Nem preciso mijar. ½Deixe-me abrir este respiradouro...
-Legal. Acabo de me borrar.
-Se conseguirmos chegar...
+Ah, ótimo, quem precisa comer e desçansar? Nem preciso mijar. ½Deixe-me apenas abrir a ventilação...
+Legal. Acabo de mijar nas calças.
+Se conseguirmos voltar...
 Chegamos tarde.
-Metralhadora, acima, às 3!
+Metralhadora, acima, às 3 horas!
 Animador chefe
 Aqui é Bravo 2, temos o veículo alvo. Disparam tiros de todos os lados, estamos sob ataque!
 
 PRESSIONE START PARA COMEÇAR
 METRALHADOREAS LEVES
-NOMES
+PLACAS
 {0:s}<MINA ANTITANQUE>
 ONLINE
 Coordenador de localização
-A substituta moderna da metralhadora de cal. 50 "Ma Deuce" do exército americano. Mais leve que a M2, mas ainda muito usada em missões de posicionamento.
+A substituta moderna da metralhadora de calibre .50 "Ma Deuce" do exército americano. Mais leve que a M2, mas ainda muito usada em missões de posicionamento.
 Des. chefe de objetos e edifícios
 REPAROS PARA PRÓX. NÍV.
 NOVA CAMPANHA
@@ -6083,7 +6083,7 @@ Mais inimigos na rua!
 Técnico chefe de CQ
 CONTEÚDO DO EQUIPAMENTO
 LISTA DE AMIGOS
-Continuam avançando! Faça algo, Docinho!
+Eles continuam avançando! Faça algo, Docinho!
 Arnold Renderer
 LIBERANDO ARMA‚
 OPÇÕES
@@ -6093,7 +6093,7 @@ Entendido, Sargento!
 Beleza, consegui. Pres!
 Está vindo da colina! Vamos! Vamos! Vamos!
 CONTINUAR CAMPANHA
-Belo trabalho. Talvez eu me aposente depois de tudo.
+Belo trabalho. Talvez eu me aposente afinal das contas.
 
 Göran Lundin
 Johan Tunkrans
@@ -6101,7 +6101,7 @@ Aqui você pode juntar-se a uma equipe ou criar a sua com seus amigos
 Na verdade o porto deve estar perto daqui. Esses canais devem nos levar até ele.
 ESPECIALIZAÇÃO DE SOLDADO LIBERADA: CARREGADOR DE ESCOPETA MAIOR
 ESPECIALIZAÇÃO DE SOLDADO LIBERADA: PROJÉTEIS DE CAL. 12
-Muitos alvos para mim, demais!
+Muitos alvos para mim, muitos mesmo!
 {0:s}<BMD-3 BAKHCHA AA>
 DISPOSITIVO DE ENGENHEIRO DESBLOQUEADO: MINA ANTI-TANQUE
 ARMA DE ASSALTO DESBLOQUEADA: FUSÍL STG.77 AUG
