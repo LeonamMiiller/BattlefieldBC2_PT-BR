@@ -2,7 +2,7 @@
 
 ## Instalação Xbox 360
 ### Instalação Manual
-#### Requistios
+#### Requisitos
 
 Versão Testada: 454108A8  
 Title Update #3  
@@ -25,7 +25,7 @@ Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 
 
 ## Instalação PS3
-#### Requistios
+#### Requisitos
 
 PS3 desbloqueado  
 
