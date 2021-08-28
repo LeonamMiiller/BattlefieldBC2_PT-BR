@@ -1,4 +1,5 @@
 # Projeto de tradução Battlefield Bad Company 2
+<https://github.com/LeonamMiiller/BattlefieldBC2_PT-BR/>
 
 ## Instalação Xbox 360
 ### Instalação Manual
