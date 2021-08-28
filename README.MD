@@ -14,9 +14,9 @@ Abra a ferramenta CON Manager na pasta "Ferramenta"
 Clique em " Open File".
 Abra o arquivo de Title Update #3 do Battlefield Bad Company 2.
 Clique com o Botão direito do Mouse em cima do arquivo "build_overlay-00.fbrb".
-Clique em "Replace File".
+Clique em "Replace File". 
 Escolha o arquivo traduzido "build_overlay-00.fbrb" na pasta "Traducao".
-Espere finalizar o processo.
+Espere finalizar o processo. 
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 
 ### Instalação Completa  
