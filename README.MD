@@ -5,11 +5,11 @@
 <summary> <b> Instalação Manual </b> </summary>
 <p> Requistios </p>
 
-Versão Testada: 454108A8
-Title Update #3 
-MD5 da TU03 = 03B7E11E3442366FE5E823D42FF926E0 
+<p>Versão Testada: 454108A8</p>
+<p>Title Update #3 </p>
+<p>MD5 da TU03 = 03B7E11E3442366FE5E823D42FF926E0 </p>
 
-<p> Processo </p>
+<b> Processo </b>
 
 <p>Abra a ferramenta CON Manager na pasta "Ferramenta"</p>
 <p>Clique em " Open File".</p>
