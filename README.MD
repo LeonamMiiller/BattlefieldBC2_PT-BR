@@ -24,3 +24,13 @@ Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 
 
+## Instalação PS3
+#### Requistios
+
+PS3 desbloqueado  
+
+### Processo
+
+Extraia o arquivo de tradução no seu pendrive formatado em FAT32, na pasta X:\packages\  
+Insira o Pendrive com a tradução no seu PS3 desbloqueado.  
+Faça a instalação do .pkg com a tradução.  
