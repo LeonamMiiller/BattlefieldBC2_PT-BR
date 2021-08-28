@@ -19,7 +19,6 @@ Escolha o arquivo traduzido "build_overlay-00.fbrb" na pasta "Traducao".
 Espere finalizar o processo.
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 
-
 ### Instalação Completa  
 
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
