@@ -36,6 +36,6 @@ PS3 desbloqueado
 
 ### Processo
 
-Extraia o arquivo de tradução correspontente a versão do seu jogo em um pendrive formatado em FAT32, na pasta raíz do pendrive
+Extraia o arquivo de tradução correspondente a versão do seu jogo em um pendrive formatado em FAT32, na pasta raíz do pendrive
 Insira o Pendrive com a tradução no seu PS3 desbloqueado.  
 Faça a instalação do .pkg com a tradução.  
