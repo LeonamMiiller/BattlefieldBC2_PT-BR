@@ -3,6 +3,7 @@
 
 ## Instalação Xbox 360
 ### Instalação Manual
+[Download:](https://t.me/traducoesbw/105)
 #### Requisitos
 
 Versão Testada: 454108A8  
@@ -21,11 +22,14 @@ Espere finalizar o processo.
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.  
 
 ### Instalação Completa  
+[Download:](https://t.me/traducoesbw/106)
 
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 
 
 ## Instalação PS3
+[Download:] (https://t.me/traducoesbw/107)
+
 #### Requisitos
 
 PS3 desbloqueado  
