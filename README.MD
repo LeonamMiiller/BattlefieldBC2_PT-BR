@@ -3,7 +3,7 @@
 
 ## Instalação Xbox 360
 ### Instalação Manual
-[Download:](https://t.me/traducoesbw/105)
+[Download Xbox360 instalação Manual](https://t.me/traducoesbw/105)
 #### Requisitos
 
 Versão Testada: 454108A8  
@@ -22,13 +22,13 @@ Espere finalizar o processo.
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.  
 
 ### Instalação Completa  
-[Download:](https://t.me/traducoesbw/106)
+[Download Xbox360 Instalação Completa](https://t.me/traducoesbw/106)
 
 Insira o Title Update #3 com a tradução no seu Xbox360 da forma que preferir.
 
 
 ## Instalação PS3
-[Download:] (https://t.me/traducoesbw/107)
+[Download PS3](https://t.me/traducoesbw/107)
 
 #### Requisitos
 
@@ -36,6 +36,6 @@ PS3 desbloqueado
 
 ### Processo
 
-Extraia o arquivo de tradução no seu pendrive formatado em FAT32, na pasta X:\packages\  
+Extraia o arquivo de tradução correspontente a versão do seu jogo em um pendrive formatado em FAT32, na pasta raíz do pendrive
 Insira o Pendrive com a tradução no seu PS3 desbloqueado.  
 Faça a instalação do .pkg com a tradução.  
